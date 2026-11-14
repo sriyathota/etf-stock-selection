@@ -1,0 +1,61 @@
+import numpy as np
+import pandas as pd
+import yfinance as yf
+from sklearn.manifold import TSNE
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+
+def get_tsne_feature_selection(returns_df, stocks_select=5):
+    # 1. Transpose data: t-SNE usually embeds 'samples/datapoints'.
+    # To select 'features' (stocks), we treat stocks as the datapoints on the gaussian distribution.
+    # Shape becomes: (n_stocks, n_days)
+    X = returns_df.T
+    X_scaled = StandardScaler().fit_transform(X)
+
+    # 2. t-SNE Embedding
+    # The perplexity will be a parameter based on further calculations and how many stocks we are using. I will demo with 5
+    tsne = TSNE(
+        n_components=2,
+        perplexity=min(5, len(X)-1),
+        init='pca',
+        learning_rate='auto',
+        random_state=42
+    )
+    X_embedded = tsne.fit_transform(X_scaled)
+
+    # 3. K-Means Clustering on the Map
+    # This groups stocks that have similar "non-linear DNA"
+    kmeans = KMeans(n_clusters=stocks_select, n_init=10, random_state=42)
+    cluster_labels = kmeans.fit_predict(X_embedded)
+    centroids = kmeans.cluster_centers_
+
+    # 4. Feature Selection: Pick the stock closest to each cluster center
+    selected_indices = []
+    for i in range(stocks_select):
+        cluster_indices = np.where(cluster_labels == i)[0]
+        cluster_points = X_embedded[cluster_indices]
+
+        # Find the point in this cluster closest to the centroid
+        distances = np.linalg.norm(cluster_points - centroids[i], axis=1)
+        best_match_within_cluster = cluster_indices[np.argmin(distances)]
+        selected_indices.append(best_match_within_cluster)
+
+    return selected_indices, X_embedded
+
+#Trial run
+if __name__ == "__main__":
+    #Trial stocks
+    tickers = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'NVDA', 'TSLA', 'AVGO', 'COST', 'ADBE']
+
+    # Fetch data
+    data = yf.download(tickers, start="2023-01-01", end="2024-01-01")['Close']
+    returns = data.pct_change().dropna()
+
+    # Run Selection
+    n_target = 4
+    indices, embedding = get_tsne_feature_selection(returns, stocks_select=n_target)
+
+    print(f"✅ t-SNE Feature Selection Complete")
+    print("-" * 40)
+    print(f"Selected Indices: {indices}")
+    print(f"Representative Tickers: {returns.columns[indices].tolist()}")

@@ -1,0 +1,103 @@
+Symbol,Description,Portfolio Weight,Shares Held,Market Value
+NVDA,NVIDIA Corp,9.72%,204.2M,$37.8B
+MSFT,Microsoft Corp,8.42%,62.5M,$32.7B
+AAPL,Apple Inc,8.23%,124.7M,$32.0B
+AVGO,Broadcom Inc,5.66%,65.4M,$22.0B
+AMZN,Amazon.com Inc,5.11%,89.6M,$19.9B
+TSLA,Tesla Inc,3.41%,30.6M,$13.3B
+META,Meta Platforms Inc Class A,3.34%,18.2M,$13.0B
+GOOGL,Alphabet Inc Class A,3.09%,48.9M,$12.0B
+GOOG,Alphabet Inc Class C,2.90%,45.6M,$11.3B
+NFLX,Netflix Inc,2.69%,8.8M,$10.5B
+PLTR,Palantir Technologies Inc Ordinary Share...,2.20%,47.0M,$8.6B
+COST,Costco Wholesale Corp,2.16%,9.2M,$8.4B
+AMD,Advanced Micro Devices Inc,1.83%,33.6M,$7.1B
+CSCO,Cisco Systems Inc,1.45%,81.9M,$5.6B
+TMUS,T-Mobile US Inc,1.36%,23.3M,$5.3B
+LIN,Linde PLC,1.17%,9.7M,$4.6B
+MU,Micron Technology Inc,1.11%,23.1M,$4.3B
+SHOP,Shopify Inc Registered Shs -A- Subord Vt...,1.05%,25.2M,$4.1B
+PEP,PepsiCo Inc,1.03%,28.3M,$4.0B
+APP,AppLovin Corp Ordinary Shares - Class A,1.03%,6.4M,$4.0B
+INTU,Intuit Inc,0.98%,5.8M,$3.8B
+QCOM,Qualcomm Inc,0.95%,22.3M,$3.7B
+LRCX,Lam Research Corp,0.94%,26.2M,$3.7B
+AMAT,Applied Materials Inc,0.90%,16.5M,$3.5B
+BKNG,Booking Holdings Inc,0.90%,670.1K,$3.5B
+INTC,Intel Corp,0.87%,90.5M,$3.4B
+TXN,Texas Instruments Inc,0.86%,18.8M,$3.3B
+AMGN,Amgen Inc,0.85%,11.1M,$3.3B
+ISRG,Intuitive Surgical Inc,0.84%,7.4M,$3.3B
+ADBE,Adobe Inc,0.79%,8.8M,$3.1B
+GILD,Gilead Sciences Inc,0.77%,25.7M,$3.0B
+KLAC,KLA Corp,0.76%,2.7M,$3.0B
+PANW,Palo Alto Networks Inc,0.75%,13.8M,$2.9B
+HON,Honeywell International Inc,0.71%,13.1M,$2.7B
+CRWD,CrowdStrike Holdings Inc Class A,0.65%,5.2M,$2.5B
+ADP,Automatic Data Processing Inc,0.63%,8.4M,$2.5B
+ADI,Analog Devices Inc,0.61%,10.2M,$2.4B
+CMCSA,Comcast Corp Class A,0.60%,76.1M,$2.3B
+CEG,Constellation Energy Corp,0.60%,6.5M,$2.3B
+DASH,DoorDash Inc Ordinary Shares - Class A,0.59%,8.3M,$2.3B
+MELI,MercadoLibre Inc,0.59%,1.0M,$2.3B
+VRTX,Vertex Pharmaceuticals Inc,0.56%,5.3M,$2.2B
+CDNS,Cadence Design Systems Inc,0.50%,5.6M,$1.9B
+SBUX,Starbucks Corp,0.49%,23.5M,$1.9B
+SNPS,Synopsys Inc,0.47%,3.8M,$1.8B
+PDD,PDD Holdings Inc ADR,0.47%,13.8M,$1.8B
+ORLY,O'Reilly Automotive Inc,0.46%,17.5M,$1.8B
+MSTR,Strategy Inc Class A,0.46%,5.5M,$1.8B
+ASML,ASML Holding NV ADR,0.45%,1.8M,$1.8B
+MDLZ,Mondelez International Inc Class A,0.43%,26.8M,$1.7B
+CTAS,Cintas Corp,0.43%,8.3M,$1.7B
+MRVL,Marvell Technology Inc,0.40%,17.8M,$1.6B
+MAR,Marriott International Inc Class A,0.39%,5.6M,$1.5B
+PYPL,PayPal Holdings Inc,0.38%,19.8M,$1.5B
+TRI,Thomson Reuters Corp,0.36%,9.3M,$1.4B
+CSX,CSX Corp,0.36%,38.5M,$1.4B
+ADSK,Autodesk Inc,0.36%,4.4M,$1.4B
+MNST,Monster Beverage Corp,0.35%,20.2M,$1.4B
+FTNT,Fortinet Inc,0.35%,15.8M,$1.3B
+AEP,American Electric Power Co Inc,0.34%,11.1M,$1.3B
+REGN,Regeneron Pharmaceuticals Inc,0.32%,2.2M,$1.3B
+AXON,Axon Enterprise Inc,0.30%,1.6M,$1.2B
+FAST,Fastenal Co,0.29%,23.7M,$1.1B
+ROP,Roper Technologies Inc,0.29%,2.2M,$1.1B
+NXPI,NXP Semiconductors NV,0.29%,5.2M,$1.1B
+WDAY,Workday Inc Class A,0.27%,4.5M,$1.0B
+PCAR,PACCAR Inc,0.27%,10.9M,$1.0B
+EA,Electronic Arts Inc,0.27%,5.2M,$1.0B
+DDOG,Datadog Inc Class A,0.27%,6.7M,$1.0B
+IDXX,IDEXX Laboratories Inc,0.27%,1.7M,$1.0B
+ABNB,Airbnb Inc Ordinary Shares - Class A,0.27%,8.9M,$1.1B
+AZN,AstraZeneca PLC ADR,0.27%,12.1M,$1.0B
+ROST,Ross Stores Inc,0.26%,6.8M,$1.0B
+TTWO,Take-Two Interactive Software Inc,0.26%,3.8M,$993.5M
+XEL,Xcel Energy Inc,0.26%,12.2M,$1.0B
+BKR,Baker Hughes Co Class A,0.25%,20.4M,$990.2M
+EXC,Exelon Corp,0.25%,20.9M,$977.1M
+ZS,Zscaler Inc,0.24%,3.2M,$942.4M
+WBD,Warner Bros. Discovery Inc Ordinary Shar...,0.24%,51.2M,$952.1M
+PAYX,Paychex Inc,0.24%,7.4M,$944.4M
+FANG,Diamondback Energy Inc,0.23%,6.0M,$891.3M
+CPRT,Copart Inc,0.23%,20.0M,$884.2M
+--,Coca-Cola Europacific Partners PLC,0.21%,9.5M,$835.2M
+CHTR,Charter Communications Inc Class A,0.20%,2.8M,$780.8M
+MCHP,Microchip Technology Inc,0.19%,11.2M,$724.8M
+CSGP,CoStar Group Inc,0.18%,8.8M,$706.0M
+GEHC,GE HealthCare Technologies Inc Common St...,0.18%,9.4M,$703.2M
+KDP,Keurig Dr Pepper Inc,0.18%,28.1M,$711.4M
+CTSH,Cognizant Technology Solutions Corp Clas...,0.18%,10.1M,$686.0M
+--,Cash,0.18%,693.1M,$693.1M
+VRSK,Verisk Analytics Inc,0.18%,2.9M,$710.9M
+KHC,The Kraft Heinz Co,0.16%,24.5M,$622.1M
+ODFL,Old Dominion Freight Line Inc Ordinary S...,0.16%,4.3M,$614.3M
+DXCM,DexCom Inc,0.14%,8.1M,$535.4M
+TEAM,Atlassian Corp Class A,0.13%,3.4M,$516.1M
+TTD,The Trade Desk Inc Class A,0.13%,9.2M,$492.9M
+ARM,ARM Holdings PLC ADR,0.12%,2.8M,$450.0M
+BIIB,Biogen Inc,0.12%,3.0M,$461.4M
+CDW,CDW Corp,0.11%,2.7M,$420.7M
+LULU,Lululemon Athletica Inc,0.11%,2.4M,$410.8M
+ON,ON Semiconductor Corp,0.10%,8.5M,$407.3M
+GFS,GLOBALFOUNDRIES Inc,0.10%,11.5M,$400.6M

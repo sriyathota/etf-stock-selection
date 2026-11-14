@@ -1,0 +1,2353 @@
+Symbol,Description,Portfolio Weight,Shares Held,Market Value
+NVDA,NVIDIA Corp,6.50%,729.0M,$127.0B
+MSFT,Microsoft Corp,6.06%,233.7M,$118.4B
+AAPL,Apple Inc,5.58%,469.7M,$109.0B
+AMZN,Amazon.com Inc,3.52%,300.5M,$68.8B
+META,Meta Platforms Inc Class A,2.58%,68.3M,$50.4B
+AVGO,Broadcom Inc,2.25%,147.9M,$44.0B
+GOOGL,Alphabet Inc Class A,1.99%,182.3M,$38.8B
+GOOG,Alphabet Inc Class C,1.60%,146.6M,$31.3B
+TSLA,Tesla Inc,1.47%,86.1M,$28.7B
+BRK/B,Berkshire Hathaway Inc Class B,1.44%,55.8M,$28.1B
+JPM,JPMorgan Chase & Co,1.30%,84.4M,$25.4B
+LLY,Eli Lilly and Co,1.01%,26.8M,$19.6B
+V,Visa Inc Class A,0.96%,53.1M,$18.7B
+NFLX,Netflix Inc,0.83%,13.4M,$16.2B
+XOM,Exxon Mobil Corp,0.79%,135.5M,$15.5B
+MA,Mastercard Inc Class A,0.78%,25.5M,$15.2B
+JNJ,Johnson & Johnson,0.69%,75.7M,$13.4B
+WMT,Walmart Inc,0.69%,138.4M,$13.4B
+COST,Costco Wholesale Corp,0.67%,14.0M,$13.2B
+HD,The Home Depot Inc,0.65%,31.3M,$12.7B
+ORCL,Oracle Corp,0.61%,52.9M,$12.0B
+ABBV,AbbVie Inc,0.60%,55.5M,$11.7B
+PG,Procter & Gamble Co,0.59%,73.7M,$11.6B
+PLTR,Palantir Technologies Inc Ordinary Share...,0.54%,67.6M,$10.6B
+BAC,Bank of America Corp,0.51%,198.0M,$10.0B
+CVX,Chevron Corp,0.51%,61.7M,$9.9B
+GE,GE Aerospace,0.45%,31.9M,$8.8B
+UNH,UnitedHealth Group Inc,0.45%,28.5M,$8.8B
+WFC,Wells Fargo & Co,0.43%,102.3M,$8.4B
+PM,Philip Morris International Inc,0.42%,48.9M,$8.2B
+AMD,Advanced Micro Devices Inc,0.42%,51.0M,$8.3B
+CSCO,Cisco Systems Inc,0.40%,112.1M,$7.7B
+KO,Coca-Cola Co,0.38%,108.3M,$7.5B
+CRM,Salesforce Inc,0.37%,28.6M,$7.3B
+ABT,Abbott Laboratories,0.37%,54.7M,$7.3B
+LIN,Linde PLC,0.36%,14.8M,$7.1B
+IBM,International Business Machines Corp,0.36%,29.2M,$7.1B
+MCD,McDonald's Corp,0.36%,22.5M,$7.1B
+GS,The Goldman Sachs Group Inc,0.35%,9.2M,$6.8B
+DIS,The Walt Disney Co,0.34%,56.5M,$6.7B
+T,AT&T Inc,0.34%,226.3M,$6.6B
+RTX,RTX Corp,0.34%,42.0M,$6.7B
+MRK,Merck & Co Inc,0.34%,79.0M,$6.6B
+PEP,PepsiCo Inc,0.33%,43.1M,$6.4B
+CAT,Caterpillar Inc,0.32%,14.8M,$6.2B
+UBER,Uber Technologies Inc,0.32%,65.8M,$6.2B
+NOW,ServiceNow Inc,0.31%,6.5M,$6.0B
+TMO,Thermo Fisher Scientific Inc,0.30%,11.9M,$5.8B
+TXN,Texas Instruments Inc,0.30%,28.6M,$5.8B
+BKNG,Booking Holdings Inc,0.29%,1.0M,$5.7B
+MS,Morgan Stanley,0.29%,37.8M,$5.7B
+INTU,Intuit Inc,0.28%,8.3M,$5.6B
+BA,Boeing Co,0.28%,23.7M,$5.6B
+QCOM,Qualcomm Inc,0.28%,34.5M,$5.5B
+SPGI,S&P Global Inc,0.28%,9.9M,$5.4B
+SCHW,Charles Schwab Corp,0.27%,54.3M,$5.2B
+GEV,GE Vernova Inc,0.27%,8.6M,$5.3B
+ISRG,Intuitive Surgical Inc,0.27%,11.3M,$5.3B
+VZ,Verizon Communications Inc,0.27%,119.3M,$5.3B
+ACN,Accenture PLC Class A,0.26%,19.7M,$5.1B
+AXP,American Express Co,0.26%,15.4M,$5.1B
+TJX,TJX Companies Inc,0.25%,35.1M,$4.8B
+AMGN,Amgen Inc,0.25%,16.9M,$4.9B
+BLK,BlackRock Inc,0.25%,4.4M,$4.9B
+BSX,Boston Scientific Corp,0.25%,46.5M,$4.9B
+ADBE,Adobe Inc,0.24%,13.4M,$4.8B
+NEE,NextEra Energy Inc,0.24%,64.7M,$4.7B
+--,Slcmt1142,0.23%,44.0M,$4.4B
+COF,Capital One Financial Corp,0.23%,20.1M,$4.6B
+PFE,Pfizer Inc,0.23%,178.8M,$4.4B
+PGR,Progressive Corp,0.23%,18.4M,$4.6B
+GILD,Gilead Sciences Inc,0.23%,39.1M,$4.4B
+LOW,Lowe's Companies Inc,0.23%,17.6M,$4.5B
+HON,Honeywell International Inc,0.23%,20.2M,$4.4B
+ANET,Arista Networks Inc,0.22%,31.6M,$4.3B
+ETN,Eaton Corp PLC,0.22%,12.3M,$4.3B
+SYK,Stryker Corp,0.22%,10.8M,$4.2B
+MU,Micron Technology Inc,0.21%,35.1M,$4.2B
+AMAT,Applied Materials Inc,0.21%,25.2M,$4.1B
+APH,Amphenol Corp Class A,0.21%,38.0M,$4.1B
+UNP,Union Pacific Corp,0.21%,18.8M,$4.2B
+DHR,Danaher Corp,0.21%,20.2M,$4.2B
+LRCX,Lam Research Corp,0.21%,40.2M,$4.0B
+DE,Deere & Co,0.20%,8.1M,$3.9B
+CMCSA,Comcast Corp Class A,0.20%,117.1M,$4.0B
+COP,ConocoPhillips,0.20%,39.7M,$3.9B
+ADI,Analog Devices Inc,0.20%,15.6M,$3.9B
+ADP,Automatic Data Processing Inc,0.20%,12.8M,$3.9B
+BX,Blackstone Inc,0.20%,22.9M,$3.9B
+PANW,Palo Alto Networks Inc,0.20%,21.0M,$4.0B
+MDT,Medtronic PLC,0.19%,40.3M,$3.7B
+APP,AppLovin Corp Ordinary Shares - Class A,0.19%,7.7M,$3.7B
+KLAC,KLA Corp,0.19%,4.2M,$3.6B
+WELL,Welltower Inc,0.18%,20.6M,$3.5B
+MO,Altria Group Inc,0.18%,53.0M,$3.6B
+SNPS,Synopsys Inc,0.18%,5.8M,$3.5B
+TMUS,T-Mobile US Inc,0.18%,14.3M,$3.6B
+CB,Chubb Ltd,0.17%,12.0M,$3.3B
+PLD,Prologis Inc,0.17%,29.1M,$3.3B
+LMT,Lockheed Martin Corp,0.17%,7.4M,$3.4B
+VRTX,Vertex Pharmaceuticals Inc,0.16%,8.1M,$3.2B
+CRWD,CrowdStrike Holdings Inc Class A,0.16%,7.4M,$3.2B
+CEG,Constellation Energy Corp,0.16%,9.9M,$3.1B
+PH,Parker Hannifin Corp,0.16%,4.0M,$3.1B
+ICE,Intercontinental Exchange Inc,0.16%,18.0M,$3.2B
+MMC,Marsh & McLennan Companies Inc,0.16%,15.5M,$3.2B
+SO,Southern Co,0.16%,34.6M,$3.2B
+SBUX,Starbucks Corp,0.16%,35.7M,$3.2B
+NKE,Nike Inc Class B,0.15%,37.0M,$2.9B
+INTC,Intel Corp,0.15%,123.5M,$3.0B
+TT,Trane Technologies PLC Class A,0.15%,7.0M,$2.9B
+BMY,Bristol-Myers Squibb Co,0.15%,64.0M,$3.0B
+CME,CME Group Inc Class A,0.15%,11.3M,$3.0B
+CVS,CVS Health Corp,0.15%,39.8M,$2.9B
+CDNS,Cadence Design Systems Inc,0.15%,8.6M,$3.0B
+AMT,American Tower Corp,0.15%,14.7M,$3.0B
+--,Mktliq 12/31/2049,0.15%,30.3M,$3.0B
+DUK,Duke Energy Corp,0.15%,24.4M,$3.0B
+KKR,KKR & Co Inc Ordinary Shares,0.15%,21.0M,$2.9B
+RCL,Royal Caribbean Group,0.14%,7.7M,$2.8B
+NOC,Northrop Grumman Corp,0.14%,4.5M,$2.7B
+ORLY,O'Reilly Automotive Inc,0.14%,26.9M,$2.8B
+MCK,McKesson Corp,0.14%,3.9M,$2.7B
+MSTR,Strategy Inc Class A,0.14%,8.0M,$2.7B
+MCO,Moodys Corp,0.13%,4.8M,$2.5B
+MSI,Motorola Solutions Inc,0.13%,5.2M,$2.5B
+MDLZ,Mondelez International Inc Class A,0.13%,40.7M,$2.5B
+MMM,3M Co,0.13%,16.9M,$2.6B
+TDG,TransDigm Group Inc,0.13%,1.8M,$2.5B
+DASH,DoorDash Inc Ordinary Shares - Class A,0.13%,10.7M,$2.6B
+NEM,Newmont Corp,0.13%,35.0M,$2.6B
+PNC,PNC Financial Services Group Inc,0.13%,12.4M,$2.6B
+CI,The Cigna Group,0.13%,8.4M,$2.5B
+HOOD,Robinhood Markets Inc Class A,0.13%,24.1M,$2.5B
+SHW,Sherwin-Williams Co,0.13%,7.1M,$2.6B
+RBLX,Roblox Corp Ordinary Shares - Class A,0.12%,18.8M,$2.3B
+BK,Bank of New York Mellon Corp,0.12%,22.5M,$2.4B
+SNOW,Snowflake Inc Ordinary Shares,0.12%,9.4M,$2.3B
+ELV,Elevance Health Inc,0.12%,7.1M,$2.3B
+EMR,Emerson Electric Co,0.12%,17.7M,$2.3B
+EQIX,Equinix Inc,0.12%,3.1M,$2.4B
+FI,Fiserv Inc,0.12%,17.4M,$2.4B
+USB,U.S. Bancorp,0.12%,48.9M,$2.4B
+CTAS,Cintas Corp,0.12%,10.8M,$2.3B
+CRH,CRH PLC,0.12%,21.2M,$2.4B
+AON,Aon PLC Class A,0.12%,6.5M,$2.4B
+GD,General Dynamics Corp,0.12%,7.2M,$2.3B
+AJG,Arthur J. Gallagher & Co,0.12%,8.1M,$2.4B
+ITW,Illinois Tool Works Inc,0.12%,8.7M,$2.3B
+HLT,Hilton Worldwide Holdings Inc,0.11%,7.5M,$2.1B
+HWM,Howmet Aerospace Inc,0.11%,12.7M,$2.2B
+HCA,HCA Healthcare Inc,0.11%,5.3M,$2.1B
+WMB,Williams Companies Inc,0.11%,38.4M,$2.2B
+JCI,Johnson Controls International PLC Regis...,0.11%,20.7M,$2.2B
+PYPL,PayPal Holdings Inc,0.11%,30.6M,$2.1B
+CL,Colgate-Palmolive Co,0.11%,25.5M,$2.1B
+ECL,Ecolab Inc,0.11%,8.0M,$2.2B
+EOG,EOG Resources Inc,0.11%,17.2M,$2.1B
+APD,Air Products and Chemicals Inc,0.11%,7.0M,$2.1B
+AZO,AutoZone Inc,0.11%,525.9K,$2.2B
+ADSK,Autodesk Inc,0.11%,6.7M,$2.1B
+NSC,Norfolk Southern Corp,0.10%,7.1M,$2.0B
+AEP,American Electric Power Co Inc,0.10%,16.8M,$1.9B
+CSX,CSX Corp,0.10%,59.0M,$1.9B
+TRV,The Travelers Companies Inc,0.10%,7.1M,$1.9B
+TFC,Truist Financial Corp,0.10%,41.1M,$1.9B
+UPS,United Parcel Service Inc Class B,0.10%,23.1M,$2.0B
+URI,United Rentals Inc,0.10%,2.0M,$2.0B
+VST,Vistra Corp,0.10%,10.7M,$2.0B
+FCX,Freeport-McMoRan Inc,0.10%,45.2M,$2.0B
+COIN,Coinbase Global Inc Ordinary Shares - Cl...,0.10%,6.3M,$1.9B
+NET,Cloudflare Inc,0.10%,9.3M,$1.9B
+REGN,Regeneron Pharmaceuticals Inc,0.10%,3.3M,$1.9B
+TEL,TE Connectivity PLC Registered Shares,0.10%,9.3M,$1.9B
+ZTS,Zoetis Inc Class A,0.10%,12.6M,$2.0B
+FLUT,Flutter Entertainment PLC,0.09%,5.6M,$1.7B
+GM,General Motors Co,0.09%,30.2M,$1.8B
+O,Realty Income Corp,0.09%,28.4M,$1.7B
+CMG,Chipotle Mexican Grill Inc,0.09%,42.4M,$1.8B
+APO,"Apollo Asset Management, Inc. Ordinary S...",0.09%,12.6M,$1.7B
+ALL,Allstate Corp,0.09%,8.3M,$1.7B
+ALNY,Alnylam Pharmaceuticals Inc,0.09%,4.1M,$1.8B
+COR,Cencora Inc,0.09%,5.8M,$1.7B
+AFL,Aflac Inc,0.09%,17.0M,$1.8B
+CMI,Cummins Inc,0.09%,4.3M,$1.7B
+ROP,Roper Technologies Inc,0.09%,3.4M,$1.8B
+DLR,Digital Realty Trust Inc,0.09%,10.6M,$1.8B
+SPG,Simon Property Group Inc,0.09%,9.7M,$1.8B
+SRE,Sempra,0.09%,20.5M,$1.7B
+SLB,SLB,0.09%,47.2M,$1.7B
+FAST,Fastenal Co,0.09%,36.1M,$1.8B
+MAR,Marriott International Inc Class A,0.09%,6.9M,$1.8B
+MRVL,Marvell Technology Inc,0.09%,27.2M,$1.7B
+MPC,Marathon Petroleum Corp,0.09%,9.7M,$1.7B
+PWR,Quanta Services Inc,0.09%,4.7M,$1.8B
+PSX,Phillips 66,0.09%,12.8M,$1.7B
+LHX,L3Harris Technologies Inc,0.08%,5.9M,$1.6B
+KMI,Kinder Morgan Inc Class P,0.08%,59.4M,$1.6B
+IDXX,IDEXX Laboratories Inc,0.08%,2.5M,$1.6B
+FTNT,Fortinet Inc,0.08%,20.4M,$1.6B
+WDAY,Workday Inc Class A,0.08%,6.8M,$1.6B
+FDX,FedEx Corp,0.08%,6.8M,$1.6B
+D,Dominion Energy Inc,0.08%,26.8M,$1.6B
+EW,Edwards Lifesciences Corp,0.08%,18.4M,$1.5B
+RSG,Republic Services Inc,0.08%,6.4M,$1.5B
+DHI,D.R. Horton Inc,0.08%,8.7M,$1.5B
+ROST,Ross Stores Inc,0.08%,10.3M,$1.5B
+CTVA,Corteva Inc,0.08%,21.5M,$1.6B
+GLW,Corning Inc,0.08%,24.2M,$1.6B
+ABNB,Airbnb Inc Ordinary Shares - Class A,0.08%,12.3M,$1.6B
+AMP,Ameriprise Financial Inc,0.08%,3.0M,$1.5B
+AIG,American International Group Inc,0.08%,18.1M,$1.5B
+WCN,Waste Connections Inc,0.08%,8.1M,$1.5B
+VRT,Vertiv Holdings Co Class A,0.08%,12.0M,$1.5B
+VLO,Valero Energy Corp,0.08%,9.8M,$1.5B
+LNG,Cheniere Energy Inc,0.08%,6.6M,$1.6B
+PCAR,PACCAR Inc,0.08%,16.5M,$1.7B
+OKE,ONEOK Inc,0.08%,19.6M,$1.5B
+CVNA,Carvana Co Class A,0.08%,4.0M,$1.5B
+CBRE,CBRE Group Inc Class A,0.08%,9.4M,$1.5B
+BKR,Baker Hughes Co Class A,0.07%,31.1M,$1.4B
+AME,AMETEK Inc,0.07%,7.3M,$1.3B
+CPRT,Copart Inc,0.07%,27.3M,$1.3B
+CCI,Crown Castle Inc,0.07%,13.7M,$1.4B
+DDOG,Datadog Inc Class A,0.07%,9.5M,$1.3B
+EBAY,eBay Inc,0.07%,14.5M,$1.3B
+EA,Electronic Arts Inc,0.07%,7.9M,$1.4B
+EXC,Exelon Corp,0.07%,31.7M,$1.4B
+FERG,Ferguson Enterprises Inc,0.07%,6.2M,$1.4B
+XYZ,Block Inc Class A,0.07%,17.5M,$1.4B
+TGT,Target Corp,0.07%,14.3M,$1.4B
+GWW,W.W. Grainger Inc,0.07%,1.4M,$1.5B
+XEL,Xcel Energy Inc,0.07%,18.1M,$1.3B
+YUM,Yum Brands Inc,0.07%,8.7M,$1.3B
+F,Ford Motor Co,0.07%,122.8M,$1.4B
+KR,The Kroger Co,0.07%,18.9M,$1.3B
+KMB,Kimberly-Clark Corp,0.07%,10.4M,$1.3B
+MSCI,MSCI Inc,0.07%,2.3M,$1.3B
+PAYX,Paychex Inc,0.07%,10.2M,$1.4B
+PEG,Public Service Enterprise Group Inc,0.07%,15.7M,$1.3B
+PSA,Public Storage,0.07%,5.0M,$1.5B
+MNST,Monster Beverage Corp,0.07%,21.5M,$1.3B
+NDAQ,Nasdaq Inc,0.07%,15.3M,$1.5B
+MET,MetLife Inc,0.07%,17.9M,$1.5B
+MCHP,Microchip Technology Inc,0.06%,17.0M,$1.1B
+MPWR,Monolithic Power Systems Inc,0.06%,1.4M,$1.2B
+PRU,Prudential Financial Inc,0.06%,11.1M,$1.2B
+MLM,Martin Marietta Materials Inc,0.06%,1.9M,$1.2B
+KVUE,Kenvue Inc,0.06%,60.4M,$1.3B
+KDP,Keurig Dr Pepper Inc,0.06%,40.6M,$1.2B
+HIG,The Hartford Insurance Group Inc,0.06%,8.9M,$1.2B
+HUM,Humana Inc,0.06%,3.8M,$1.2B
+RMD,ResMed Inc,0.06%,4.6M,$1.3B
+A,Agilent Technologies Inc,0.06%,9.0M,$1.1B
+ROK,Rockwell Automation Inc,0.06%,3.5M,$1.2B
+ARES,Ares Management Corp Ordinary Shares - C...,0.06%,6.4M,$1.2B
+TRGP,Targa Resources Corp,0.06%,6.8M,$1.1B
+SYY,Sysco Corp,0.06%,15.2M,$1.2B
+TTWO,Take-Two Interactive Software Inc,0.06%,5.4M,$1.3B
+CAH,Cardinal Health Inc,0.06%,7.5M,$1.1B
+XYL,Xylem Inc,0.06%,7.7M,$1.1B
+DELL,Dell Technologies Inc Ordinary Shares - ...,0.06%,9.2M,$1.1B
+DAL,Delta Air Lines Inc,0.06%,20.5M,$1.3B
+GRMN,Garmin Ltd,0.06%,5.1M,$1.2B
+STX,Seagate Technology Holdings PLC,0.06%,6.7M,$1.1B
+FICO,Fair Isaac Corp,0.06%,727.3K,$1.1B
+FIS,Fidelity National Information Services I...,0.06%,16.5M,$1.2B
+ETR,Entergy Corp,0.06%,13.6M,$1.2B
+CSGP,CoStar Group Inc,0.06%,13.3M,$1.2B
+ED,Consolidated Edison Inc,0.06%,11.4M,$1.1B
+CTSH,Cognizant Technology Solutions Corp Clas...,0.06%,15.5M,$1.1B
+VRSK,Verisk Analytics Inc,0.06%,4.4M,$1.2B
+VEEV,Veeva Systems Inc Class A,0.06%,4.6M,$1.2B
+VMC,Vulcan Materials Co,0.06%,4.2M,$1.2B
+UAL,United Airlines Holdings Inc,0.06%,10.3M,$1.1B
+OXY,Occidental Petroleum Corp,0.06%,23.2M,$1.1B
+NUE,Nucor Corp,0.06%,7.3M,$1.1B
+ODFL,Old Dominion Freight Line Inc Ordinary S...,0.05%,6.0M,$903.9M
+OTIS,Otis Worldwide Corp Ordinary Shares,0.05%,12.4M,$1.1B
+VTR,Ventas Inc,0.05%,14.2M,$965.4M
+PCG,PG&E Corp,0.05%,67.3M,$1.0B
+WEC,WEC Energy Group Inc,0.05%,10.0M,$1.1B
+VICI,VICI Properties Inc Ordinary Shares,0.05%,30.2M,$1.0B
+WAB,Westinghouse Air Brake Technologies Corp,0.05%,5.4M,$1.0B
+WDC,Western Digital Corp,0.05%,11.0M,$882.4M
+EFX,Equifax Inc,0.05%,3.9M,$962.4M
+FITB,Fifth Third Bancorp,0.05%,21.0M,$960.2M
+EXR,Extra Space Storage Inc,0.05%,6.7M,$959.3M
+GEHC,GE HealthCare Technologies Inc Common St...,0.05%,13.7M,$1.0B
+WTW,Willis Towers Watson PLC,0.05%,3.1M,$1.0B
+EQT,EQT Corp,0.05%,18.8M,$976.6M
+DD,DuPont de Nemours Inc,0.05%,11.8M,$911.1M
+DXCM,DexCom Inc,0.05%,12.3M,$929.0M
+FANG,Diamondback Energy Inc,0.05%,6.0M,$888.5M
+ACGL,Arch Capital Group Ltd,0.05%,11.2M,$1.0B
+SYF,Synchrony Financial,0.05%,12.0M,$912.7M
+STT,State Street Corp,0.05%,8.5M,$979.7M
+TSCO,Tractor Supply Co,0.05%,16.7M,$1.0B
+ADM,Archer-Daniels-Midland Co,0.05%,15.1M,$946.1M
+AWK,American Water Works Co Inc,0.05%,6.1M,$881.8M
+TEAM,Atlassian Corp Class A,0.05%,5.2M,$923.8M
+CCL,Carnival Corp,0.05%,33.0M,$1.1B
+BR,Broadridge Financial Solutions Inc,0.05%,3.7M,$944.3M
+SOFI,SoFi Technologies Inc Ordinary Shares,0.05%,35.2M,$898.1M
+DVN,Devon Energy Corp,0.04%,20.2M,$728.9M
+DTE,DTE Energy Co,0.04%,5.9M,$802.2M
+DRI,Darden Restaurants Inc,0.04%,3.7M,$761.2M
+CPAY,Corpay Inc,0.04%,2.1M,$687.2M
+STZ,Constellation Brands Inc Class A,0.04%,4.5M,$726.0M
+FIX,Comfort Systems USA Inc,0.04%,1.1M,$780.6M
+EXE,Expand Energy Corp Ordinary Shares - New,0.04%,7.1M,$689.1M
+CHTR,Charter Communications Inc Class A,0.04%,2.9M,$762.1M
+CHD,Church & Dwight Co Inc,0.04%,7.8M,$722.7M
+CINF,Cincinnati Financial Corp,0.04%,4.9M,$756.3M
+BRO,Brown & Brown Inc,0.04%,8.7M,$846.7M
+CBOE,Cboe Global Markets Inc,0.04%,3.3M,$777.9M
+CNP,CenterPoint Energy Inc,0.04%,20.5M,$772.9M
+ATO,Atmos Energy Corp,0.04%,5.0M,$828.9M
+ALAB,Astera Labs Inc,0.04%,4.2M,$756.7M
+AVB,AvalonBay Communities Inc,0.04%,4.5M,$875.7M
+BRK/A,Berkshire Hathaway Inc Class A,0.04%,1.2K,$877.6M
+SBAC,SBA Communications Corp Class A,0.04%,3.4M,$693.3M
+AEE,Ameren Corp,0.04%,8.7M,$866.4M
+AFRM,Affirm Holdings Inc Ordinary Shares - Cl...,0.04%,8.0M,$706.9M
+GIS,General Mills Inc,0.04%,17.3M,$851.3M
+FE,FirstEnergy Corp,0.04%,17.3M,$753.2M
+EQR,Equity Residential,0.04%,11.3M,$749.2M
+EME,EMCOR Group Inc,0.04%,1.4M,$872.3M
+EXPE,Expedia Group Inc,0.04%,3.8M,$821.3M
+ES,Eversource Energy,0.04%,11.6M,$740.3M
+TTD,The Trade Desk Inc Class A,0.04%,14.1M,$770.3M
+DG,Dollar General Corp,0.04%,6.9M,$754.2M
+DLTR,Dollar Tree Inc,0.04%,6.3M,$685.6M
+DOV,Dover Corp,0.04%,4.3M,$770.7M
+DKNG,DraftKings Inc Ordinary Shares - Class A,0.04%,14.8M,$712.1M
+TDY,Teledyne Technologies Inc,0.04%,1.5M,$792.9M
+LH,Labcorp Holdings Inc,0.04%,2.6M,$731.4M
+KHC,The Kraft Heinz Co,0.04%,26.1M,$728.9M
+LDOS,Leidos Holdings Inc,0.04%,4.0M,$732.4M
+LEN,Lennar Corp Class A,0.04%,6.5M,$870.2M
+K,Kellanova,0.04%,8.7M,$694.8M
+IP,International Paper Co,0.04%,16.6M,$825.0M
+ULTA,Ulta Beauty Inc,0.04%,1.4M,$699.5M
+TYL,Tyler Technologies Inc,0.04%,1.4M,$763.8M
+LYV,Live Nation Entertainment Inc,0.04%,5.1M,$857.4M
+LULU,Lululemon Athletica Inc,0.04%,3.4M,$694.9M
+HSY,The Hershey Co,0.04%,4.7M,$855.8M
+SW,Smurfit WestRock PLC,0.04%,16.4M,$778.2M
+STE,Steris PLC,0.04%,3.1M,$756.6M
+MKL,Markel Group Inc,0.04%,379.0K,$742.4M
+NTRA,Natera Inc,0.04%,4.1M,$688.0M
+NVR,NVR Inc,0.04%,87.1K,$707.2M
+MDB,MongoDB Inc Class A,0.04%,2.4M,$771.3M
+MTD,Mettler-Toledo International Inc,0.04%,653.1K,$849.7M
+PPG,PPG Industries Inc,0.04%,7.1M,$794.3M
+PPL,PPL Corp,0.04%,22.1M,$806.6M
+PTC,PTC Inc,0.04%,3.8M,$805.0M
+NTRS,Northern Trust Corp,0.04%,5.8M,$763.2M
+NTAP,NetApp Inc,0.04%,6.2M,$698.0M
+RDDT,Reddit Inc Class A Shares,0.04%,3.7M,$825.2M
+PHM,PulteGroup Inc,0.04%,6.3M,$831.7M
+PSTG,Pure Storage Inc Class A,0.04%,9.8M,$758.6M
+TROW,T. Rowe Price Group Inc,0.04%,6.9M,$745.5M
+VLTO,Veralto Corp,0.04%,7.4M,$785.7M
+VRSN,VeriSign Inc,0.04%,2.6M,$722.5M
+RF,Regions Financial Corp,0.04%,28.2M,$772.0M
+WBD,Warner Bros. Discovery Inc Ordinary Shar...,0.04%,70.1M,$816.1M
+WST,West Pharmaceutical Services Inc,0.03%,2.3M,$557.6M
+WAT,Waters Corp,0.03%,1.9M,$565.4M
+TSN,Tyson Foods Inc Class A,0.03%,9.0M,$510.1M
+USFD,US Foods Holding Corp,0.03%,7.3M,$564.3M
+PFG,Principal Financial Group Inc,0.03%,7.0M,$567.1M
+PINS,Pinterest Inc Class A,0.03%,17.8M,$650.4M
+TRMB,Trimble Inc,0.03%,7.5M,$605.6M
+DGX,Quest Diagnostics Inc,0.03%,3.5M,$637.8M
+RBA,RB Global Inc,0.03%,5.8M,$667.0M
+RPM,RPM International Inc,0.03%,4.0M,$504.9M
+GEN,Gen Digital Inc,0.03%,17.5M,$529.1M
+NTNX,Nutanix Inc Class A,0.03%,8.0M,$535.3M
+ON,ON Semiconductor Corp,0.03%,13.2M,$652.4M
+OKTA,Okta Inc Class A,0.03%,5.3M,$488.5M
+NI,NiSource Inc,0.03%,14.8M,$624.7M
+PFGC,Performance Food Group Co,0.03%,4.9M,$497.8M
+PKG,Packaging Corp of America,0.03%,2.8M,$616.2M
+MAA,Mid-America Apartment Communities Inc,0.03%,3.7M,$535.9M
+MKC,McCormick & Co Inc Ordinary Shares (Non ...,0.03%,8.0M,$560.6M
+GPC,Genuine Parts Co,0.03%,4.4M,$608.6M
+GDDY,GoDaddy Inc Class A,0.03%,4.5M,$663.6M
+GPN,Global Payments Inc,0.03%,5.9M,$525.5M
+CFG,Citizens Financial Group Inc,0.03%,12.9M,$675.3M
+CASY,Casey's General Stores Inc,0.03%,1.2M,$577.9M
+CG,The Carlyle Group Inc,0.03%,8.0M,$514.0M
+CSL,Carlisle Companies Inc,0.03%,1.4M,$524.2M
+CDW,CDW Corp,0.03%,4.1M,$682.0M
+BURL,Burlington Stores Inc,0.03%,2.0M,$576.8M
+CMS,CMS Energy Corp,0.03%,9.4M,$674.8M
+WRB,WR Berkley Corp,0.03%,9.0M,$643.3M
+BIIB,Biogen Inc,0.03%,4.6M,$610.3M
+LUV,Southwest Airlines Co,0.03%,17.9M,$589.3M
+STLD,Steel Dynamics Inc,0.03%,4.4M,$580.5M
+SUI,Sun Communities Inc,0.03%,4.0M,$510.0M
+SMCI,Super Micro Computer Inc,0.03%,16.0M,$662.6M
+TLN,Talen Energy Corp Ordinary Shares New,0.03%,1.4M,$543.0M
+HAL,Halliburton Co,0.03%,24.3M,$552.6M
+GWRE,Guidewire Software Inc,0.03%,2.6M,$573.0M
+IFF,International Flavors & Fragrances Inc,0.03%,8.1M,$544.4M
+INVH,Invitation Homes Inc,0.03%,18.3M,$573.3M
+CTRA,Coterra Energy Inc Ordinary Shares,0.03%,22.8M,$556.5M
+TPL,Texas Pacific Land Corp,0.03%,578.4K,$539.9M
+SGI,Somnigroup International Inc,0.03%,6.2M,$522.8M
+TER,Teradyne Inc,0.03%,5.0M,$596.9M
+THC,Tenet Healthcare Corp,0.03%,2.9M,$539.0M
+TPR,Tapestry Inc,0.03%,6.5M,$664.8M
+TRU,TransUnion,0.03%,6.1M,$542.1M
+TOST,Toast Inc Class A,0.03%,14.9M,$671.3M
+L,Loews Corp,0.03%,5.3M,$509.9M
+LII,Lennox International Inc,0.03%,1.0M,$560.1M
+FWONK,Liberty Media Corp Registered Shs Series...,0.03%,6.6M,$656.3M
+J,Jacobs Solutions Inc,0.03%,3.8M,$552.5M
+JBL,Jabil Inc,0.03%,3.2M,$657.0M
+KEY,KeyCorp,0.03%,34.4M,$665.7M
+EL,The Estee Lauder Companies Inc Class A,0.03%,6.6M,$608.3M
+LVS,Las Vegas Sands Corp,0.03%,10.0M,$576.8M
+PNR,Pentair PLC,0.03%,5.2M,$555.9M
+ZM,Zoom Communications Inc,0.03%,7.4M,$598.8M
+APTV,Aptiv PLC,0.03%,6.9M,$545.1M
+FTAI,FTAI Aviation Ltd,0.03%,3.2M,$496.1M
+CRDO,Credo Technology Group Holding Ltd,0.03%,4.5M,$559.3M
+ZBRA,Zebra Technologies Corp Ordinary Shares ...,0.03%,1.6M,$507.7M
+ZBH,Zimmer Biomet Holdings Inc,0.03%,6.2M,$659.9M
+WY,Weyerhaeuser Co,0.03%,22.8M,$590.7M
+RRX,Regal Rexnord Corp,0.02%,2.1M,$311.5M
+REG,Regency Centers Corp,0.02%,5.7M,$412.3M
+RBC,RBC Bearings Inc,0.02%,990.8K,$386.4M
+RL,Ralph Lauren Corp Class A,0.02%,1.1M,$340.8M
+BWA,BorgWarner Inc,0.02%,6.9M,$295.3M
+BLDR,Builders FirstSource Inc,0.02%,3.3M,$458.6M
+BXP,BXP Inc,0.02%,5.0M,$360.1M
+CACI,CACI International Inc Class A,0.02%,692.9K,$332.4M
+CF,CF Industries Holdings Inc,0.02%,5.1M,$441.4M
+CHRW,C.H. Robinson Worldwide Inc,0.02%,3.5M,$456.1M
+BBY,Best Buy Co Inc,0.02%,6.0M,$441.0M
+BAX,Baxter International Inc,0.02%,16.2M,$399.3M
+BWXT,BWX Technologies Inc,0.02%,2.9M,$466.0M
+BALL,Ball Corp,0.02%,8.7M,$460.1M
+BJ,BJ's Wholesale Club Holdings Inc,0.02%,4.2M,$406.6M
+AVY,Avery Dennison Corp,0.02%,2.5M,$421.5M
+AIT,Applied Industrial Technologies Inc,0.02%,1.2M,$314.6M
+AIZ,Assurant Inc,0.02%,1.6M,$344.0M
+ALLY,Ally Financial Inc,0.02%,8.7M,$356.7M
+AKAM,Akamai Technologies Inc,0.02%,4.6M,$364.0M
+ARE,Alexandria Real Estate Equities Inc,0.02%,5.4M,$448.6M
+ALGN,Align Technology Inc,0.02%,2.2M,$307.7M
+ATI,ATI Inc,0.02%,4.4M,$344.0M
+AFG,American Financial Group Inc,0.02%,2.2M,$303.6M
+AMH,American Homes 4 Rent Class A,0.02%,9.9M,$353.3M
+NLY,Annaly Capital Management Inc,0.02%,19.0M,$402.1M
+ARMK,Aramark,0.02%,8.2M,$322.1M
+AR,Antero Resources Corp,0.02%,9.3M,$296.8M
+AYI,Acuity Inc,0.02%,971.6K,$317.2M
+ALB,Albemarle Corp,0.02%,3.7M,$315.6M
+WMS,Advanced Drainage Systems Inc,0.02%,2.4M,$352.2M
+APG,APi Group Corp,0.02%,11.8M,$419.6M
+AGNC,AGNC Investment Corp,0.02%,31.9M,$311.8M
+AES,The AES Corp,0.02%,22.4M,$303.2M
+CLH,Clean Harbors Inc,0.02%,1.5M,$366.7M
+WBS,Webster Financial Corp,0.02%,5.3M,$328.4M
+WCC,WESCO International Inc,0.02%,1.5M,$321.3M
+WSO,Watsco Inc Ordinary Shares,0.02%,1.1M,$441.8M
+WPC,W.P. Carey Inc,0.02%,6.9M,$461.5M
+UTHR,United Therapeutics Corp,0.02%,1.4M,$432.2M
+UNM,Unum Group,0.02%,5.2M,$363.1M
+VTRS,Viatris Inc,0.02%,37.2M,$392.1M
+U,Unity Software Inc Ordinary Shares,0.02%,9.8M,$386.9M
+UHS,Universal Health Services Inc Class B,0.02%,1.7M,$310.3M
+UDR,UDR Inc,0.02%,10.4M,$411.5M
+IPG,The Interpublic Group of Companies Inc,0.02%,11.6M,$311.7M
+TWLO,Twilio Inc Class A,0.02%,4.3M,$457.1M
+KMX,CarMax Inc,0.02%,4.8M,$294.2M
+CRS,Carpenter Technology Corp,0.02%,1.5M,$357.4M
+CPT,Camden Property Trust,0.02%,3.4M,$375.4M
+CNC,Centene Corp,0.02%,15.6M,$453.9M
+CIEN,Ciena Corp,0.02%,4.5M,$420.5M
+CELH,Celsius Holdings Inc,0.02%,5.7M,$357.4M
+DAY,Dayforce Inc,0.02%,4.8M,$334.4M
+DOC,Healthpeak Properties Inc,0.02%,21.8M,$391.8M
+HAS,Hasbro Inc,0.02%,4.2M,$339.0M
+JKHY,Jack Henry & Associates Inc,0.02%,2.3M,$374.2M
+HST,Host Hotels & Resorts Inc,0.02%,21.8M,$374.8M
+HLI,Houlihan Lokey Inc Class A,0.02%,1.7M,$336.8M
+HOLX,Hologic Inc,0.02%,7.0M,$470.9M
+HII,Huntington Ingalls Industries Inc,0.02%,1.2M,$334.3M
+JBHT,JB Hunt Transport Services Inc,0.02%,2.5M,$361.8M
+ITT,ITT Inc,0.02%,2.5M,$420.7M
+IEX,IDEX Corp,0.02%,2.4M,$390.3M
+WTRG,Essential Utilities Inc,0.02%,8.8M,$347.1M
+EXEL,Exelixis Inc,0.02%,8.2M,$305.2M
+FHN,First Horizon Corp,0.02%,15.9M,$360.1M
+OWL,Blue Owl Capital Inc Ordinary Shares - C...,0.02%,19.7M,$364.0M
+BAH,Booz Allen Hamilton Holding Corp Class A,0.02%,3.9M,$425.0M
+MEDP,Medpace Holdings Inc,0.02%,723.1K,$343.8M
+MOH,Molina Healthcare Inc,0.02%,1.7M,$308.3M
+MOS,The Mosaic Co,0.02%,10.0M,$333.5M
+MLI,Mueller Industries Inc,0.02%,3.5M,$333.3M
+--,Mr. Cooper Group Inc,0.02%,2.0M,$380.1M
+DKS,Dick's Sporting Goods Inc,0.02%,1.7M,$359.8M
+DTM,DT Midstream Inc Ordinary Shares,0.02%,3.2M,$332.8M
+MAS,Masco Corp,0.02%,6.6M,$485.2M
+MTZ,MasTec Inc,0.02%,2.0M,$360.4M
+MP,MP Materials Corp Ordinary Shares - Clas...,0.02%,4.7M,$333.7M
+MANH,Manhattan Associates Inc,0.02%,1.9M,$410.7M
+CCK,Crown Holdings Inc,0.02%,3.7M,$363.5M
+COO,The Cooper Companies Inc,0.02%,6.3M,$424.4M
+CRBG,Corebridge Financial Inc,0.02%,8.6M,$300.5M
+CNM,Core & Main Inc Class A,0.02%,6.0M,$385.2M
+COHR,Coherent Corp,0.02%,4.9M,$441.9M
+CLX,Clorox Co,0.02%,3.9M,$457.4M
+BE,Bloom Energy Corp Class A,0.02%,6.2M,$328.9M
+BMRN,BioMarin Pharmaceutical Inc,0.02%,6.0M,$351.2M
+INCY,Incyte Corp,0.02%,5.2M,$439.0M
+LECO,Lincoln Electric Holdings Inc,0.02%,1.8M,$426.2M
+KTOS,Kratos Defense & Security Solutions Inc,0.02%,5.2M,$345.3M
+LAMR,Lamar Advertising Co Class A,0.02%,2.8M,$351.8M
+NDSN,Nordson Corp,0.02%,1.6M,$363.2M
+NWSA,News Corp Class A,0.02%,13.6M,$399.8M
+NBIX,Neurocrine Biosciences Inc,0.02%,3.1M,$435.1M
+OMC,Omnicom Group Inc,0.02%,6.1M,$480.6M
+OHI,Omega Healthcare Investors Inc,0.02%,9.1M,$386.8M
+PAYC,Paycom Software Inc,0.02%,1.6M,$372.1M
+OVV,Ovintiv Inc,0.02%,8.2M,$344.3M
+OC,Owens-Corning Inc,0.02%,2.7M,$401.3M
+Z,Zillow Group Inc Class C,0.02%,5.4M,$456.6M
+WWD,Woodward Inc,0.02%,1.9M,$462.1M
+WYNN,Wynn Resorts Ltd,0.02%,2.5M,$312.6M
+XPO,XPO Inc,0.02%,3.5M,$456.1M
+FN,Fabrinet,0.02%,1.1M,$374.0M
+ALLE,Allegion PLC,0.02%,2.7M,$458.6M
+PNW,Pinnacle West Capital Corp,0.02%,3.7M,$333.8M
+POOL,Pool Corp,0.02%,1.1M,$349.7M
+PEN,Penumbra Inc,0.02%,1.2M,$315.2M
+RVTY,Revvity Inc,0.02%,3.7M,$334.2M
+RNR,RenaissanceRe Holdings Ltd,0.02%,1.5M,$371.2M
+RPRX,Royalty Pharma PLC Class A,0.02%,11.3M,$405.1M
+NCLH,Norwegian Cruise Line Holdings Ltd,0.02%,14.1M,$349.2M
+NVT,nVent Electric PLC,0.02%,5.2M,$469.2M
+EG,Everest Group Ltd,0.02%,1.3M,$456.4M
+IVZ,Invesco Ltd,0.02%,14.0M,$306.6M
+FTI,TechnipFMC PLC,0.02%,13.2M,$484.0M
+CNH,CNH Industrial NV,0.02%,25.6M,$293.5M
+BG,Bunge Global SA,0.02%,4.2M,$355.4M
+LYB,LyondellBasell Industries NV Class A,0.02%,8.1M,$455.6M
+WTM,White Mountains Insurance Group Ltd,0.01%,77.0K,$140.9M
+FROG,JFrog Ltd Ordinary Shares,0.01%,2.9M,$140.9M
+ESTC,Elastic NV,0.01%,2.8M,$236.2M
+PRGO,Perrigo Co PLC,0.01%,4.3M,$102.3M
+WFRD,Weatherford International PLC Ordinary S...,0.01%,2.3M,$146.3M
+JHG,Janus Henderson Group PLC,0.01%,4.0M,$175.8M
+JOBY,Joby Aviation Inc,0.01%,13.7M,$194.0M
+NE,Noble Corp PLC Class A,0.01%,4.0M,$114.0M
+JAZZ,Jazz Pharmaceuticals PLC,0.01%,1.8M,$235.9M
+ROIV,Roivant Sciences Ltd Ordinary Shares,0.01%,13.1M,$156.6M
+ST,Sensata Technologies Holding PLC,0.01%,4.6M,$149.5M
+SIG,Signet Jewelers Ltd,0.01%,1.2M,$109.7M
+PRM,Perimeter Solutions Inc,0.01%,4.4M,$99.2M
+PR,Permian Resources Corp Class A,0.01%,19.8M,$282.6M
+PEGA,Pegasystems Inc,0.01%,3.0M,$160.5M
+HSIC,Henry Schein Inc,0.01%,3.3M,$226.5M
+SMTC,Semtech Corp,0.01%,2.7M,$157.9M
+SIGI,Selective Insurance Group Inc,0.01%,1.9M,$149.6M
+SEE,Sealed Air Corp,0.01%,4.6M,$149.3M
+SPXC,SPX Technologies Inc,0.01%,1.5M,$276.2M
+SLG,SL Green Realty Corp,0.01%,2.2M,$127.7M
+SLM,SLM Corp,0.01%,6.3M,$196.7M
+SM,SM Energy Co,0.01%,3.6M,$102.7M
+SPSC,SPS Commerce Inc,0.01%,1.2M,$131.5M
+SBRA,Sabra Health Care REIT Inc,0.01%,7.5M,$143.7M
+SAIA,Saia Inc,0.01%,839.4K,$248.8M
+SNDK,SanDisk Corp Ordinary Shares,0.01%,4.1M,$216.3M
+SANM,Sanmina Corp,0.01%,1.6M,$186.4M
+NOVT,Novanta Inc,0.01%,1.1M,$132.4M
+NUVL,Nuvalent Inc Class A,0.01%,1.5M,$112.3M
+SMR,NuScale Power Corp Class A,0.01%,3.8M,$130.9M
+NWE,NorthWestern Energy Group Inc,0.01%,1.9M,$111.3M
+OGE,OGE Energy Corp,0.01%,6.3M,$280.9M
+OLLI,Ollie's Bargain Outlet Holdings Inc,0.01%,1.9M,$245.2M
+OSIS,OSI Systems Inc,0.01%,502.5K,$115.6M
+ORI,Old Republic International Corp,0.01%,6.9M,$277.5M
+ONB,Old National Bancorp,0.01%,9.9M,$226.6M
+OGS,ONE Gas Inc,0.01%,1.9M,$144.2M
+ONTO,Onto Innovation Inc,0.01%,1.5M,$163.1M
+OTTR,Otter Tail Corp,0.01%,1.3M,$111.2M
+OMF,OneMain Holdings Inc,0.01%,3.7M,$230.8M
+ORA,Ormat Technologies Inc,0.01%,1.8M,$167.5M
+OPCH,Option Care Health Inc,0.01%,5.1M,$146.7M
+PJT,PJT Partners Inc Class A,0.01%,729.5K,$130.6M
+OSCR,Oscar Health Inc Class A,0.01%,6.5M,$108.7M
+OSK,Oshkosh Corp,0.01%,2.0M,$281.8M
+CHRD,Chord Energy Corp Ordinary Shares - New,0.01%,1.8M,$198.1M
+TXNM,TXNM Energy Inc,0.01%,2.6M,$148.1M
+PVH,PVH Corp,0.01%,1.5M,$127.2M
+PTCT,PTC Therapeutics Inc,0.01%,2.5M,$123.6M
+PLMR,Palomar Holdings Inc,0.01%,804.1K,$98.9M
+SFBS,Servisfirst Bancshares Inc,0.01%,1.5M,$136.2M
+SHAK,Shake Shack Inc Class A,0.01%,1.2M,$127.2M
+SXT,Sensient Technologies Corp,0.01%,1.3M,$152.0M
+S,SentinelOne Inc Class A,0.01%,10.1M,$190.1M
+SLAB,Silicon Laboratories Inc,0.01%,983.1K,$132.1M
+SLGN,Silgan Holdings Inc,0.01%,2.7M,$126.5M
+FOUR,Shift4 Payments Inc Class A,0.01%,2.1M,$192.5M
+--,Skechers USA Inc Class A,0.01%,4.1M,$257.5M
+SSD,Simpson Manufacturing Co Inc,0.01%,1.3M,$249.9M
+SITE,SiteOne Landscape Supply Inc,0.01%,1.4M,$203.3M
+SITM,SiTime Corp Ordinary Shares,0.01%,642.2K,$155.2M
+SIRI,Sirius XM Holdings Inc,0.01%,5.9M,$138.6M
+SKY,Champion Homes Inc,0.01%,1.8M,$136.5M
+AOS,A.O. Smith Corp,0.01%,3.6M,$260.0M
+SNAP,Snap Inc Class A,0.01%,33.5M,$239.0M
+SKYW,SkyWest Inc,0.01%,1.2M,$146.4M
+KRC,Kilroy Realty Corp,0.01%,3.7M,$155.3M
+KMPR,Kemper Corp,0.01%,1.9M,$102.1M
+KBH,KB Home,0.01%,1.9M,$122.1M
+KAR,Openlane Inc,0.01%,3.4M,$98.4M
+KBR,KBR Inc,0.01%,4.1M,$205.2M
+KAI,Kadant Inc,0.01%,369.9K,$119.6M
+JBTM,JBT Marel Corp,0.01%,1.6M,$234.9M
+NSIT,Insight Enterprises Inc,0.01%,1.0M,$130.6M
+ITRI,Itron Inc,0.01%,1.4M,$175.6M
+LW,Lamb Weston Holdings Inc,0.01%,4.4M,$255.2M
+MZTI,The Marzetti Co,0.01%,608.9K,$111.2M
+LKQ,LKQ Corp,0.01%,8.1M,$264.1M
+KTB,Kontoor Brands Inc,0.01%,1.7M,$134.6M
+KFY,Korn Ferry,0.01%,1.6M,$120.9M
+KRYS,Krystal Biotech Inc,0.01%,818.7K,$120.9M
+KD,Kyndryl Holdings Inc Ordinary Shares,0.01%,7.3M,$232.9M
+KEX,Kirby Corp,0.01%,1.8M,$171.4M
+KRG,Kite Realty Group Trust,0.01%,6.9M,$156.9M
+KVYO,Klaviyo Inc Class A common stock,0.01%,3.7M,$119.6M
+KNF,Knife River Holding Co,0.01%,1.8M,$145.4M
+KNX,Knight-Swift Transportation Holdings Inc...,0.01%,4.9M,$212.9M
+JXN,Jackson Financial Inc,0.01%,2.2M,$221.8M
+FHB,First Hawaiian Inc,0.01%,4.0M,$103.6M
+FR,First Industrial Realty Trust Inc,0.01%,4.2M,$218.6M
+FFIN,First Financial Bankshares Inc,0.01%,3.8M,$142.6M
+FBP,First BanCorp,0.01%,5.0M,$111.5M
+FIVE,Five Below Inc,0.01%,1.7M,$251.2M
+FAF,First American Financial Corp,0.01%,3.1M,$203.0M
+FND,Floor & Decor Holdings Inc Class A,0.01%,3.4M,$277.6M
+FLR,Fluor Corp,0.01%,5.2M,$212.4M
+FLS,Flowserve Corp,0.01%,4.1M,$219.2M
+GME,GameStop Corp Class A,0.01%,12.7M,$284.0M
+GLXY,Galaxy Digital Inc Ordinary Shares - Cla...,0.01%,5.1M,$118.9M
+FRSH,Freshworks Inc Ordinary Shares Class A,0.01%,7.3M,$98.3M
+--,GMS Inc,0.01%,1.2M,$133.3M
+GXO,GXO Logistics Inc,0.01%,3.6M,$189.8M
+FUL,H.B. Fuller Co,0.01%,1.7M,$105.3M
+FULT,Fulton Financial Corp,0.01%,5.8M,$113.4M
+GATX,GATX Corp,0.01%,1.1M,$188.8M
+FOX,Fox Corp Class B,0.01%,3.3M,$180.8M
+FELE,Franklin Electric Co Inc,0.01%,1.2M,$119.6M
+BEN,Franklin Resources Inc,0.01%,9.9M,$253.1M
+FTDR,Frontdoor Inc,0.01%,2.3M,$140.2M
+FYBR,Frontier Communications Parent Inc,0.01%,7.9M,$292.0M
+FBIN,Fortune Brands Innovations Inc,0.01%,3.8M,$221.5M
+EXP,Eagle Materials Inc,0.01%,1.0M,$237.4M
+ENPH,Enphase Energy Inc,0.01%,3.9M,$146.8M
+NPO,Enpro Inc,0.01%,668.0K,$146.1M
+ENS,EnerSys,0.01%,1.2M,$126.8M
+NVST,Envista Holdings Corp Ordinary Shares,0.01%,5.5M,$115.5M
+ERIE,Erie Indemnity Co Class A,0.01%,801.1K,$283.9M
+ESI,Element Solutions Inc,0.01%,7.2M,$186.3M
+SATS,EchoStar Corp Class A,0.01%,4.2M,$257.5M
+EGP,EastGroup Properties Inc,0.01%,1.6M,$279.6M
+EMN,Eastman Chemical Co,0.01%,3.6M,$254.8M
+ELAN,Elanco Animal Health Inc,0.01%,15.6M,$286.0M
+EXLS,ExlService Holdings Inc,0.01%,4.9M,$212.8M
+EXPO,Exponent Inc,0.01%,1.6M,$115.1M
+EXAS,Exact Sciences Corp,0.01%,6.0M,$282.8M
+ECG,Everus Construction Group Inc,0.01%,1.6M,$124.9M
+EPRT,Essential Properties Realty Trust Inc,0.01%,6.2M,$194.3M
+ETSY,Etsy Inc,0.01%,3.1M,$165.3M
+EEFT,Euronet Worldwide Inc,0.01%,1.3M,$119.7M
+ESAB,ESAB Corp,0.01%,1.8M,$209.6M
+ESE,ESCO Technologies Inc,0.01%,818.9K,$164.5M
+FCN,FTI Consulting Inc,0.01%,1.1M,$181.9M
+PATK,Patrick Industries Inc,0.01%,1.0M,$112.5M
+PFSI,PennyMac Financial Services Inc Class A,0.01%,899.5K,$99.0M
+LEU,Centrus Energy Corp Class A,0.01%,484.3K,$97.7M
+CRL,Charles River Laboratories International...,0.01%,1.5M,$252.5M
+GTLS,Chart Industries Inc,0.01%,1.4M,$287.3M
+CHE,Chemed Corp,0.01%,459.7K,$210.5M
+CHWY,Chewy Inc,0.01%,6.2M,$254.1M
+BPOP,Popular Inc,0.01%,2.1M,$269.6M
+POR,Portland General Electric Co,0.01%,3.4M,$147.2M
+POST,Post Holdings Inc,0.01%,1.6M,$177.8M
+PLNT,Planet Fitness Inc Class A,0.01%,2.6M,$276.7M
+PLXS,Plexus Corp,0.01%,856.9K,$117.4M
+PIPR,Piper Sandler Cos,0.01%,534.2K,$178.3M
+PRMB,Primo Brands Corp Ordinary Shares - Clas...,0.01%,7.6M,$191.8M
+PRIM,Primoris Services Corp,0.01%,1.6M,$191.5M
+PRI,Primerica Inc,0.01%,1.0M,$279.7M
+PCH,PotlatchDeltic Corp,0.01%,2.4M,$99.0M
+PNFP,Pinnacle Financial Partners Inc,0.01%,2.4M,$237.5M
+PECO,Phillips Edison & Co Inc Ordinary Shares...,0.01%,3.9M,$138.7M
+RMBS,Rambus Inc,0.01%,3.4M,$249.0M
+RAL,Ralliant Corp,0.01%,3.6M,$149.5M
+RDN,Radian Group Inc,0.01%,4.2M,$147.3M
+RDNT,RadNet Inc,0.01%,2.2M,$156.4M
+PBH,Prestige Consumer Healthcare Inc,0.01%,1.6M,$106.4M
+RH,RH Class A,0.01%,470.6K,$106.2M
+RLI,RLI Corp,0.01%,2.7M,$186.1M
+QLYS,Qualys Inc,0.01%,1.1M,$154.9M
+QRVO,Qorvo Inc,0.01%,2.9M,$265.6M
+QTWO,Q2 Holdings Inc,0.01%,1.9M,$147.3M
+PCOR,Procore Technologies Inc,0.01%,3.5M,$245.1M
+PTGX,Protagonist Therapeutics Inc,0.01%,1.9M,$114.6M
+PB,Prosperity Bancshares Inc,0.01%,2.8M,$195.0M
+RRC,Range Resources Corp,0.01%,7.2M,$245.2M
+RYN,Rayonier Inc,0.01%,4.9M,$129.6M
+RRR,Red Rock Resorts Inc Class A,0.01%,1.6M,$99.4M
+CRCL,Circle Internet Group Inc Ordinary Share...,0.01%,1.7M,$219.6M
+CRUS,Cirrus Logic Inc,0.01%,1.6M,$185.2M
+CLF,Cleveland-Cliffs Inc,0.01%,15.7M,$168.4M
+CWAN,Clearwater Analytics Holdings Inc Class ...,0.01%,7.6M,$157.5M
+CDE,Coeur Mining Inc,0.01%,19.2M,$252.0M
+YOU,Clear Secure Inc Ordinary Shares Class A,0.01%,2.9M,$104.8M
+CIVI,Civitas Resources Inc Ordinary Shares,0.01%,2.9M,$106.4M
+FNB,F N B Corp,0.01%,11.2M,$187.3M
+FMC,FMC Corp,0.01%,3.7M,$146.6M
+FRT,Federal Realty Investment Trust,0.01%,2.7M,$272.2M
+FSS,Federal Signal Corp,0.01%,1.8M,$224.4M
+CHDN,Churchill Downs Inc,0.01%,2.0M,$211.7M
+WEX,WEX Inc,0.01%,1.1M,$183.9M
+WHR,Whirlpool Corp,0.01%,1.7M,$162.8M
+WSC,WillScot Holdings Corp Ordinary Shares -...,0.01%,5.5M,$132.8M
+WING,Wingstop Inc,0.01%,877.4K,$287.9M
+WK,Workiva Inc Class A,0.01%,1.6M,$128.7M
+CVCO,Cavco Industries Inc,0.01%,253.3K,$134.4M
+CAVA,Cava Group Inc,0.01%,3.1M,$209.6M
+CATY,Cathay General Bancorp,0.01%,2.1M,$105.5M
+CE,Celanese Corp Class A,0.01%,3.5M,$164.4M
+CWST,Casella Waste Systems Inc Class A,0.01%,2.0M,$193.5M
+CPB,The Campbell's Co,0.01%,6.1M,$195.6M
+CALX,Calix Inc,0.01%,1.8M,$109.4M
+CTRE,CareTrust REIT Inc,0.01%,6.9M,$238.4M
+CBZ,CBIZ Inc,0.01%,1.6M,$105.6M
+CCCS,CCC Intelligent Solutions Holdings Inc,0.01%,18.4M,$182.1M
+BF/B,Brown-Forman Corp Registered Shs -B- Non...,0.01%,9.1M,$272.6M
+BRKR,Bruker Corp,0.01%,3.4M,$114.0M
+BC,Brunswick Corp,0.01%,2.1M,$131.9M
+CRC,California Resources Corp Ordinary Share...,0.01%,2.5M,$125.4M
+CZR,Caesars Entertainment Inc,0.01%,6.2M,$167.1M
+CALM,Cal-Maine Foods Inc,0.01%,1.3M,$149.4M
+CADE,Cadence Bank,0.01%,5.8M,$216.8M
+CSW,CSW Industrials Inc,0.01%,528.4K,$144.6M
+CBT,Cabot Corp,0.01%,1.7M,$135.9M
+CNO,CNO Financial Group Inc,0.01%,2.9M,$116.2M
+CNX,CNX Resources Corp,0.01%,4.3M,$126.9M
+BRX,Brixmor Property Group Inc,0.01%,9.6M,$269.6M
+BNL,Broadstone Net Lease Inc Ordinary Shares,0.01%,5.7M,$106.1M
+EAT,Brinker International Inc,0.01%,1.3M,$207.3M
+BCO,The Brink's Co,0.01%,1.3M,$141.1M
+BFAM,Bright Horizons Family Solutions Inc,0.01%,1.8M,$213.5M
+BOOT,Boot Barn Holdings Inc,0.01%,966.4K,$171.8M
+BBIO,BridgeBio Pharma Inc,0.01%,5.4M,$279.9M
+BOX,Box Inc Class A,0.01%,4.3M,$140.6M
+BYD,Boyd Gaming Corp,0.01%,1.8M,$152.3M
+BRC,Brady Corp Class A,0.01%,1.3M,$102.7M
+BCC,Boise Cascade Co,0.01%,1.2M,$103.5M
+WAY,Waystar Holding Corp,0.01%,3.0M,$114.0M
+UGI,UGI Corp,0.01%,6.7M,$233.1M
+UMBF,UMB Financial Corp,0.01%,2.2M,$263.2M
+UFPI,UFP Industries Inc,0.01%,1.8M,$182.1M
+BKH,Black Hills Corp,0.01%,2.2M,$134.5M
+BXMT,Blackstone Mortgage Trust Inc A,0.01%,5.1M,$100.3M
+TECH,Bio-Techne Corp,0.01%,4.9M,$269.5M
+BMI,Badger Meter Inc,0.01%,926.6K,$169.5M
+BCPC,Balchem Corp,0.01%,1.0M,$166.7M
+OZK,Bank OZK,0.01%,3.4M,$177.2M
+AXSM,Axsome Therapeutics Inc,0.01%,1.2M,$150.1M
+AX,Axos Financial Inc,0.01%,1.7M,$154.5M
+BGC,BGC Group Inc Ordinary Shares Class A,0.01%,12.0M,$117.8M
+BIO,Bio-Rad Laboratories Inc Class A,0.01%,599.4K,$178.6M
+BILL,BILL Holdings Inc Ordinary Shares,0.01%,2.9M,$135.8M
+TBBK,The Bancorp Inc,0.01%,1.4M,$104.1M
+BBWI,Bath & Body Works Inc,0.01%,6.7M,$195.5M
+BSY,Bentley Systems Inc Ordinary Shares - Cl...,0.01%,4.6M,$255.3M
+BDC,Belden Inc,0.01%,1.2M,$161.3M
+SARO,StandardAero Inc,0.01%,3.7M,$97.9M
+LRN,Stride Inc,0.01%,1.3M,$212.6M
+SNV,Synovus Financial Corp,0.01%,4.1M,$213.2M
+RUN,Sunrun Inc,0.01%,6.8M,$108.4M
+SKT,Tanger Inc,0.01%,3.4M,$116.5M
+TPG,TPG Inc Ordinary Shares - Class A,0.01%,3.9M,$235.8M
+TTMI,TTM Technologies Inc,0.01%,3.0M,$135.9M
+SON,Sonoco Products Co,0.01%,3.1M,$147.3M
+HRB,H&R Block Inc,0.01%,4.2M,$211.5M
+SPR,Spirit AeroSystems Holdings Inc Class A,0.01%,3.7M,$153.9M
+SR,Spire Inc,0.01%,1.8M,$134.3M
+STAG,Stag Industrial Inc,0.01%,5.9M,$216.2M
+SWX,Southwest Gas Holdings Inc,0.01%,2.0M,$162.6M
+SLNO,Soleno Therapeutics Inc,0.01%,1.5M,$101.2M
+SOUN,SoundHound AI Inc Ordinary Shares - Clas...,0.01%,11.7M,$151.8M
+RNA,Avidity Biosciences Inc Ordinary Shares,0.01%,3.6M,$166.6M
+BRBR,BellRing Brands Inc Class A,0.01%,4.0M,$164.1M
+SAIC,Science Applications International Corp,0.01%,1.5M,$175.0M
+LNW,Light & Wonder Inc Ordinary Shares,0.01%,2.7M,$245.6M
+RYAN,Ryan Specialty Holdings Inc Class A,0.01%,3.4M,$190.5M
+R,Ryder System Inc,0.01%,1.2M,$230.4M
+RHI,Robert Half Inc,0.01%,3.1M,$114.0M
+RIOT,Riot Platforms Inc,0.01%,10.7M,$147.2M
+RGTI,Rigetti Computing Inc,0.01%,8.7M,$140.6M
+RKT,Rocket Companies Inc Ordinary Shares Cla...,0.01%,7.6M,$134.5M
+APA,APA Corp,0.01%,11.3M,$263.5M
+RUSHA,Rush Enterprises Inc Class A,0.01%,1.7M,$99.2M
+DY,Dycom Industries Inc,0.01%,867.0K,$218.9M
+EBC,Eastern Bankshares Inc Ordinary Shares,0.01%,5.9M,$100.5M
+EPR,EPR Properties,0.01%,2.4M,$129.9M
+BROS,Dutch Bros Inc Class A,0.01%,3.8M,$272.9M
+QBTS,D-Wave Quantum Inc,0.01%,8.7M,$135.1M
+ELF,e.l.f. Beauty Inc,0.01%,1.7M,$210.8M
+DOCS,Doximity Inc Class A,0.01%,3.9M,$264.1M
+DBX,Dropbox Inc Class A,0.01%,6.3M,$184.4M
+DLB,Dolby Laboratories Inc Class A,0.01%,1.9M,$136.7M
+DORM,Dorman Products Inc,0.01%,821.9K,$133.0M
+FHI,Federated Hermes Inc Class B,0.01%,2.3M,$124.7M
+FCFS,FirstCash Holdings Inc,0.01%,1.2M,$174.3M
+REZI,Resideo Technologies Inc,0.01%,4.7M,$159.6M
+RGEN,Repligen Corp,0.01%,1.7M,$205.4M
+RHP,Ryman Hospitality Properties Inc,0.01%,1.9M,$184.0M
+IRT,Independence Realty Trust Inc,0.01%,7.3M,$131.5M
+INDB,Independent Bank Corp,0.01%,1.5M,$107.3M
+INGR,Ingredion Inc,0.01%,2.0M,$260.6M
+IBP,Installed Building Products Inc,0.01%,734.2K,$192.2M
+PI,Impinj Inc,0.01%,816.0K,$153.0M
+IDCC,InterDigital Inc,0.01%,813.0K,$220.9M
+IBOC,International Bancshares Corp,0.01%,1.8M,$126.3M
+ITGR,Integer Holdings Corp,0.01%,1.1M,$118.9M
+IONS,Ionis Pharmaceuticals Inc,0.01%,4.8M,$203.4M
+IONQ,IonQ Inc Class A,0.01%,6.6M,$283.2M
+LNC,Lincoln National Corp,0.01%,5.3M,$229.6M
+LLYVK,Liberty Live Group Ordinary Shares Serie...,0.01%,1.5M,$150.6M
+LOAR,Loar Holdings Inc,0.01%,1.5M,$104.6M
+LTH,Life Time Group Holdings Inc,0.01%,4.2M,$116.2M
+LAD,Lithia Motors Inc Class A,0.01%,817.4K,$275.2M
+LFUS,Littelfuse Inc,0.01%,772.8K,$200.8M
+LBRDK,Liberty Broadband Corp Registered Shs Se...,0.01%,3.7M,$223.9M
+DRS,Leonardo DRS Inc,0.01%,2.5M,$103.7M
+LIF,Life360 Inc Common Stock,0.01%,2.4M,$215.7M
+LSCC,Lattice Semiconductor Corp,0.01%,4.3M,$287.3M
+LEN/B,Lennar Corp Class B,0.01%,1.1M,$135.7M
+LMND,Lemonade Inc Ordinary Shares,0.01%,2.1M,$109.9M
+LAZ,Lazard Inc,0.01%,3.6M,$203.4M
+LEA,Lear Corp,0.01%,1.7M,$185.2M
+LNTH,Lantheus Holdings Inc,0.01%,2.1M,$113.9M
+LAUR,Laureate Education Inc Shs,0.01%,4.0M,$109.5M
+LSTR,Landstar System Inc,0.01%,1.1M,$145.2M
+MHO,M/I Homes Inc,0.01%,801.3K,$118.0M
+MKSI,MKS Inc,0.01%,2.1M,$218.5M
+MTG,MGIC Investment Corp,0.01%,7.4M,$207.1M
+MGM,MGM Resorts International,0.01%,6.0M,$237.8M
+MTSI,MACOM Technology Solutions Holdings Inc,0.01%,2.0M,$255.0M
+MAC,Macerich Co,0.01%,8.1M,$148.1M
+MDGL,Madrigal Pharmaceuticals Inc,0.01%,599.0K,$262.3M
+CART,Maplebear Inc,0.01%,6.2M,$267.4M
+MARA,MARA Holdings Inc,0.01%,10.6M,$168.7M
+M,Macy's Inc,0.01%,8.3M,$109.8M
+MSGS,Madison Square Garden Sports Corp Class ...,0.01%,553.9K,$109.6M
+MGNI,Magnite Inc,0.01%,4.2M,$108.2M
+MGY,Magnolia Oil & Gas Corp Class A,0.01%,5.6M,$139.7M
+MSA,MSA Safety Inc,0.01%,1.2M,$199.6M
+MSM,MSC Industrial Direct Co Inc Class A,0.01%,1.4M,$126.8M
+MASI,Masimo Corp,0.01%,1.5M,$214.0M
+MKTX,MarketAxess Holdings Inc,0.01%,1.1M,$206.4M
+MMS,Maximus Inc,0.01%,1.8M,$156.6M
+MTDR,Matador Resources Co,0.01%,3.5M,$177.8M
+MTCH,Match Group Inc Ordinary Shares - New,0.01%,7.7M,$288.1M
+MATX,Matson Inc,0.01%,1.0M,$105.9M
+MAT,Mattel Inc,0.01%,10.2M,$186.1M
+LYFT,Lyft Inc Class A,0.01%,11.6M,$188.0M
+MDU,MDU Resources Group Inc,0.01%,6.5M,$105.2M
+MGEE,MGE Energy Inc,0.01%,1.1M,$97.8M
+AMBA,Ambarella Inc,0.01%,1.3M,$103.6M
+ZETA,Zeta Global Holdings Corp Class A,0.01%,6.7M,$131.6M
+ALKS,Alkermes PLC,0.01%,5.2M,$150.7M
+AGO,Assured Guaranty Ltd,0.01%,1.5M,$120.4M
+AXS,Axis Capital Holdings Ltd,0.01%,2.3M,$230.3M
+AXTA,Axalta Coating Systems Ltd,0.01%,6.9M,$214.9M
+ESNT,Essent Group Ltd,0.01%,3.0M,$188.4M
+CWK,Cushman & Wakefield PLC,0.01%,7.3M,$114.5M
+GTES,Gates Industrial Corp PLC,0.01%,7.7M,$198.0M
+G,Genpact Ltd,0.01%,5.5M,$248.5M
+WH,Wyndham Hotels & Resorts Inc Ordinary Sh...,0.01%,2.4M,$208.2M
+ZG,Zillow Group Inc Class A,0.01%,1.6M,$132.2M
+ZION,Zions Bancorp NA,0.01%,4.6M,$268.7M
+ZWS,Zurn Elkay Water Solutions Corp,0.01%,5.0M,$228.1M
+ZYME,Zymeworks Inc Registered Shs,0.00%,1.8M,$27.3M
+ZYXI,Zynex Inc,0.00%,696.8K,$1.1M
+ARX,Accelerant Holdings Ordinary Shares - Cl...,0.00%,1.0M,$20.2M
+ZIP,ZipRecruiter Inc Class A,0.00%,2.0M,$10.1M
+GTM,ZoomInfo Technologies Inc,0.00%,8.8M,$95.9M
+ZVIA,Zevia PBC Class A,0.00%,1.0M,$2.9M
+ZDGE,Zedge Inc Class B,0.00%,445.8K,$1.4M
+ZBIO,Zenas BioPharma Inc,0.00%,661.0K,$10.6M
+BBNX,Beta Bionics Inc,0.00%,399.7K,$7.5M
+BETR,Better Home & Finance Holding Co Ordinar...,0.00%,257.6K,$5.8M
+BYND,Beyond Meat Inc,0.00%,2.3M,$5.7M
+XAIR,Beyond Air Inc,0.00%,43.0K,$95.5K
+BFIN,BankFinancial Corp,0.00%,370.0K,$4.6M
+BKU,BankUnited Inc,0.00%,2.4M,$93.0M
+BSVN,Bank7 Corp,0.00%,143.1K,$7.1M
+BANR,Banner Corp,0.00%,1.0M,$68.2M
+BWFG,Bankwell Financial Group Inc,0.00%,197.5K,$8.3M
+BHB,Bar Harbor Bankshares Inc,0.00%,440.7K,$14.2M
+BRFH,Barfresh Food Group Inc,0.00%,249.9K,$757.3K
+BNED,Barnes & Noble Education Inc,0.00%,572.2K,$4.9M
+BRN,Barnwell Industries Inc,0.00%,262.2K,$298.9K
+BBSI,Barrett Business Services Inc,0.00%,791.8K,$38.6M
+BSET,Bassett Furniture Industries Inc,0.00%,307.2K,$5.2M
+BATL,Battalion Oil Corp Ordinary Shares,0.00%,218.6K,$258.0K
+BELFA,Bel Fuse Inc Class A,0.00%,3.5K,$406.1K
+BELFB,Bel Fuse Inc Class B,0.00%,363.3K,$48.9M
+BCML,BayCom Corp,0.00%,348.4K,$10.5M
+BAFN,BayFirst Financial Corp,0.00%,45.8K,$413.1K
+BODI,The Beachbody Co Inc Class A,0.00%,86.5K,$476.5K
+BEEM,Beam Global,0.00%,415.8K,$1.1M
+BEAM,Beam Therapeutics Inc,0.00%,3.1M,$50.5M
+BZH,Beazer Homes USA Inc,0.00%,930.8K,$23.4M
+BKKT,Bakkt Holdings Inc Ordinary Shares - Cla...,0.00%,376.7K,$3.3M
+CAR,Avis Budget Group Inc,0.00%,503.8K,$79.7M
+AVA,Avista Corp,0.00%,2.5M,$92.6M
+BW,Babcock & Wilcox Enterprises Inc,0.00%,2.1M,$4.7M
+BLZE,Backblaze Inc Class A,0.00%,1.2M,$9.8M
+BAND,Bandwidth Inc Class A,0.00%,800.2K,$12.0M
+BANC,Banc of California Inc,0.00%,4.0M,$67.6M
+BALY,Ballys Corp Ordinary Shares (Rolling Sha...,0.00%,432.9K,$4.3M
+BANF,BancFirst Corp,0.00%,575.8K,$76.6M
+BFC,Bank First Corp,0.00%,296.5K,$38.5M
+BOH,Bank of Hawaii Corp,0.00%,1.3M,$85.5M
+BMRC,Bank of Marin Bancorp,0.00%,450.4K,$11.1M
+RCEL,AVITA Medical Inc,0.00%,809.0K,$3.5M
+AWRE,Aware Inc,0.00%,631.3K,$1.4M
+ACLS,Axcelis Technologies Inc,0.00%,1.0M,$82.2M
+AXGN,Axogen Inc,0.00%,1.3M,$21.3M
+ELUT,Elutia Inc Ordinary Shares - Class A,0.00%,785.6K,$1.8M
+BGS,B&G Foods Inc,0.00%,2.4M,$10.9M
+BCBP,BCB Bancorp Inc,0.00%,441.6K,$3.9M
+BCAX,Bicara Therapeutics Inc,0.00%,1.4M,$16.3M
+BOKF,BOK Financial Corp,0.00%,697.5K,$77.7M
+BRT,BRT Apartments Corp,0.00%,313.4K,$5.0M
+RILY,B. Riley Financial Inc,0.00%,522.5K,$2.9M
+BTCS,BTCS Inc,0.00%,440.9K,$1.8M
+--,Btcs Incorporation,0.00%,280.2K,$3.0
+BKTI,BK Technologies Corp,0.00%,94.7K,$6.7M
+BWIN,The Baldwin Insurance Group Inc Class A,0.00%,2.1M,$68.0M
+BGSF,BGSF Inc,0.00%,351.9K,$2.2M
+BRCC,BRC Inc,0.00%,1.8M,$2.9M
+BVFL,BV Financial Inc,0.00%,297.7K,$5.0M
+BKV,BKV Corp,0.00%,524.4K,$12.2M
+ACGP,Associated Capital Group Inc Class A,0.00%,47.3K,$1.6M
+ARRY,Array Technologies Inc Ordinary Shares,0.00%,4.8M,$43.4M
+AVBP,ArriVent BioPharma Inc,0.00%,923.6K,$17.7M
+AHT,Ashford Hospitality Trust Inc,0.00%,167.6K,$1.0M
+ASH,Ashland Inc,0.00%,1.4M,$80.0M
+SMXT,SolarMax Technology Inc,0.00%,268.7K,$317.1K
+RGNX,Regenxbio Inc,0.00%,1.4M,$12.5M
+RM,Regional Management Corp,0.00%,240.0K,$10.5M
+STC,Stewart Information Services Corp,0.00%,878.7K,$64.0M
+STXS,Stereotaxis Inc,0.00%,1.7M,$4.9M
+--,Sterling Bancorp Inc,0.00%,1.0M,$10.0
+SCS,Steelcase Inc Class A,0.00%,2.7M,$45.0M
+SCL,Stepan Co,0.00%,679.4K,$34.0M
+STEM,Stem Inc Class A,0.00%,237.9K,$3.6M
+STEL,Stellar Bancorp Inc,0.00%,1.4M,$44.0M
+SWAG,Stran & Co Inc,0.00%,104.1K,$176.0K
+STRA,Strategic Education Inc,0.00%,685.0K,$55.7M
+--,Streamex Corp,0.00%,836.3K,$4.0M
+STRT,Strattec Security Corp,0.00%,129.2K,$8.5M
+STRS,Stratus Properties Inc,0.00%,268.9K,$5.2M
+STRW,Strawberry Fields REIT Inc Ordinary Shar...,0.00%,219.1K,$2.6M
+SFIX,Stitch Fix Inc Class A,0.00%,3.2M,$16.9M
+SYBT,Stock Yards Bancorp Inc,0.00%,904.4K,$73.0M
+STOK,Stoke Therapeutics Inc,0.00%,1.5M,$30.4M
+SRI,Stoneridge Inc,0.00%,807.0K,$6.7M
+STGW,Stagwell Inc Ordinary Shares - Class A,0.00%,3.5M,$19.6M
+SMP,Standard Motor Products Inc,0.00%,693.4K,$26.9M
+SXI,Standex International Corp,0.00%,379.0K,$77.3M
+STRZ,Starz Entertainment Corp,0.00%,413.3K,$5.3M
+STHO,Star Holdings,0.00%,389.2K,$3.4M
+CXM,Sprinklr Inc Class A,0.00%,3.5M,$30.0M
+SPT,Sprout Social Inc Class A,0.00%,1.5M,$24.0M
+SRBK,SR Bancorp Inc,0.00%,275.4K,$4.1M
+STAA,Staar Surgical Co,0.00%,1.1M,$31.0M
+SLNG,Stabilis Solutions Inc Ordinary Shares,0.00%,166.3K,$670.2K
+SNCY,Sun Country Airlines Holdings Inc,0.00%,1.7M,$22.6M
+SXC,SunCoke Energy Inc,0.00%,2.7M,$20.8M
+RGR,Sturm Ruger & Co Inc,0.00%,526.3K,$18.2M
+INN,Summit Hotel Properties Inc,0.00%,3.3M,$17.9M
+SMC,Summit Midstream Corp,0.00%,376.1K,$8.7M
+SSBI,Summit State Bank,0.00%,177.6K,$2.1M
+SMMT,Summit Therapeutics Inc Ordinary Shares,0.00%,2.4M,$56.1M
+SGC,Superior Group Of Companies Inc,0.00%,424.6K,$5.6M
+SUPN,Supernus Pharmaceuticals Inc,0.00%,1.7M,$76.1M
+SGRY,Surgery Partners Inc,0.00%,2.2M,$49.7M
+SURG,Surgepays Inc,0.00%,418.4K,$1.1M
+SRDX,Surmodics Inc,0.00%,412.9K,$14.1M
+SRZN,Surrozen Inc Ordinary Shares,0.00%,151.6K,$1.8M
+SRFM,Surf Air Mobility Inc,0.00%,420.8K,$1.8M
+STRO,Sutro Biopharma Inc,0.00%,2.4M,$2.0M
+SG,Sweetgreen Inc Ordinary Shares - Class A,0.00%,3.0M,$27.1M
+SLVM,Sylvamo Corp Ordinary Shares When Issued,0.00%,1.1M,$49.9M
+SYM,Symbotic Inc Ordinary Shares - Class A,0.00%,1.7M,$80.9M
+ACNT,Ascent Industries Co,0.00%,265.0K,$3.2M
+SNCR,Synchronoss Technologies Inc,0.00%,270.0K,$1.6M
+SYNA,Synaptics Inc,0.00%,1.2M,$81.1M
+TPH,Tri Pointe Homes Inc,0.00%,2.7M,$95.5M
+TRTX,TPG RE Finance Trust Inc,0.00%,2.0M,$19.0M
+TSSI,TSS Inc,0.00%,624.4K,$8.7M
+SST,System1 Inc,0.00%,17.1K,$121.5K
+TELA,TELA Bio Inc Ordinary Shares,0.00%,1.2M,$2.1M
+TFSL,TFS Financial Corp,0.00%,1.7M,$24.4M
+SHO,Sunstone Hotel Investors Inc,0.00%,6.4M,$60.4M
+SUNS,Sunrise Realty Trust Inc,0.00%,333.3K,$3.7M
+SNDX,Syndax Pharmaceuticals Inc,0.00%,2.6M,$41.8M
+MLAB,Mesa Laboratories Inc,0.00%,159.6K,$10.8M
+CASH,Pathward Financial Inc,0.00%,749.7K,$59.6M
+MGX,Metagenomi Inc,0.00%,743.7K,$1.3M
+MEI,Methode Electronics Inc,0.00%,1.1M,$8.3M
+MXC,Mexco Energy Corp,0.00%,43.7K,$353.6K
+MIAX,Miami International Holdings Inc,0.00%,499.7K,$18.8M
+MVIS,Microvision Inc,0.00%,7.5M,$8.6M
+MCBS,MetroCity Bankshares Inc,0.00%,575.2K,$17.2M
+MCB,Metropolitan Bank Holding Corp,0.00%,331.0K,$26.3M
+MTSR,Metsera Inc,0.00%,475.7K,$16.8M
+MEC,Mayville Engineering Co Inc,0.00%,546.4K,$8.0M
+MAZE,Maze Therapeutics Inc,0.00%,275.4K,$4.0M
+MCFT,MasterCraft Boat Holdings Inc,0.00%,510.5K,$11.2M
+MBC,MasterBrand Inc Ordinary Shares,0.00%,4.0M,$51.3M
+MFIN,Medallion Financial Corp,0.00%,684.8K,$7.2M
+MAX,MediaAlpha Inc Ordinary Shares - Class A,0.00%,947.9K,$10.0M
+MPW,Medical Properties Trust Inc,0.00%,14.2M,$63.8M
+MED,Medifast Inc,0.00%,320.0K,$4.5M
+MD,Pediatrix Medical Group Inc,0.00%,2.7M,$46.4M
+MCY,Mercury General Corp,0.00%,872.6K,$67.5M
+MRBK,Meridian Corp Ordinary Shares,0.00%,360.0K,$5.7M
+MLNK,MeridianLink Inc,0.00%,927.2K,$18.4M
+MBWM,Mercantile Bank Corp,0.00%,491.4K,$24.2M
+MBIN,Merchants Bancorp,0.00%,643.6K,$20.9M
+MGRC,McGrath RentCorp,0.00%,776.1K,$94.3M
+MH,McGraw Hill Inc,0.00%,900.3K,$13.1M
+SABR,Sabre Corp,0.00%,11.6M,$20.7M
+SOC,Sable Offshore Corp,0.00%,2.3M,$62.7M
+SACH,Sachem Capital Corp,0.00%,1.5M,$1.9M
+SPAI,Safe Pro Group Inc,0.00%,9.6K,$64.3K
+SAFE,Safehold Inc,0.00%,1.7M,$27.9M
+SAFT,Safety Insurance Group Inc,0.00%,445.0K,$32.9M
+SGA,Saga Communications Inc Class A,0.00%,131.2K,$1.6M
+SGMT,Sagimet Biosciences Inc Ordinary Shares ...,0.00%,747.5K,$5.6M
+SAIL,SailPoint Inc,0.00%,1.8M,$36.3M
+JOE,The St. Joe Co,0.00%,1.2M,$61.4M
+SGRP,SPAR Group Inc,0.00%,361.3K,$430.0K
+SWKH,SWK Holdings Corp,0.00%,135.8K,$2.0M
+RYI,Ryerson Holding Corp,0.00%,849.4K,$19.4M
+SKYX,SKYX Platforms Corp,0.00%,1.6M,$1.9M
+--,Srax Pfd,0.00%,590.6K,$41.3K
+SNWV,SANUWAVE Health Inc,0.00%,265.7K,$11.1M
+PDYN,Palladyne AI Corp Class A,0.00%,653.4K,$4.9M
+SRPT,Sarepta Therapeutics Inc,0.00%,3.0M,$54.0M
+SATL,Satellogic Inc Ordinary Shares - Class A,0.00%,1.7M,$6.4M
+BFS,Saul Centers Inc,0.00%,387.1K,$13.2M
+SVRA,Savara Inc,0.00%,5.1M,$16.7M
+SVV,Savers Value Village Inc,0.00%,1.2M,$14.7M
+SCSC,ScanSource Inc,0.00%,608.7K,$26.6M
+SD,SandRidge Energy Inc,0.00%,977.2K,$11.6M
+JBSS,John B Sanfilippo & Son Inc,0.00%,307.1K,$19.9M
+SGMO,Sangamo Therapeutics Inc,0.00%,5.9M,$3.0M
+SANA,Sana Biotechnology Inc Ordinary Shares,0.00%,5.0M,$15.4M
+SMTI,Sanara MedTech Inc,0.00%,97.6K,$3.3M
+SBH,Sally Beauty Holdings Inc,0.00%,3.2M,$44.4M
+SNTI,Senti Biosciences Inc,0.00%,368.9K,$542.3K
+SENS,Senseonics Holdings Inc,0.00%,20.3M,$9.3M
+SRTS,Sensus Healthcare Inc,0.00%,494.1K,$1.7M
+SLQT,SelectQuote Inc Ordinary Shares,0.00%,4.3M,$9.7M
+SLS,SELLAS Life Sciences Group Inc,0.00%,3.8M,$7.2M
+MEG,Montrose Environmental Group Inc Ordinar...,0.00%,1.1M,$32.9M
+MCRI,Monarch Casino & Resort Inc,0.00%,400.5K,$41.8M
+MGRM,Monogram Technologies Inc,0.00%,531.4K,$3.1M
+MNRO,Monro Inc,0.00%,893.4K,$14.8M
+IPM,Intelligent Protection Management Corp,0.00%,139.6K,$269.4K
+PZZA,Papa John's International Inc,0.00%,997.2K,$48.6M
+PAR,PAR Technology Corp,0.00%,1.3M,$66.1M
+PARR,Par Pacific Holdings Inc,0.00%,1.6M,$53.7M
+PZG,Paramount Gold Nevada Corp,0.00%,1.2M,$1.2M
+PGRE,Paramount Group Inc,0.00%,5.8M,$41.6M
+PKE,Park Aerospace Corp,0.00%,597.3K,$11.2M
+TRAK,ReposiTrak Inc,0.00%,437.0K,$7.1M
+PK,Park Hotels & Resorts Inc,0.00%,5.6M,$66.4M
+PRK,Park National Corp,0.00%,461.8K,$79.3M
+PKOH,Park-Ohio Holdings Corp,0.00%,307.9K,$6.2M
+PKBK,Parke Bancorp Inc,0.00%,313.1K,$7.1M
+PSQH,PSQ Holdings Inc Ordinary Shares - Class...,0.00%,818.4K,$1.4M
+PD,PagerDuty Inc,0.00%,2.7M,$44.8M
+PTEN,Patterson-UTI Energy Inc,0.00%,11.8M,$68.4M
+PASG,Passage Bio Inc Ordinary Shares,0.00%,73.2K,$506.8K
+PAY,Paymentus Holdings Inc Class A,0.00%,973.0K,$37.9M
+PAYS,PaySign Inc,0.00%,994.7K,$5.2M
+PAYO,Payoneer Global Inc,0.00%,9.1M,$63.2M
+BTU,Peabody Energy Corp,0.00%,3.7M,$63.5M
+PDSB,PDS Biotechnology Corp,0.00%,995.4K,$1.2M
+PGC,Peapack Gladstone Financial Corp,0.00%,493.5K,$14.3M
+PEB,Pebblebrook Hotel Trust,0.00%,3.7M,$41.7M
+PED,PEDEVCO Corp,0.00%,827.3K,$503.0K
+PAG,Penske Automotive Group Inc,0.00%,519.1K,$95.7M
+PRDO,Perdoceo Education Corp,0.00%,1.8M,$59.1M
+PWP,Perella Weinberg Partners Ordinary Share...,0.00%,1.8M,$40.2M
+PHLT,Performant Healthcare Inc,0.00%,2.2M,$16.5M
+PTON,Peloton Interactive Inc,0.00%,11.9M,$90.7M
+PENG,Penguin Solutions Inc,0.00%,1.6M,$38.4M
+PENN,PENN Entertainment Inc,0.00%,4.8M,$97.2M
+PNTG,Pennant Group Inc,0.00%,970.7K,$23.3M
+PMT,PennyMac Mortgage Investment Trust,0.00%,2.7M,$33.5M
+PEBO,Peoples Bancorp Inc (Marietta OH),0.00%,1.1M,$32.7M
+PEBK,Peoples Bancorp of North Carolina Inc,0.00%,169.4K,$5.4M
+PFIS,Peoples Financial Services Corp,0.00%,274.9K,$14.4M
+PEPG,PepGen Inc,0.00%,472.4K,$548.0K
+PSNL,Personalis Inc,0.00%,1.7M,$8.5M
+WOOF,Petco Health and Wellness Co Inc Ordinar...,0.00%,2.3M,$9.3M
+PETS,PetMed Express Inc,0.00%,602.8K,$1.9M
+PESI,Perma-Fix Environmental Services Inc,0.00%,531.3K,$6.3M
+PPIH,Perma-Pipe International Holdings Inc,0.00%,216.1K,$6.4M
+PHAT,Phathom Pharmaceuticals Inc Ordinary sha...,0.00%,1.6M,$18.9M
+PAHC,Phibro Animal Health Corp Class A,0.00%,628.5K,$23.3M
+PHIN,Phinia Inc,0.00%,1.2M,$68.8M
+PLAB,Photronics Inc,0.00%,1.9M,$42.9M
+PHR,Phreesia Inc,0.00%,1.7M,$55.3M
+PHUN,Phunware Inc Ordinary Shares,0.00%,658.5K,$1.7M
+--,Piedmont Lithium Inc,0.00%,628.2K,$4.6M
+PDM,Piedmont Realty Trust Inc Class A,0.00%,3.9M,$33.3M
+PPC,Pilgrims Pride Corp,0.00%,1.1M,$49.9M
+OBT,Orange County Bancorp Inc,0.00%,309.0K,$8.2M
+OSUR,OraSure Technologies Inc,0.00%,2.2M,$7.1M
+NXPL,NextPlat Corp Ordinary Shares,0.00%,44.5K,$31.4K
+ORC,Orchid Island Capital Inc,0.00%,3.6M,$25.1M
+OBIO,Orchestra BioMed Holdings Inc,0.00%,908.9K,$2.5M
+OTLK,Outlook Therapeutics Inc,0.00%,942.8K,$802.5K
+OM,Outset Medical Inc Ordinary Shares,0.00%,554.4K,$7.7M
+BBBY,Bed Bath & Beyond Inc,0.00%,1.7M,$15.5M
+OVID,Ovid Therapeutics Inc,0.00%,1.8M,$2.2M
+OWLT,Owlet Inc Class A,0.00%,136.3K,$1.0M
+OXM,Oxford Industries Inc,0.00%,454.5K,$20.0M
+PAMT,PAMT Corp,0.00%,168.9K,$2.1M
+PBF,PBF Energy Inc Class A,0.00%,2.5M,$69.4M
+CNXN,PC Connection Inc,0.00%,369.7K,$23.7M
+PBBK,PB Bankshares Inc,0.00%,51.1K,$1.0M
+PCB,PCB Bancorp,0.00%,401.2K,$8.9M
+PDFS,PDF Solutions Inc,0.00%,1.1M,$22.2M
+PX,P10 Inc Class A,0.00%,2.0M,$24.6M
+PACS,PACS Group Inc,0.00%,1.2M,$14.0M
+PACB,Pacific Biosciences of California Inc,0.00%,8.8M,$11.5M
+--,Pacific Premier Bancorp Inc,0.00%,2.9M,$71.4M
+PCRX,Pacira BioSciences Inc,0.00%,1.4M,$36.5M
+RFL,Rafael Holdings Inc Ordinary Shares - Cl...,0.00%,747.7K,$1.1M
+RLGT,Radiant Logistics Inc,0.00%,1.1M,$7.2M
+RXO,RXO Inc,0.00%,5.1M,$84.1M
+RXT,Rackspace Technology Inc Ordinary Shares,0.00%,2.1M,$2.7M
+RDVT,Red Violet Inc Ordinary Shares,0.00%,339.9K,$17.1M
+RDW,Redwire Corp,0.00%,1.8M,$16.0M
+RWT,Redwood Trust Inc,0.00%,4.2M,$25.4M
+REBN,Reborn Coffee Inc Ordinary Shares,0.00%,100.0,$262.0
+RXRX,Recursion Pharmaceuticals Inc Class A,0.00%,12.2M,$57.2M
+RCAT,Red Cat Holdings Inc,0.00%,2.2M,$19.4M
+RRBI,Red River Bancshares Inc,0.00%,126.4K,$8.3M
+RRGB,Red Robin Gourmet Burgers Inc,0.00%,465.1K,$3.0M
+RYAM,Rayonier Advanced Materials Inc,0.00%,2.0M,$11.1M
+METCB,Ramaco Resources Inc Ordinary Shares - C...,0.00%,166.5K,$2.7M
+METC,Ramaco Resources Inc Class A,0.00%,1.2M,$32.3M
+RMAX,RE/MAX Holdings Inc Class A,0.00%,594.1K,$5.6M
+RDI,Reading International Inc Class A,0.00%,497.6K,$766.3K
+RC,Ready Capital Corp,0.00%,5.2M,$22.0M
+HOUS,Anywhere Real Estate Inc,0.00%,3.0M,$18.3M
+AIRE,ReAlpha Tech Corp,0.00%,284.1K,$110.4K
+STBA,S&T Bancorp Inc,0.00%,1.3M,$49.4M
+SES,SES AI Corp,0.00%,6.3M,$6.8M
+SABS,SAB Biotherapeutics Inc,0.00%,227.6K,$468.8K
+SBFG,SB Financial Group Inc,0.00%,225.9K,$4.7M
+RUSHB,Rush Enterprises Inc Class B,0.00%,386.5K,$22.4M
+RSI,Rush Street Interactive Inc Ordinary Sha...,0.00%,2.8M,$61.4M
+RXST,RxSight Inc,0.00%,1.2M,$10.5M
+ROOT,Root Inc Ordinary Shares - Class A,0.00%,289.5K,$26.7M
+RUM,Rumble Inc,0.00%,2.8M,$20.4M
+RDNW,RideNow Group Inc Class B,0.00%,432.4K,$1.7M
+RCKT,Rocket Pharmaceuticals Inc,0.00%,2.7M,$8.9M
+RMTI,Rockwell Medical Inc,0.00%,796.0K,$1.4M
+RCKY,Rocky Brands Inc,0.00%,226.8K,$6.9M
+ROG,Rogers Corp,0.00%,587.2K,$46.1M
+REPX,Riley Exploration Permian Inc,0.00%,451.2K,$13.2M
+RMNI,Rimini Street Inc,0.00%,2.1M,$9.0M
+RNG,RingCentral Inc Class A,0.00%,2.4M,$73.5M
+REI,Ring Energy Inc,0.00%,5.1M,$5.6M
+RVSB,Riverview Bancorp Inc,0.00%,616.7K,$3.1M
+UPBD,Upbound Group Inc,0.00%,1.6M,$39.9M
+RENT,Rent the Runway Inc Class A,0.00%,63.3K,$348.0K
+RBCAA,Republic Bancorp Inc Class A,0.00%,278.0K,$21.3M
+RPAY,Repay Holdings Corp Ordinary Shares - Cl...,0.00%,2.4M,$14.3M
+REPL,Replimune Group Inc,0.00%,1.7M,$9.2M
+RNXT,RenovoRx Inc,0.00%,1.0M,$992.8K
+KRMD,KORU Medical Systems Inc,0.00%,1.1M,$4.6M
+RELY,Remitly Global Inc,0.00%,5.2M,$96.0M
+REKR,Rekor Systems Inc,0.00%,3.2M,$3.5M
+RLAY,Relay Therapeutics Inc Ordinary Shares,0.00%,5.2M,$18.6M
+RVLV,Revolve Group Inc Class A,0.00%,1.3M,$28.4M
+REX,REX American Resources Corp,0.00%,422.0K,$26.4M
+REFR,Research Frontiers Inc,0.00%,173.6K,$234.3K
+RSSS,Research Solutions Inc,0.00%,828.8K,$2.5M
+RGP,Resources Connection Inc,0.00%,981.8K,$5.0M
+RVP,Retractable Technologies Inc,0.00%,412.2K,$345.4K
+RHLD,Resolute Holdings Management Inc,0.00%,107.7K,$7.1M
+AXIL,AXIL Brands Inc,0.00%,2.0K,$11.2K
+RVPH,Reviva Pharmaceuticals Holdings Inc Ordi...,0.00%,1.2M,$536.5K
+NAUT,Nautilus Biotechnology Inc Ordinary Shar...,0.00%,1.7M,$1.2M
+KITT,Nauticus Robotics Inc,0.00%,62.1K,$56.2K
+NAVI,Navient Corp,0.00%,2.2M,$29.6M
+NVTS,Navitas Semiconductor Corp Class A,0.00%,4.1M,$24.1M
+NBBK,NB Bancorp Inc,0.00%,993.1K,$18.8M
+NPK,National Presto Industries Inc,0.00%,172.0K,$18.0M
+NRC,National Research Corp Class A,0.00%,576.3K,$8.5M
+NSTS,NSTS Bancorp Inc,0.00%,182.6K,$2.2M
+NRXP,NRX Pharmaceuticals Inc Ordinary Shares,0.00%,279.0K,$647.3K
+NVEC,NVE Corp,0.00%,150.2K,$9.7M
+NKTR,Nektar Therapeutics,0.00%,524.0K,$15.6M
+NNI,Nelnet Inc Class A,0.00%,446.0K,$57.4M
+NEOG,Neogen Corp,0.00%,6.8M,$39.4M
+NEO,NeoGenomics Inc,0.00%,4.0M,$35.4M
+NEPH,Nephros Inc,0.00%,129.0K,$481.2K
+NRDY,Nerdy Inc Ordinary Shares - Class A,0.00%,1.7M,$2.4M
+NRDS,Nerdwallet Inc Class A,0.00%,1.3M,$13.5M
+NMRA,Neumora Therapeutics Inc,0.00%,2.3M,$4.0M
+NPWR,NET Power Inc Ordinary Shares - Class A,0.00%,906.8K,$2.3M
+NPCE,NeuroPace Inc,0.00%,830.1K,$7.6M
+NMTC,NeuroOne Medical Technologies Corp,0.00%,854.6K,$653.1K
+STIM,Neuronetics Inc,0.00%,1.8M,$5.9M
+MTVA,MetaVia Inc,0.00%,34.8K,$22.1K
+NRXS,Neuraxis Inc,0.00%,10.0K,$25.4K
+NGNE,Neurogene Inc,0.00%,364.9K,$6.7M
+AESI,Atlas Energy Solutions Inc Class A,0.00%,2.1M,$24.8M
+NYC,American Strategic Investment Co Ordinar...,0.00%,2.5K,$27.8K
+NFE,New Fortress Energy Inc Class A,0.00%,5.7M,$14.0M
+IDR,Idaho Strategic Resources Inc,0.00%,362.9K,$10.2M
+NLOP,Net Lease Office Properties,0.00%,492.2K,$14.6M
+NTGR,Netgear Inc,0.00%,813.5K,$22.1M
+NTWK,NETSOL Technologies Inc,0.00%,439.2K,$1.8M
+NTCT,NetScout Systems Inc,0.00%,2.2M,$54.3M
+NTST,Netstreit Corp Ordinary Shares,0.00%,2.6M,$47.4M
+NTIP,Network-1 Technologies Inc,0.00%,392.0K,$584.1K
+NWL,Newell Brands Inc,0.00%,13.2M,$78.2M
+ADAM,Adamas Trust Inc,0.00%,2.8M,$20.0M
+--,New York REIT Liquidating LLC,0.00%,19.1K,$47.8K
+NMRK,Newmark Group Inc Class A,0.00%,4.8M,$87.1M
+NPKI,NPK International Inc,0.00%,2.4M,$25.3M
+NWS,News Corp Class B,0.00%,1.9M,$64.6M
+NEWT,NewtekOne Inc,0.00%,830.8K,$10.3M
+NINE,Nine Energy Service Inc,0.00%,596.2K,$409.4K
+MASS,908 Devices Inc Ordinary Shares,0.00%,784.7K,$4.9M
+NB,NioCorp Developments Ltd,0.00%,1.7M,$7.6M
+NXDT,NexPoint Diversified Real Estate Trust,0.00%,1.1M,$4.5M
+NXRT,NexPoint Residential Trust Inc,0.00%,592.9K,$20.5M
+NEXT,NextDecade Corp,0.00%,5.8M,$62.1M
+NODK,NI Holdings Inc,0.00%,177.3K,$2.4M
+NREF,NexPoint Real Estate Finance Inc Ordinar...,0.00%,236.2K,$3.5M
+NXTC,NextCure Inc,0.00%,50.1K,$251.8K
+NXGL,NexGel Inc,0.00%,40.1K,$98.2K
+NXDR,Nextdoor Holdings Inc Class A,0.00%,5.6M,$11.5M
+NN,NextNav Inc,0.00%,2.6M,$45.8M
+OMCC,Old Market Capital Corp,0.00%,145.1K,$806.9K
+NIC,Nicolet Bankshares Inc,0.00%,391.5K,$54.1M
+FUN,Six Flags Entertainment Corp,0.00%,2.8M,$64.6M
+SLP,Simulations Plus Inc,0.00%,513.1K,$7.3M
+SBGI,Sinclair Inc Ordinary Shares - Class A,0.00%,1.1M,$16.2M
+SION,Sionna Therapeutics Inc,0.00%,352.3K,$8.7M
+BIVI,BioVie Inc Ordinary Shares - Class A,0.00%,46.6K,$70.9K
+BVS,Bioventus Inc Class A,0.00%,1.0M,$7.5M
+BDSX,Biodesix Inc Ordinary Shares,0.00%,2.2M,$959.0K
+BMEA,Biomea Fusion Inc,0.00%,1.4M,$2.8M
+BCAB,BioAtla Inc Ordinary Shares,0.00%,1.2M,$542.5K
+BIOA,Bioage Labs Inc,0.00%,1.2M,$5.7M
+BTM,Bitcoin Depot Inc Ordinary Shares - Clas...,0.00%,545.5K,$2.0M
+BJRI,BJ's Restaurants Inc,0.00%,678.5K,$22.8M
+BDTX,Black Diamond Therapeutics Inc Ordinary ...,0.00%,1.3M,$3.6M
+BCG,Binah Capital Group Inc,0.00%,81.9K,$159.7K
+BBT,Beacon Financial Corp,0.00%,4.1M,$67.7M
+BRY,Berry Corp (bry),0.00%,1.9M,$6.3M
+BCRX,BioCryst Pharmaceuticals Inc,0.00%,6.6M,$54.8M
+BLFS,BioLife Solutions Inc,0.00%,1.4M,$34.7M
+--,NeueHealth Inc,0.00%,111.8K,$733.6K
+BHF,Brighthouse Financial Inc Registered Shs...,0.00%,1.8M,$85.1M
+BV,BrightView Holdings Inc,0.00%,2.2M,$32.3M
+AAMI,Acadian Asset Management Inc,0.00%,873.3K,$44.5M
+BRSP,BrightSpire Capital Inc Class A,0.00%,4.1M,$23.6M
+BRLT,Brilliant Earth Group Inc Class A,0.00%,373.0K,$1.1M
+BTSG,BrightSpring Health Services Inc,0.00%,3.0M,$71.8M
+BHR,Braemar Hotels & Resorts Inc,0.00%,2.0M,$5.6M
+BNAI,Brand Engagement Network Inc,0.00%,263.9K,$81.3K
+BDN,Brandywine Realty Trust,0.00%,5.3M,$22.4M
+BRZE,Braze Inc Class A,0.00%,2.5M,$69.0M
+--,Bridge Investment Group Holdings Inc Ord...,0.00%,1.2M,$11.2M
+BOLT,Bolt Biotherapeutics Inc Ordinary Shares,0.00%,47.2K,$249.6K
+BSBK,Bogota Financial Corp,0.00%,138.3K,$1.3M
+SAM,Boston Beer Co Inc Class A,0.00%,262.8K,$58.1M
+BOC,Boston Omaha Corp Class A,0.00%,835.8K,$11.2M
+BOLD,Boundless Bio Inc,0.00%,445.2K,$498.6K
+BOW,Bowhead Specialty Holdings Inc,0.00%,669.8K,$20.8M
+LUCK,Lucky Strike Entertainment Corp,0.00%,274.0K,$2.9M
+BWMN,Bowman Consulting Group Ltd,0.00%,436.6K,$18.7M
+BKE,Buckle Inc,0.00%,956.6K,$54.1M
+BBW,Build-A-Bear Workshop Inc,0.00%,400.5K,$24.4M
+BFRG,Bullfrog AI Holdings Inc,0.00%,93.3K,$112.9K
+BMBL,Bumble Inc Ordinary Shares Class A,0.00%,1.4M,$8.8M
+BHRB,Burke & Herbert Financial Services Corp,0.00%,397.6K,$25.3M
+BFST,Business First Bancshares Inc,0.00%,821.6K,$20.5M
+BFLY,Butterfly Network Inc Ordinary Shares - ...,0.00%,5.2M,$8.4M
+BZFD,BuzzFeed Inc Class A,0.00%,610.2K,$1.2M
+BY,Byline Bancorp Inc,0.00%,1.0M,$29.4M
+BYRN,Byrna Technologies Inc,0.00%,492.4K,$10.0M
+CFFI,C&F Financial Corp,0.00%,97.2K,$7.0M
+AI,C3.ai Inc Ordinary Shares - Class A,0.00%,3.7M,$62.8M
+BF/A,Brown-Forman Corp Class A,0.00%,1.3M,$40.4M
+BYFC,Broadway Financial Corp Ordinary Shares ...,0.00%,258.6K,$2.1M
+BWEN,Broadwind Inc,0.00%,660.5K,$1.4M
+BKD,Brookdale Senior Living Inc,0.00%,7.2M,$55.6M
+AZTA,Azenta Inc,0.00%,1.2M,$38.0M
+BWB,Bridgewater Bancshares Inc,0.00%,645.8K,$10.6M
+BRID,Bridgford Foods Corp,0.00%,47.7K,$357.6K
+VTOL,Bristow Group Inc Ordinary Shares,0.00%,760.2K,$29.3M
+CVBF,CVB Financial Corp,0.00%,4.0M,$81.2M
+CVV,CVD Equipment Corp,0.00%,182.6K,$514.9K
+CVI,CVR Energy Inc,0.00%,954.9K,$29.1M
+CVRX,CVRx Inc,0.00%,686.2K,$5.4M
+LAW,CS Disco Inc,0.00%,753.6K,$4.1M
+CSGS,CSG Systems International Inc,0.00%,881.2K,$56.5M
+LOVE,The Lovesac Co,0.00%,430.1K,$8.2M
+LVLU,Lulus Fashion Lounge Holdings Inc,0.00%,41.3K,$162.1K
+LOCL,Local Bounti Corp,0.00%,127.4K,$307.1K
+LGVN,Longeveron Inc Ordinary Shares - Class A,0.00%,361.3K,$299.2K
+--,Luby's Inc,0.00%,449.8K,$112.4K
+LUCD,Lucid Diagnostics Inc,0.00%,2.1M,$2.6M
+LCID,Lucid Group Inc Shs,0.00%,38.3M,$75.9M
+FBNC,First Bancorp,0.00%,1.2M,$67.7M
+FRBA,First Bank,0.00%,774.4K,$13.0M
+BUSE,First Busey Corp,0.00%,2.7M,$67.8M
+FBIZ,First Business Financial Services Inc,0.00%,238.1K,$12.5M
+FCF,First Commonwealth Financial Corp,0.00%,3.1M,$55.3M
+FCCO,First Community Corp,0.00%,249.7K,$6.8M
+FCBC,First Community Bankshares Inc,0.00%,500.3K,$19.0M
+FFBC,First Financial Bancorp,0.00%,2.8M,$75.2M
+DIBS,1stdibs.com Inc Ordinary Shares,0.00%,910.9K,$2.5M
+INBK,First Internet Bancorp,0.00%,243.0K,$6.1M
+FIBK,First Interstate BancSystem Inc,0.00%,2.7M,$88.0M
+CLDI,Calidi Biotherapeutics Inc Ordinary Shar...,0.00%,34.2K,$56.5K
+FRME,First Merchants Corp,0.00%,1.8M,$73.4M
+FMBH,First Mid Bancshares Inc,0.00%,680.9K,$27.5M
+FXNC,First National Corp,0.00%,234.0K,$5.5M
+FNWB,First Northwest Bancorp,0.00%,242.0K,$1.8M
+FSFG,First Savings Financial Group Inc,0.00%,156.0K,$4.3M
+FSEA,First Seacoast Bancorp Inc,0.00%,140.5K,$1.6M
+GRND,Grindr Inc Ordinary Shares - Class A,0.00%,1.3M,$19.9M
+GO,Grocery Outlet Holding Corp,0.00%,2.9M,$52.7M
+PKST,Peakstone Realty Trust Ordinary Shares,0.00%,1.1M,$14.3M
+GPMT,Granite Point Mortgage Trust Inc,0.00%,1.5M,$4.5M
+GRNT,Granite Ridge Resources Inc Ordinary Sha...,0.00%,2.1M,$11.7M
+GRAL,GRAIL Inc,0.00%,973.5K,$31.9M
+EAF,GrafTech International Ltd,0.00%,667.3K,$6.6M
+OLN,Olin Corp,0.00%,3.7M,$86.6M
+--,Old Point Financial Corp,0.00%,149.0K,$6.3M
+OLPX,Olaplex Holdings Inc,0.00%,3.1M,$4.4M
+OPTT,Ocean Power Technologies Inc,0.00%,3.8M,$2.0M
+OII,Oceaneering International Inc,0.00%,3.2M,$77.9M
+OCFC,OceanFirst Financial Corp,0.00%,1.7M,$31.9M
+ONIT,Onity Group Inc,0.00%,189.3K,$7.8M
+OCUL,Ocular Therapeutix Inc,0.00%,4.7M,$57.5M
+OCGN,Ocugen Inc,0.00%,8.9M,$9.1M
+IRD,Opus Genetics Inc Ordinary Shares,0.00%,661.4K,$806.9K
+OPITS,Office Properties Income Trust,0.00%,1.6M,$342.7K
+OPAD,Offerpad Solutions Inc Class A,0.00%,552.6K,$2.8M
+OVBC,Ohio Valley Banc Corporation,0.00%,117.0K,$4.3M
+ODC,Oil-Dri Corp of America,0.00%,318.6K,$18.9M
+OIS,Oil States International Inc,0.00%,1.9M,$10.5M
+ONDS,Ondas Holdings Inc,0.00%,7.9M,$46.5M
+TOI,The Oncology Institute Inc,0.00%,2.8M,$9.7M
+OLP,One Liberty Properties Inc,0.00%,528.9K,$12.6M
+FLWS,1-800-Flowers.com Inc Class A,0.00%,440.9K,$2.5M
+OSS,One Stop Systems Inc,0.00%,543.3K,$3.2M
+ONMD,OneMedNet Corp Ordinary Shares - Class A,0.00%,688.0K,$591.6K
+OKUR,OnKure Therapeutics Inc Class A Shares,0.00%,510.2K,$1.4M
+OS,OneStream Inc Class A common stock,0.00%,2.2M,$45.1M
+ONEW,OneWater Marine Inc Class A,0.00%,351.2K,$5.9M
+OSPN,OneSpan Inc,0.00%,1.1M,$17.2M
+--,Olo Inc Ordinary Shares - Class A,0.00%,3.4M,$34.9M
+ZEUS,Olympic Steel Inc,0.00%,310.0K,$10.4M
+OMDA,Omada Health Inc,0.00%,38.8K,$918.0K
+OFLX,Omega Flex Inc,0.00%,91.0K,$3.2M
+OMCL,Omnicell Inc,0.00%,1.3M,$43.9M
+OMER,Omeros Corp,0.00%,1.7M,$7.1M
+TARA,Protara Therapeutics Inc Ordinary Shares,0.00%,1.0M,$3.1M
+PIII,P3 Health Partners Inc Class A,0.00%,28.4K,$235.9K
+PUBM,PubMatic Inc Ordinary Shares - Class A,0.00%,1.3M,$11.0M
+LUNG,Pulmonx Corp Ordinary Shares,0.00%,1.2M,$2.0M
+PRPL,Purple Innovation Inc Ordinary Shares - ...,0.00%,1.6M,$1.9M
+QTTB,Q32 Bio Inc,0.00%,186.7K,$319.3K
+QCRH,QCR Holdings Inc,0.00%,503.2K,$39.4M
+QUAD,Quad/Graphics Inc Class A,0.00%,1.0M,$6.8M
+KWR,Quaker Houghton,0.00%,448.1K,$65.0M
+PYXS,Pyxis Oncology Inc,0.00%,1.3M,$1.6M
+PLSE,Pulse Biosciences Inc,0.00%,603.1K,$9.4M
+PBYI,Puma Biotechnology Inc,0.00%,1.3M,$6.5M
+PCYO,Pure Cycle Corp,0.00%,594.1K,$6.0M
+PCT,PureCycle Technologies Inc Ordinary Shar...,0.00%,5.1M,$73.5M
+PRLB,Proto Labs Inc,0.00%,781.8K,$38.9M
+PVBC,Provident Bancorp Inc,0.00%,461.3K,$5.9M
+PROV,Provident Financial Holdings Inc,0.00%,175.1K,$2.7M
+PFS,Provident Financial Services Inc,0.00%,3.9M,$77.6M
+PRO,Pros Holdings Inc,0.00%,1.4M,$21.0M
+PUMP,ProPetro Holding Corp,0.00%,2.8M,$14.4M
+PGNY,Progyny Inc,0.00%,2.4M,$57.9M
+PRCT,PROCEPT BioRobotics Corp,0.00%,1.6M,$65.8M
+PRVA,Privia Health Group Inc,0.00%,3.2M,$74.4M
+PROK,ProKidney Corp Ordinary Shares - Class A,0.00%,441.6K,$1.0M
+PAL,Proficient Auto Logistics Inc,0.00%,622.5K,$4.9M
+PRG,PROG Holdings Inc Ordinary Shares,0.00%,1.2M,$43.0M
+PRGS,Progress Software Corp,0.00%,1.4M,$62.7M
+PDEX,Pro-Dex Inc,0.00%,95.9K,$4.5M
+PRA,ProAssurance Corp,0.00%,1.6M,$38.2M
+TRDA,Entrada Therapeutics Inc,0.00%,932.1K,$5.1M
+ELA,Envela Corp,0.00%,316.8K,$2.4M
+EPAC,Enerpac Tool Group Corp Class A,0.00%,1.7M,$72.8M
+EHAB,Enhabit Inc Shs,0.00%,1.5M,$11.9M
+ELVN,Enliven Therapeutics Inc,0.00%,1.4M,$27.5M
+EBF,Ennis Inc,0.00%,775.0K,$14.2M
+--,Lunai Bioworks Inc,0.00%,3.3M,$778.4K
+UUUU,Energy Fuels Inc,0.00%,6.0M,$69.0M
+ERII,Energy Recovery Inc,0.00%,1.7M,$24.1M
+ESOA,Energy Services of America Corp,0.00%,333.2K,$3.4M
+ENR,Energizer Holdings Inc,0.00%,2.3M,$62.8M
+GOOD,Gladstone Commercial Corp,0.00%,1.4M,$18.5M
+LAND,Gladstone Land Corp,0.00%,1.1M,$9.7M
+GNE,Genie Energy Ltd Class B,0.00%,591.2K,$9.0M
+TOON,Kartoon Studios Inc,0.00%,1.2M,$916.9K
+GBIO,Generation Bio Co Ordinary Shares,0.00%,152.4K,$914.5K
+GCO,Genesco Inc,0.00%,340.6K,$10.9M
+GLBZ,Glen Burnie Bancorp,0.00%,14.0K,$58.2K
+GBTG,Global Business Travel Group Inc Ordinar...,0.00%,4.0M,$33.1M
+VRAR,The Glimpse Group Inc,0.00%,427.8K,$633.1K
+GIC,Global Industrial Co,0.00%,422.0K,$15.8M
+GSAT,Globalstar Inc,0.00%,1.6M,$47.6M
+GNL,Global Net Lease Inc,0.00%,7.3M,$57.6M
+GWRS,Global Water Resources Inc,0.00%,440.4K,$4.3M
+GMRE,Global Medical REIT Inc,0.00%,2.0M,$14.7M
+SELF,Global Self Storage Inc,0.00%,312.8K,$1.7M
+DNA,Ginkgo Bioworks Holdings Inc,0.00%,1.3M,$16.3M
+GOGO,Gogo Inc,0.00%,2.3M,$25.4M
+GOCO,GoHealth Inc Ordinary Shares - Class A,0.00%,109.1K,$557.7K
+GORO,Gold Resource Corp,0.00%,3.6M,$1.8M
+GDEN,Golden Entertainment Inc,0.00%,664.8K,$16.5M
+GTIM,Good Times Restaurants Inc,0.00%,343.4K,$570.1K
+GDRX,GoodRx Holdings Inc Ordinary Shares - Cl...,0.00%,2.7M,$11.9M
+GT,Goodyear Tire & Rubber Co,0.00%,8.1M,$68.9M
+GSHD,Goosehead Insurance Inc Class A,0.00%,757.4K,$64.2M
+GPRO,GoPro Inc Class A,0.00%,3.7M,$5.8M
+GRC,Gorman-Rupp Co,0.00%,680.4K,$29.1M
+GOSS,Gossamer Bio Inc,0.00%,6.8M,$16.8M
+FNKO,Funko Inc Class A,0.00%,997.2K,$3.5M
+FF,FutureFuel Corp,0.00%,809.5K,$3.1M
+FVCB,FVCBankcorp Inc,0.00%,504.6K,$6.8M
+GAIA,Gaia Inc Class A,0.00%,432.4K,$2.5M
+GALT,Galectin Therapeutics Inc,0.00%,1.4M,$5.8M
+GAME,GameSquare Holdings Inc,0.00%,2.4M,$1.8M
+GCI,Gannett Co Inc,0.00%,4.4M,$18.1M
+THRM,Gentherm Inc Class A,0.00%,849.3K,$31.2M
+GEOS,Geospace Technologies Corp,0.00%,451.3K,$8.9M
+GABC,German American Bancorp Inc,0.00%,1.2M,$49.0M
+GERN,Geron Corp,0.00%,19.2M,$26.9M
+GETY,Getty Images Holdings Inc,0.00%,3.8M,$7.0M
+GTY,Getty Realty Corp,0.00%,1.8M,$50.9M
+GEVO,Gevo Inc,0.00%,7.0M,$12.2M
+ROCK,Gibraltar Industries Inc,0.00%,905.4K,$56.7M
+GCMG,GCM Grosvenor Inc Ordinary Shares - Clas...,0.00%,1.4M,$18.2M
+GENC,Gencor Industries Inc,0.00%,325.8K,$5.3M
+GENK,GEN Restaurant Group Inc Class A Shares,0.00%,127.3K,$407.4K
+GNLX,Genelux Corp,0.00%,870.5K,$2.9M
+GNSS,Genasys Inc,0.00%,1.3M,$2.5M
+FLNC,Fluence Energy Inc Class A,0.00%,2.0M,$15.1M
+FLNT,Fluent Inc,0.00%,181.1K,$431.0K
+RBBN,Ribbon Communications Inc,0.00%,2.7M,$11.2M
+RELL,Richardson Electronics Ltd,0.00%,357.2K,$3.5M
+RMBI,Richmond Mutual Bancorp Inc Ordinary Sha...,0.00%,360.1K,$5.3M
+RR,Richtech Robotics Inc Class B Common Sto...,0.00%,1.1M,$3.2M
+RIGL,Rigel Pharmaceuticals Inc,0.00%,536.9K,$20.9M
+REYN,Reynolds Consumer Products Inc Ordinary ...,0.00%,1.6M,$38.3M
+RZLT,Rezolute Inc,0.00%,2.4M,$17.2M
+RBKB,Rhinebeck Bancorp Inc Ordinary Shares,0.00%,136.2K,$1.8M
+VENU,Venu Holding Corp,0.00%,942.6K,$12.0M
+VG,Venture Global Inc Ordinary Shares - Cla...,0.00%,2.1M,$27.0M
+VRA,Vera Bradley Inc,0.00%,745.8K,$1.5M
+VGAS,Verde Clean Fuels Inc Ordinary Shares - ...,0.00%,86.6K,$251.2K
+VSTM,Verastem Inc,0.00%,1.9M,$17.5M
+VCYT,Veracyte Inc,0.00%,2.4M,$74.2M
+VERA,Vera Therapeutics Inc Class A,0.00%,1.5M,$32.5M
+UE,Urban Edge Properties,0.00%,4.0M,$81.8M
+UONE,Urban One Inc Class A,0.00%,40.3K,$62.8K
+UONEK,Urban One Inc Registered Shs -D- Non Vtg,0.00%,693.5K,$547.2K
+USIO,Usio Inc,0.00%,741.1K,$1.1M
+UTMD,Utah Medical Products Inc,0.00%,101.7K,$6.3M
+UTZ,Utz Brands Inc Class A,0.00%,2.1M,$28.8M
+UWMC,UWM Holdings Corp Ordinary Shares - Clas...,0.00%,6.2M,$35.1M
+UPWK,Upwork Inc,0.00%,4.0M,$61.0M
+URG,Ur-Energy Inc,0.00%,10.9M,$15.2M
+UMAC,Unusual Machines Inc,0.00%,643.4K,$6.2M
+UPLD,Upland Software Inc,0.00%,919.6K,$2.6M
+UPB,Upstream Bio Inc,0.00%,1.6M,$27.6M
+VYGR,Voyager Therapeutics Inc,0.00%,1.7M,$5.6M
+VOYG,Voyager Technologies Inc Class A,0.00%,399.6K,$12.3M
+VOR,Vor Biopharma Inc Ordinary Shares,0.00%,1.4M,$2.7M
+VUZI,Vuzix Corp,0.00%,1.9M,$4.0M
+WTI,W&T Offshore Inc,0.00%,2.9M,$5.4M
+WDFC,WD-40 Co,0.00%,428.3K,$92.5M
+VTGN,Vistagen Therapeutics Inc,0.00%,1.2M,$3.9M
+VICR,Vicor Corp,0.00%,730.2K,$37.3M
+VSCO,Victoria's Secret & Co,0.00%,2.5M,$57.1M
+COCO,The Vita Coco Co Inc,0.00%,1.4M,$48.4M
+VITL,Vital Farms Inc Ordinary Shares,0.00%,1.1M,$54.7M
+VIVK,Vivakor Inc,0.00%,193.6K,$141.4K
+VTS,Vitesse Energy Inc,0.00%,907.1K,$24.1M
+VANI,Vivani Medical Inc,0.00%,636.2K,$731.6K
+SEAT,Vivid Seats Inc Class A,0.00%,140.7K,$2.5M
+WAFD,WaFd Inc,0.00%,2.5M,$80.1M
+ELME,Elme Communities,0.00%,2.8M,$47.7M
+WASH,Washington Trust Bancorp Inc,0.00%,617.3K,$18.7M
+WSBF,Waterstone Financial Inc,0.00%,527.9K,$7.9M
+WD,Walker & Dunlop Inc,0.00%,1.0M,$87.3M
+WRBY,Warby Parker Inc Ordinary Shares - Class...,0.00%,3.0M,$78.3M
+VYNE,VYNE Therapeutics Inc,0.00%,365.3K,$117.1K
+--,WK Kellogg Co,0.00%,1.9M,$43.5M
+WNC,Wabash National Corp,0.00%,1.3M,$14.3M
+MAPS,WM Technology Inc Ordinary Shares - Clas...,0.00%,3.1M,$3.9M
+VRCA,Verrica Pharmaceuticals Inc,0.00%,127.0K,$710.7K
+VCEL,Vericel Corp,0.00%,1.6M,$57.4M
+VERI,Veritone Inc,0.00%,1.1M,$3.3M
+VERX,Vertex Inc Class A,0.00%,2.1M,$53.1M
+PRSU,Pursuit Attractions and Hospitality Inc,0.00%,717.2K,$26.8M
+VERU,Veru Inc,0.00%,380.6K,$1.2M
+VEL,Velocity Financial Inc Ordinary Shares,0.00%,255.3K,$4.9M
+VRNT,Verint Systems Inc,0.00%,1.9M,$39.3M
+VBTX,Veritex Holdings Inc,0.00%,1.6M,$56.2M
+VMD,Viemed Healthcare Inc Ordinary Shares,0.00%,912.7K,$6.7M
+VKTX,Viking Therapeutics Inc,0.00%,3.4M,$91.4M
+VLGEA,Village Super Market Inc Class A,0.00%,274.8K,$10.0M
+VMEO,Vimeo Inc,0.00%,4.5M,$18.9M
+VIR,Vir Biotechnology Inc,0.00%,3.5M,$17.3M
+VIRC,Virco Manufacturing Corp,0.00%,427.8K,$3.7M
+SPCE,Virgin Galactic Holdings Inc Shs A,0.00%,1.1M,$3.4M
+UHAL,U-Haul Holding Co,0.00%,302.0K,$17.4M
+AVD,American Vanguard Corp,0.00%,799.2K,$4.3M
+AMRC,Ameresco Inc Class A,0.00%,1.0M,$26.1M
+RMCO,Royalty Management Holding Corp Ordinary...,0.00%,9.6K,$21.4K
+AEO,American Eagle Outfitters Inc,0.00%,4.9M,$63.8M
+AII,American Integrity Insurance Group Inc,0.00%,253.5K,$5.1M
+AOUT,American Outdoor Brands Inc Ordinary Sha...,0.00%,467.1K,$4.9M
+APEI,American Public Education Inc,0.00%,453.5K,$13.7M
+AREC,American Resources Corp Class A,0.00%,2.0M,$4.2M
+AMS,American Shared Hospital Services,0.00%,98.1K,$242.2K
+AWR,American States Water Co,0.00%,1.2M,$89.3M
+AMSC,American Superconductor Corp,0.00%,1.3M,$65.0M
+ACRS,Aclaris Therapeutics Inc,0.00%,3.2M,$6.1M
+ACU,Acme United Corp,0.00%,99.4K,$4.3M
+ADTN,Adtran Holdings Inc,0.00%,2.6M,$24.2M
+ACRV,Acrivon Therapeutics Inc,0.00%,403.6K,$540.8K
+ACR,ACRES Commercial Realty Corp,0.00%,240.1K,$5.0M
+ATNM,Actinium Pharmaceuticals Inc,0.00%,918.6K,$1.6M
+ACTU,Actuate Therapeutics Inc,0.00%,182.3K,$1.5M
+AKR,Acadia Realty Trust,0.00%,4.2M,$83.5M
+ACEL,Accel Entertainment Inc Class A1,0.00%,1.9M,$21.8M
+ARAY,Accuray Inc,0.00%,2.9M,$4.4M
+GRCE,Grace Therapeutics Inc Ordinary Shares,0.00%,400.4K,$1.2M
+ACHV,Achieve Life Sciences Inc,0.00%,1.5M,$4.4M
+ACHC,Acadia Healthcare Co Inc,0.00%,2.8M,$63.4M
+ABL,Abacus Global Management Inc Ordinary Sh...,0.00%,774.0K,$5.5M
+AEHR,Aehr Test Systems,0.00%,865.6K,$21.6M
+ARQ,Arq Inc,0.00%,972.8K,$7.5M
+AMTX,Aemetis Inc,0.00%,1.4M,$3.5M
+SYRE,Spyre Therapeutics Inc,0.00%,1.7M,$27.5M
+ASIX,AdvanSix Inc,0.00%,797.8K,$17.1M
+ADVM,Adverum Biotechnologies Inc,0.00%,573.7K,$1.8M
+ALMU,Aeluma Inc,0.00%,12.5K,$284.5K
+GOLF,Acushnet Holdings Corp,0.00%,821.1K,$62.9M
+ABOS,Acumen Pharmaceuticals Inc,0.00%,1.1M,$1.5M
+TIC,Acuren Corp,0.00%,4.4M,$49.3M
+IVVD,Invivyd Inc Ordinary Shares,0.00%,4.6M,$4.5M
+ADPT,Adaptive Biotechnologies Corp,0.00%,4.5M,$58.8M
+AHCO,AdaptHealth Corp Ordinary Shares,0.00%,3.2M,$30.8M
+ADUS,Addus HomeCare Corp,0.00%,545.5K,$62.8M
+ADEA,Adeia Inc,0.00%,3.2M,$48.2M
+ACET,Adicet Bio Inc Ordinary Shares,0.00%,2.0M,$1.5M
+AFBI,Affinity Bancshares Inc Ordinary Shares,0.00%,44.5K,$881.9K
+AEVA,Aeva Technologies Inc Ordinary Shares,0.00%,535.6K,$7.9M
+AIRT,Air T Inc,0.00%,30.9K,$719.9K
+AIRG,Airgain Inc,0.00%,345.3K,$1.5M
+AIRO,AIRO Group Holdings Inc,0.00%,59.3K,$1.4M
+AIRS,AirSculpt Technologies Inc,0.00%,414.2K,$2.7M
+ALDX,Aldeyra Therapeutics Inc,0.00%,1.7M,$10.2M
+ALEC,Alector Inc,0.00%,2.4M,$5.7M
+ALRS,Alerus Financial Corp,0.00%,653.0K,$14.5M
+ALEX,Alexander & Baldwin Inc,0.00%,2.2M,$43.4M
+ALX,Alexander's Inc,0.00%,70.1K,$16.2M
+AGL,Agilon Health Inc,0.00%,9.7M,$12.4M
+DOMH,Dominari Holdings Inc,0.00%,226.3K,$1.5M
+RNTX,Rein Therapeutics Inc,0.00%,450.1K,$625.7K
+AISP,Airship AI Holdings Inc Ordinary Shares ...,0.00%,579.6K,$2.6M
+AGEN,Agenus Inc,0.00%,728.8K,$3.0M
+AGYS,Agilysys Inc,0.00%,800.5K,$87.3M
+AGIO,Agios Pharmaceuticals Inc,0.00%,1.8M,$68.3M
+QNCX,Quince Therapeutics Inc,0.00%,944.8K,$1.5M
+CRVL,CorVel Corp,0.00%,887.9K,$79.1M
+CRVS,Corvus Pharmaceuticals Inc,0.00%,1.9M,$11.0M
+CLB,Core Laboratories Inc,0.00%,1.5M,$16.9M
+CMT,Core Molding Technologies Inc,0.00%,248.7K,$4.8M
+CXW,CoreCivic Inc,0.00%,3.3M,$66.8M
+CRMD,Cormedix Inc,0.00%,2.3M,$34.7M
+WT,WisdomTree Inc,0.00%,4.2M,$56.7M
+WOLF,Wolfspeed Inc,0.00%,4.9M,$6.1M
+WWW,Wolverine World Wide Inc,0.00%,2.4M,$76.1M
+WINA,Winmark Corp,0.00%,98.2K,$45.5M
+WGO,Winnebago Industries Inc,0.00%,860.0K,$30.9M
+XPEL,XPEL Inc,0.00%,690.8K,$25.7M
+SPRU,Spruce Power Holding Corp Ordinary Share...,0.00%,423.2K,$613.7K
+XBIT,XBiotech Inc,0.00%,610.0K,$1.9M
+XHR,Xenia Hotels & Resorts Inc,0.00%,3.1M,$44.1M
+XNCR,Xencor Inc,0.00%,2.2M,$18.2M
+XOMA,XOMA Royalty Corp,0.00%,429.3K,$13.9M
+--,Yunhong Green CTI Ltd,0.00%,21.5K,$13.2K
+ZIMV,ZimVie Inc Ordinary Shares,0.00%,865.0K,$16.3M
+ZNTL,Zentalis Pharmaceuticals Inc Ordinary Sh...,0.00%,1.5M,$2.6M
+ZEO,Zeo Energy Corp Ordinary Shares - Class ...,0.00%,90.9K,$149.1K
+XTNT,Xtant Medical Holdings Inc,0.00%,1.5M,$958.0K
+XFOR,X4 Pharmaceuticals Inc,0.00%,155.7K,$584.6K
+XRX,Xerox Holdings Corp,0.00%,3.6M,$14.3M
+XERS,Xeris Biopharma Holdings Inc,0.00%,4.8M,$37.6M
+XLO,Xilio Therapeutics Inc,0.00%,723.7K,$506.7K
+XPOF,Xponential Fitness Inc Ordinary Shares -...,0.00%,756.1K,$6.4M
+XOS,Xos Inc Ordinary Shares,0.00%,79.6K,$225.4K
+XMTR,Xometry Inc Ordinary Shares - Class A,0.00%,1.3M,$66.1M
+XPER,Xperi Inc,0.00%,1.3M,$8.0M
+--,Y-mAbs Therapeutics Inc,0.00%,1.1M,$9.1M
+YELP,Yelp Inc Class A,0.00%,1.9M,$59.3M
+YEXT,Yext Inc,0.00%,3.2M,$29.1M
+YETI,YETI Holdings Inc,0.00%,2.6M,$92.4M
+YORW,The York Water Co,0.00%,522.7K,$16.2M
+BHVN,Biohaven Ltd,0.00%,2.8M,$43.6M
+ZUMZ,Zumiez Inc,0.00%,499.8K,$8.6M
+CBIO,Crescent Biopharma Inc,0.00%,18.8K,$271.3K
+CPRI,Capri Holdings Ltd,0.00%,3.6M,$73.2M
+CMPR,Cimpress PLC,0.00%,565.6K,$35.7M
+CWCO,Consolidated Water Co Ltd,0.00%,497.8K,$16.6M
+AVDL,Avadel Pharmaceuticals PLC,0.00%,2.9M,$42.4M
+ICHR,Ichor Holdings Ltd,0.00%,1.0M,$16.9M
+FDP,Fresh Del Monte Produce Inc,0.00%,1.2M,$43.7M
+GLRE,Greenlight Capital Re Ltd Class A,0.00%,779.4K,$10.0M
+HELE,Helen Of Troy Ltd,0.00%,719.0K,$17.7M
+HLF,Herbalife Ltd,0.00%,3.0M,$29.8M
+JRVR,James River Group Holdings Ltd,0.00%,1.0M,$5.9M
+KMTS,Kestra Medical Technologies Ltd,0.00%,437.2K,$7.1M
+KG,Kestrel Group Ltd,0.00%,74.8K,$2.0M
+KNSA,Kiniksa Pharmaceuticals International PL...,0.00%,1.2M,$39.9M
+CVKD,Cadrenal Therapeutics Inc,0.00%,33.3K,$428.1K
+CDRE,Cadre Holdings Inc,0.00%,763.7K,$23.5M
+WHD,Cactus Inc Class A,0.00%,2.1M,$89.3M
+CABA,Cabaletta Bio Inc Ordinary Shares,0.00%,2.6M,$3.7M
+CABO,Cable One Inc,0.00%,140.0K,$22.6M
+PMTS,CPI Card Group Inc,0.00%,184.2K,$2.9M
+CSPI,CSP Inc,0.00%,272.9K,$3.3M
+CTS,CTS Corp,0.00%,909.6K,$38.6M
+CCCC,C4 Therapeutics Inc Ordinary Shares,0.00%,2.1M,$5.5M
+CKX,CKX Lands Inc,0.00%,831.0,$9.6K
+CVU,CPI Aerostructures Inc,0.00%,301.8K,$754.6K
+CCNE,CNB Financial Corp,0.00%,839.1K,$22.1M
+CRAI,CRA International Inc,0.00%,191.9K,$37.2M
+CPSH,CPS Technologies Corp,0.00%,403.9K,$1.4M
+CBL,CBL & Associates Properties Inc New,0.00%,628.3K,$20.0M
+CECO,CECO Environmental Corp,0.00%,966.2K,$44.0M
+CFBK,CF Bankshares Inc,0.00%,112.1K,$2.8M
+CARG,CarGurus Inc Class A,0.00%,2.5M,$87.6M
+CRBU,Caribou Biosciences Inc Ordinary Shares,0.00%,2.6M,$4.9M
+CAI,Caris Life Sciences Inc,0.00%,53.2K,$2.0M
+CDLX,Cardlytics Inc,0.00%,1.4M,$1.4M
+CDNA,CareDx Inc,0.00%,1.7M,$22.7M
+CCLD,CareCloud Inc,0.00%,1.9M,$7.3M
+CWT,California Water Service Group,0.00%,1.9M,$87.2M
+CARL,Carlsmed Inc,0.00%,73.1K,$972.3K
+CSV,Carriage Services Inc,0.00%,416.1K,$18.2M
+PRTS,CarParts.com Inc,0.00%,1.7M,$1.4M
+CJMB,Callan Jmb Inc,0.00%,932.0,$4.5K
+MODG,Topgolf Callaway Brands Corp,0.00%,3.8M,$35.9M
+CLMT,Calumet Inc,0.00%,2.6M,$41.7M
+CAC,Camden National Corp,0.00%,494.8K,$20.2M
+SNDA,Sonida Senior Living Inc,0.00%,230.6K,$6.0M
+CFFN,Capitol Federal Financial Inc,0.00%,3.5M,$23.0M
+CAPR,Capricor Therapeutics Inc,0.00%,1.2M,$7.6M
+TVRD,Tvardi Therapeutics Inc,0.00%,258.4K,$7.7M
+CRDF,Cardiff Oncology Inc,0.00%,2.1M,$4.4M
+CWH,Camping World Holdings Inc Class A,0.00%,1.8M,$31.8M
+EE,Excelerate Energy Inc Class A,0.00%,667.2K,$16.3M
+EVER,EverQuote Inc Class A,0.00%,809.9K,$18.8M
+MRAM,Everspin Technologies Inc,0.00%,586.5K,$3.8M
+EXOD,Exodus Movement Inc Class A,0.00%,151.3K,$3.8M
+FG,F&G Annuities & Life Inc,0.00%,615.1K,$21.3M
+DRVN,Driven Brands Holdings Inc Ordinary Shar...,0.00%,1.8M,$33.0M
+DCO,Ducommun Inc,0.00%,439.8K,$40.1M
+DFH,Dream Finders Homes Inc Ordinary Shares ...,0.00%,899.8K,$25.0M
+DTI,Drilling Tools International Corp,0.00%,290.4K,$580.8K
+DGICA,Donegal Group Inc Class A,0.00%,539.0K,$9.6M
+DFIN,Donnelley Financial Solutions Inc,0.00%,802.3K,$45.5M
+DYAI,Dyadic International Inc,0.00%,583.6K,$537.7K
+--,Durect Corp,0.00%,860.9K,$1.7M
+DUOT,Duos Technologies Group Inc,0.00%,412.0K,$2.6M
+DLTH,Duluth Holdings Inc B,0.00%,477.9K,$1.1M
+DV,DoubleVerify Holdings Inc,0.00%,4.4M,$71.2M
+DEI,Douglas Emmett Inc,0.00%,5.1M,$82.0M
+PLOW,Douglas Dynamics Inc,0.00%,689.3K,$23.2M
+DOUG,Douglas Elliman Inc,0.00%,2.4M,$6.6M
+DOMO,Domo Inc,0.00%,954.8K,$14.0M
+DLPN,Dolphin Entertainment Inc,0.00%,132.0K,$157.1K
+DHC,Diversified Healthcare Trust,0.00%,6.8M,$25.8M
+DCGO,DocGo Inc,0.00%,2.7M,$4.2M
+DBD,Diebold Nixdorf Inc Ordinary Shares- New,0.00%,755.8K,$46.2M
+DGII,Digi International Inc,0.00%,1.1M,$38.0M
+DMRC,Digimarc Corp,0.00%,551.2K,$4.8M
+EGBN,Eagle Bancorp Inc,0.00%,888.7K,$17.3M
+GWH,ESS Tech Inc Ordinary Shares,0.00%,162.3K,$235.3K
+EVI,EVI Industries Inc,0.00%,193.3K,$5.4M
+EBMT,Eagle Bancorp Montana Inc,0.00%,252.0K,$4.4M
+EFSI,Eagle Financial Services Inc,0.00%,34.1K,$1.3M
+LOCO,El Pollo Loco Holdings Inc,0.00%,775.8K,$8.2M
+DVAX,Dynavax Technologies Corp,0.00%,3.9M,$39.5M
+DX,Dynex Capital Inc,0.00%,3.4M,$43.1M
+DYN,Dyne Therapeutics Inc Ordinary Shares,0.00%,3.9M,$52.7M
+ECBK,ECB Bancorp Inc,0.00%,299.8K,$5.1M
+KODK,Eastman Kodak Co,0.00%,2.2M,$12.9M
+EML,The Eastern Co,0.00%,159.9K,$3.8M
+DEA,Easterly Government Properties Inc,0.00%,1.3M,$29.5M
+EGAN,eGain Corp,0.00%,865.1K,$5.4M
+EHTH,eHealth Inc,0.00%,821.7K,$3.2M
+ETNB,89bio Inc Ordinary Shares,0.00%,4.7M,$42.5M
+EGHT,8x8 Inc,0.00%,3.8M,$7.6M
+ECVT,Ecovyst Inc,0.00%,3.3M,$29.9M
+EPC,Edgewell Personal Care Co,0.00%,1.4M,$34.4M
+EWTX,Edgewise Therapeutics Inc,0.00%,2.8M,$40.5M
+DWSN,Dawson Geophysical Co,0.00%,2.8K,$4.5K
+DXR,Daxor Corp,0.00%,48.0K,$535.0K
+DAWN,Day One Biopharmaceuticals Inc,0.00%,2.4M,$17.9M
+DH,Definitive Healthcare Corp Class A,0.00%,1.4M,$5.8M
+DCTH,Delcath Systems Inc,0.00%,903.0K,$10.0M
+DK,Delek US Holdings Inc Registered Shs Sto...,0.00%,1.9M,$52.3M
+DLX,Deluxe Corp,0.00%,1.4M,$27.1M
+DNLI,Denali Therapeutics Inc,0.00%,3.7M,$57.0M
+DENN,Denny's Corp,0.00%,1.5M,$6.7M
+XRAY,Dentsply Sirona Inc,0.00%,6.3M,$90.7M
+DBI,Designer Brands Inc Class A,0.00%,1.3M,$4.9M
+DSGN,Design Therapeutics Inc,0.00%,783.6K,$4.3M
+DXLG,Destination XL Group Inc,0.00%,1.6M,$2.1M
+DNTH,Dianthus Therapeutics Inc,0.00%,945.1K,$22.3M
+ASLE,AerSale Corp Ordinary Shares,0.00%,958.1K,$8.3M
+JBIO,Jade Biosciences Inc,0.00%,1.1M,$8.7M
+ACMR,ACM Research Inc Class A,0.00%,1.5M,$43.4M
+AFCG,Advanced Flower Capital Inc Ordinary Sha...,0.00%,500.6K,$2.3M
+MITT,AG Mortgage Investment Trust Inc,0.00%,856.3K,$6.5M
+ATYR,aTyr Pharma Inc,0.00%,2.7M,$14.3M
+ATEN,A10 Networks Inc,0.00%,2.2M,$38.8M
+ATNI,ATN International Inc,0.00%,302.5K,$5.1M
+ABEO,Abeona Therapeutics Inc,0.00%,1.3M,$8.9M
+AARD,Aardvark Therapeutics Inc,0.00%,327.9K,$2.7M
+ACTG,Acacia Research Corp,0.00%,1.3M,$4.6M
+ASPI,ASP Isotopes Inc,0.00%,1.7M,$16.0M
+AXTI,AXT Inc,0.00%,1.6M,$4.5M
+ASGN,ASGN Inc,0.00%,1.3M,$71.9M
+ABSI,Absci Corp,0.00%,4.1M,$9.8M
+ACVA,ACV Auctions Inc Ordinary Shares - Class...,0.00%,5.1M,$59.0M
+ABM,ABM Industries Inc,0.00%,2.0M,$96.3M
+AIR,AAR Corp,0.00%,1.1M,$81.6M
+ACCO,ACCO Brands Corp,0.00%,2.8M,$11.2M
+ACNB,ACNB Corp,0.00%,287.7K,$13.0M
+AMCX,AMC Networks Inc Class A,0.00%,886.0K,$6.3M
+AMC,AMC Entertainment Holdings Inc Class A,0.00%,13.6M,$38.2M
+ALXO,ALX Oncology Holdings Inc Ordinary Share...,0.00%,963.5K,$1.1M
+GEO,The GEO Group Inc,0.00%,4.2M,$87.0M
+GLIBA,GCI Liberty Inc Ordinary Shares - Series...,0.00%,103.3K,$3.9M
+GLIBK,GCI Liberty Inc Ordinary Shares - Series...,0.00%,735.2K,$26.9M
+JOB,GEE Group Inc,0.00%,3.7M,$735.6K
+GBFH,GBank Financial Holdings Inc Ordinary Sh...,0.00%,304.0K,$12.1M
+GCTS,GCT Semiconductor Holding Inc Ordinary S...,0.00%,974.7K,$1.3M
+GIII,G-III Apparel Group Ltd,0.00%,1.2M,$31.1M
+GSIT,GSI Technology Inc,0.00%,562.1K,$1.7M
+LAB,Standard BioTools Inc,0.00%,9.0M,$11.3M
+FFIC,Flushing Financial Corp,0.00%,1.0M,$13.8M
+FLYX,flyExclusive Inc Ordinary Shares - Class...,0.00%,25.7K,$103.2K
+FLUX,Flux Power Holdings Inc,0.00%,351.8K,$534.7K
+FHTX,Foghorn Therapeutics Inc Ordinary Shares,0.00%,1.0M,$5.2M
+FCUV,Focus Universal Inc,0.00%,116.2K,$220.7K
+FONR,Fonar Corp,0.00%,277.0K,$4.4M
+--,Foot Locker Inc,0.00%,3.0M,$74.3M
+FBIO,Fortress Biotech Inc,0.00%,585.3K,$1.5M
+FBRX,Forte Biosciences Inc Ordinary Shares,0.00%,371.9K,$4.1M
+FOR,Forestar Group Inc,0.00%,554.3K,$15.3M
+FRGE,Forge Global Holdings Inc,0.00%,221.4K,$4.2M
+FORA,Forian Inc Ordinary Shares,0.00%,496.9K,$993.8K
+FORM,FormFactor Inc,0.00%,2.4M,$71.2M
+FORR,Forrester Research Inc,0.00%,352.5K,$3.4M
+FIVN,Five9 Inc,0.00%,2.3M,$62.0M
+FEAM,5E Advanced Materials Inc,0.00%,63.8K,$221.9K
+FSBC,Five Star Bancorp,0.00%,471.1K,$15.4M
+BDL,Flanigan'S Enterprises Inc,0.00%,14.5K,$419.7K
+FLXS,Flexsteel Industries Inc,0.00%,138.9K,$6.4M
+FSI,Flexible Solutions International Inc,0.00%,271.2K,$3.1M
+FPAY,FlexShopper Inc,0.00%,416.1K,$286.9K
+FLOC,Flowco Holdings Inc,0.00%,579.9K,$9.5M
+FTK,Flotek Industries Inc,0.00%,343.0K,$4.1M
+FTLF,FitLife Brands Inc,0.00%,110.9K,$2.1M
+FNLC,First Bancorp Inc,0.00%,289.6K,$7.9M
+ULCC,Frontier Group Holdings Inc,0.00%,2.7M,$13.2M
+FVR,FrontView REIT Inc REITs,0.00%,531.6K,$7.1M
+FTEK,Fuel Tech Inc,0.00%,609.9K,$1.8M
+FCEL,FuelCell Energy Inc,0.00%,652.9K,$2.7M
+FIP,FTAI Infrastructure Inc Shs,0.00%,3.2M,$15.6M
+FUBO,FuboTV Inc,0.00%,10.9M,$38.5M
+FULC,Fulcrum Therapeutics Inc,0.00%,1.8M,$11.7M
+FLGT,Fulgent Genetics Inc,0.00%,613.4K,$13.6M
+FLL,Full House Resorts Inc,0.00%,1.0M,$3.7M
+TE,T1 Energy Inc,0.00%,3.4M,$5.6M
+FRD,Friedman Industries Inc,0.00%,202.1K,$3.9M
+ARCB,ArcBest Corp,0.00%,691.2K,$51.0M
+AIV,Apartment Investment & Management Co Ord...,0.00%,4.3M,$33.4M
+APLS,Apellis Pharmaceuticals Inc,0.00%,3.4M,$92.7M
+APOG,Apogee Enterprises Inc,0.00%,600.5K,$26.4M
+ARI,Apollo Commercial Real Estate Finance In...,0.00%,4.5M,$47.4M
+ASTH,Astrana Health Inc,0.00%,1.5M,$46.7M
+ATEX,Anterix Inc,0.00%,400.8K,$9.5M
+ANTX,AN2 Therapeutics Inc,0.00%,733.4K,$806.7K
+APLE,Apple Hospitality REIT Inc,0.00%,6.7M,$87.4M
+APLD,Applied Digital Corp,0.00%,5.6M,$89.5M
+APGE,Apogee Therapeutics Inc,0.00%,1.2M,$44.4M
+APPN,Appian Corp A,0.00%,1.3M,$39.4M
+SMHI,Seacor Marine Holdings Inc,0.00%,767.8K,$4.9M
+HTO,H2O America,0.00%,996.6K,$50.2M
+SEZL,Sezzle Inc,0.00%,526.8K,$49.8M
+SNDR,Schneider National Inc,0.00%,1.3M,$32.7M
+SCHL,Scholastic Corp,0.00%,617.3K,$15.8M
+SRRK,Scholar Rock Holding Corp,0.00%,2.6M,$84.1M
+SDGR,Schrodinger Inc Ordinary Shares,0.00%,1.9M,$37.4M
+ALLO,Allogene Therapeutics Inc,0.00%,4.2M,$4.7M
+AGAE,Allied Gaming & Entertainment Inc Ordina...,0.00%,184.8K,$216.2K
+ALNT,Allient Inc,0.00%,466.6K,$21.2M
+AMR,Alpha Metallurgical Resources Inc,0.00%,334.0K,$49.8M
+APT,Alpha Pro Tech Ltd,0.00%,451.1K,$2.2M
+TKNO,Alpha Teknova Inc,0.00%,329.1K,$1.4M
+ATEC,Alphatec Holdings Inc,0.00%,3.5M,$55.7M
+TSHA,Taysha Gene Therapies Inc Ordinary Share...,0.00%,6.6M,$19.4M
+TISI,Team Inc,0.00%,86.4K,$1.7M
+TPCS,Techprecision Corp,0.00%,179.0K,$975.5K
+TTGT,TechTarget Inc,0.00%,893.3K,$5.3M
+TGEN,Tecogen Inc,0.00%,581.5K,$4.4M
+TECX,Tectonic Therapeutic Inc,0.00%,318.5K,$8.1M
+TH,Target Hospitality Corp Class A,0.00%,430.1K,$3.9M
+TARS,Tarsus Pharmaceuticals Inc Ordinary Shar...,0.00%,1.2M,$69.8M
+TASK,TaskUs Inc Class A,0.00%,329.7K,$5.8M
+TAYD,Taylor Devices Inc,0.00%,96.4K,$4.7M
+TLS,Telos Corp Ordinary Shares,0.00%,1.6M,$9.7M
+TELO,Telomir Pharmaceuticals Inc,0.00%,815.4K,$1.1M
+TPST,Tempest Therapeutics Inc,0.00%,104.9K,$1.0M
+TNYA,Tenaya Therapeutics Inc,0.00%,2.8M,$3.2M
+TRC,Tejon Ranch Co,0.00%,664.8K,$11.6M
+TDOC,Teladoc Health Inc,0.00%,5.4M,$41.9M
+TXG,10x Genomics Inc Ordinary Shares - Class...,0.00%,3.3M,$45.6M
+TENX,Tenax Therapeutics Inc,0.00%,96.2K,$572.1K
+WULF,TeraWulf Inc,0.00%,9.6M,$91.2M
+TERN,Terns Pharmaceuticals Inc Ordinary Share...,0.00%,2.2M,$15.1M
+TCBS,Texas Community Bancshares Inc,0.00%,31.3K,$513.8K
+TVGN,Tevogen Bio Holdings Inc,0.00%,755.1K,$687.2K
+TNC,Tennant Co,0.00%,609.1K,$50.0M
+TDC,Teradata Corp,0.00%,2.8M,$59.3M
+AVDX,AvidXchange Holdings Inc,0.00%,5.5M,$54.5M
+AVAH,Aveanna Healthcare Holdings Inc,0.00%,1.5M,$11.9M
+AVPT,AvePoint Inc Ordinary Shares - Class A,0.00%,4.9M,$79.4M
+AVNW,Aviat Networks Inc,0.00%,356.8K,$8.2M
+AVBH,Avidbank Holdings Inc,0.00%,20.3K,$510.2K
+--,Big 5 Sporting Goods Corp,0.00%,672.6K,$955.0K
+BBAI,BigBear.ai Holdings Inc,0.00%,8.7M,$44.2M
+CMRC,Commerce.com Inc Ordinary Shares Series ...,0.00%,2.0M,$9.4M
+BH,Biglari Holdings Inc,0.00%,21.6K,$6.7M
+BH/A,Biglari Holdings Inc Ordinary Shares - C...,0.00%,1.9K,$2.9M
+BLKB,Blackbaud Inc,0.00%,1.3M,$83.6M
+BL,BlackLine Inc,0.00%,1.8M,$96.0M
+BTMD,Biote Corp,0.00%,832.1K,$2.9M
+BKSY,BlackSky Technology Inc Class A,0.00%,861.0K,$15.1M
+SRTA,Strata Critical Medical Inc Class A,0.00%,1.8M,$7.9M
+BLMN,Bloomin Brands Inc,0.00%,2.3M,$17.2M
+BLBD,Blue Bird Corp,0.00%,997.0K,$58.2M
+LAZR,Luminar Technologies Inc Ordinary Shares...,0.00%,1.2M,$2.1M
+LYEL,Lyell Immunopharma Inc Ordinary Shares,0.00%,276.1K,$3.1M
+MNTN,MNTN Inc Ordinary Shares - Class A,0.00%,41.5K,$847.4K
+MGPI,MGP Ingredients Inc,0.00%,443.6K,$13.1M
+MBX,MBX Biosciences Inc,0.00%,672.4K,$10.1M
+LITS,Lite Strategy Inc,0.00%,196.8K,$956.5K
+LYRA,Lyra Therapeutics Inc Ordinary Shares,0.00%,19.4K,$136.0K
+BLND,Blend Labs Inc Ordinary Shares - Class A,0.00%,7.0M,$25.5M
+BLNK,Blink Charging Co,0.00%,2.8M,$3.3M
+MFA,MFA Financial Inc,0.00%,3.3M,$33.2M
+MBI,MBIA Inc,0.00%,1.4M,$11.4M
+MAIA,MAIA Biotechnology Inc,0.00%,586.6K,$903.4K
+SPHR,Sphere Entertainment Co Ordinary Shares ...,0.00%,854.3K,$38.7M
+SHOO,Steven Madden Ltd,0.00%,2.2M,$62.7M
+MSGE,Madison Square Garden Entertainment Corp,0.00%,1.2M,$50.3M
+VRE,Veris Residential Inc,0.00%,2.3M,$35.8M
+MGNX,Macrogenics Inc,0.00%,1.9M,$3.4M
+MRC,MRC Global Inc,0.00%,2.5M,$38.2M
+MPTI,M-Tron Industries Inc,0.00%,65.2K,$2.9M
+MPTI/WS,M-Tron Inds ([Wts/Rts]),0.00%,66.0K,$108.9K
+MVBF,MVB Financial Corp,0.00%,357.0K,$8.7M
+MYRG,MYR Group Inc,0.00%,463.5K,$86.8M
+AVO,Mission Produce Inc Ordinary Shares,0.00%,1.3M,$16.4M
+MCW,Mister Car Wash Inc,0.00%,3.1M,$17.5M
+MG,MISTRAS Group Inc,0.00%,734.7K,$7.0M
+MITK,Mitek Systems Inc,0.00%,1.4M,$13.7M
+BEEP,Mobile Infrastructure Corp,0.00%,252.1K,$980.6K
+MOBX,Mobix Labs Inc Ordinary Shares - Class A,0.00%,482.5K,$569.3K
+MDXG,MiMedx Group Inc,0.00%,3.5M,$24.5M
+VREX,Varex Imaging Corp,0.00%,1.3M,$14.9M
+VTYX,Ventyx Biosciences Inc,0.00%,2.0M,$4.8M
+VRDN,Viridian Therapeutics Inc,0.00%,2.2M,$41.1M
+VABK,Virginia National Bankshares Corp,0.00%,169.6K,$7.1M
+VHC,VirnetX Holding Corp,0.00%,113.6K,$1.6M
+VIAV,Viavi Solutions Inc,0.00%,7.0M,$79.1M
+DSP,Viant Technology Inc Ordinary Shares - C...,0.00%,470.3K,$4.9M
+RBOT,Vicarious Surgical Inc,0.00%,93.0K,$568.5K
+VTSI,VirTra Inc,0.00%,325.3K,$1.9M
+VRTS,Virtus Investment Partners Inc,0.00%,211.0K,$42.5M
+VSH,Vishay Intertechnology Inc,0.00%,3.9M,$60.6M
+VPG,Vishay Precision Group Inc,0.00%,342.3K,$9.7M
+UDMY,Udemy Inc,0.00%,3.0M,$20.6M
+USCB,USCB Financial Holdings Inc Ordinary Sha...,0.00%,477.2K,$8.3M
+UIS,Unisys Corp,0.00%,2.0M,$7.9M
+UFCS,United Fire Group Inc,0.00%,555.2K,$17.1M
+UG,United-Guardian Inc,0.00%,90.3K,$757.3K
+UHG,United Homes Group Inc Ordinary Shares -...,0.00%,286.0K,$1.2M
+ACIC,American Coastal Insurance Corp,0.00%,574.4K,$6.3M
+UNFI,United Natural Foods Inc,0.00%,1.8M,$50.7M
+UBFO,United Security Bancshares,0.00%,428.1K,$4.1M
+UAMY,United States Antimony Corp,0.00%,2.8M,$12.6M
+CRI,Carter's Inc,0.00%,1.1M,$30.5M
+SILA,Sila Realty Trust Inc,0.00%,1.7M,$42.9M
+CAMP,Camp4 Therapeutics Corp,0.00%,213.4K,$324.4K
+CADL,Candel Therapeutics Inc,0.00%,1.1M,$6.3M
+CNNE,Cannae Holdings Inc Ordinary Shares,0.00%,1.8M,$34.0M
+CTLP,Cantaloupe Inc,0.00%,1.9M,$21.0M
+CCBG,Capital City Bank Group Inc,0.00%,411.4K,$18.0M
+CBNK,Capital Bancorp Inc,0.00%,355.6K,$12.1M
+CASS,Cass Information Systems Inc,0.00%,419.2K,$18.1M
+SAVA,Cassava Sciences Inc,0.00%,1.3M,$2.9M
+CSTL,Castle Biosciences Inc,0.00%,826.5K,$19.8M
+CLST,Catalyst Bancorp Inc Ordinary Shares,0.00%,147.9K,$1.9M
+CPRX,Catalyst Pharmaceuticals Inc,0.00%,3.6M,$74.8M
+CELC,Celcuity Inc,0.00%,1.1M,$57.5M
+CLDX,Celldex Therapeutics Inc,0.00%,2.1M,$47.3M
+CLRB,Cellectar Biosciences Inc,0.00%,35.0K,$170.4K
+CATO,The Cato Corp Class A,0.00%,536.8K,$2.2M
+CNTY,Century Casinos Inc,0.00%,1.1M,$2.8M
+CCS,Century Communities Inc,0.00%,874.9K,$57.6M
+CRNC,Cerence Inc Ordinary Shares,0.00%,1.2M,$13.1M
+IPSC,Century Therapeutics Inc,0.00%,1.3M,$632.6K
+CVM,CEL-SCI Corp,0.00%,149.5K,$1.6M
+CELU,Celularity Inc Ordinary Shares - Class A,0.00%,455.0K,$1.8M
+CSR,Centerspace,0.00%,532.7K,$31.7M
+CENT,Central Garden & Pet Co,0.00%,173.0K,$6.3M
+CENTA,Central Garden & Pet Co Class A,0.00%,1.6M,$53.2M
+CPF,Central Pacific Financial Corp,0.00%,807.5K,$25.3M
+CPBI,Central Plains Bancshares Inc,0.00%,108.0K,$1.7M
+CTRI,Centuri Holdings Inc,0.00%,1.8M,$39.2M
+CENX,Century Aluminum Co,0.00%,1.6M,$36.5M
+WKSP,Worksport Ltd,0.00%,52.1K,$162.0K
+WRLD,World Acceptance Corp,0.00%,76.6K,$13.1M
+WKC,World Kinect Corp,0.00%,1.7M,$44.7M
+WOR,Worthington Enterprises Inc,0.00%,944.3K,$62.1M
+WS,Worthington Steel Inc,0.00%,1.2M,$40.1M
+WRAP,Wrap Technologies Inc,0.00%,1.1M,$1.5M
+WSBK,Winchester Bancorp Inc,0.00%,41.0,$388.0
+WFCF,Where Food Comes From Inc,0.00%,132.6K,$1.6M
+UP,Wheels Up Experience Inc Ordinary Shares...,0.00%,1.7M,$5.0M
+WLFC,Willis Lease Finance Corp,0.00%,97.7K,$14.5M
+WSR,Whitestone REIT,0.00%,1.5M,$20.4M
+WOW,WideOpenWest Inc,0.00%,1.6M,$8.0M
+WYY,WidePoint Corp,0.00%,259.9K,$1.3M
+BAER,Bridger Aerospace Group Holdings Inc Ord...,0.00%,419.4K,$851.5K
+WLY,John Wiley & Sons Inc Class A,0.00%,1.2M,$48.5M
+WVVI,Willamette Valley Vineyards Inc,0.00%,149.2K,$692.2K
+AMN,AMN Healthcare Services Inc,0.00%,1.2M,$25.1M
+POWW,Outdoor Holding Co,0.00%,2.7M,$3.9M
+AMRK,A-Mark Precious Metals Inc,0.00%,585.8K,$13.7M
+ANIP,ANI Pharmaceuticals Inc,0.00%,587.0K,$54.9M
+ANGI,Angi Inc Class A,0.00%,1.4M,$24.2M
+--,Neurogene Inc - Cvr (Dec 2023),0.00%,98.7K,$1.0
+--,Next Bridge Hydrocarbons Inc,0.00%,1.8M,$18.0
+--,NOVUSTERRA INC,0.00%,174.2K,$2.0
+--,Omniab Inc - 12.5,0.00%,186.3K,$2.0
+--,Omniab Inc - 15,0.00%,186.3K,$2.0
+--,Pineapple Holdings Inc - Cvr (Mar 2022),0.00%,69.6K,$1.0
+--,Pivotal Software Inc - Templine,0.00%,2.2M,$22.0
+--,Q32 Bio Inc - Cvr (March 2024),0.00%,1.4M,$11.8K
+--,Reelement Techno,0.00%,696.9K,$7.0
+--,Sellas Life Sciences Group Warrant,0.00%,40.0K,$0.0
+--,Spectrum Pharmaceuticals Inc - Cvr (Augu...,0.00%,6.0M,$487.9K
+--,Spirit Mta Reit Rts,0.00%,2.9M,$256.9K
+--,Tectonic Therapeutic Inc - Cvr (June 202...,0.00%,110.9K,$1.0
+--,Tobira Therapeutics Inc - Cvr 2018,0.00%,201.0K,$910.5K
+--,Traws Pharma Inc - Cvr (Apr 2024),0.00%,365.7K,$146.0
+--,Us Dollar,-0.00%,21.2M,$21.2M
+WHWK,Whitehawk Therapeutics Inc,0.00%,489.2K,$883.1K
+--,Abiomed Inc-Cvr,0.00%,264.0,$269.0
+--,Adamas Pharmaceuticals Inc Cvr 2025,0.00%,1.3M,$75.7K
+--,Aduro Biotech Cvr,0.00%,415.3K,$76.4K
+--,Alexza Pharmaceu,0.00%,327.4K,$11.5K
+--,ALTISOURCE - 29C,0.00%,582.7K,$373.1K
+--,ALTISOURCE - 30,0.00%,582.7K,$481.6K
+--,Ambit Bioscience,0.00%,201.3K,$2.0
+--,American Infrastructure Corp,0.00%,373.3K,$2.2K
+--,Carisma Therapeutics Inc - Cvr (Mar 2023...,0.00%,6.8M,$68.0
+--,Catalyst Biosciences Inc - Cvr (Jan 2023...,0.00%,826.5K,$82.7K
+--,Cincor Pharma Inc Cvr,0.00%,28.7K,$87.9K
+--,Coherus Biosciences Inc - Cvr (Sep 2023),0.00%,1.7M,$160.5K
+--,Cvr F Star,0.00%,61.0K,$4.4K
+--,Cvr F Star Therapeutic,0.00%,61.0K,$4.4K
+--,Enliven Therapeutics Inc -- Cvr,0.00%,370.0K,$334.3K
+--,Equity Commonwealth - Distribution Line ...,0.00%,3.2M,$32.0
+--,Fundamental Global Inc - Cvr (Aug 2025),0.00%,14.9K,$229.8K
+--,Gci Liberty Inc Escrow Dummy,0.00%,2.7M,$27.0
+--,Gtx Inc Cvr,0.00%,8.9K,$9.2K
+--,Ikena Oncology Inc - Cvr (July 2025),0.00%,1.0M,$10.0
+--,Inhibrx Inc - Cvr (May 2024),0.00%,1.2M,$787.5K
+--,Korro Bio Inc - Cvr (Nov 2023),0.00%,1.2M,$2.4M
+--,Magenta Therapeutics Inc - Cvr (Sep 2023...,0.00%,1.4M,$7.2K
+--,Miragen Ther-Cvr,0.00%,1.8M,$35.1K
+CZNC,Citizens & Northern Corp,0.00%,447.5K,$9.0M
+CTRN,Citi Trends Inc,0.00%,172.1K,$6.1M
+CLNE,Clean Energy Fuels Corp,0.00%,5.2M,$13.6M
+CLSK,Cleanspark Inc,0.00%,8.4M,$79.8M
+--,Clean Energy Technologies Inc,0.00%,53.9K,$13.1K
+CCO,Clear Channel Outdoor Holdings Inc Ordin...,0.00%,9.6M,$11.9M
+CZFS,Citizens Financial Services Inc,0.00%,140.4K,$8.4M
+CIA,Citizens Inc Class A,0.00%,1.4M,$7.3M
+CZWI,Citizens Community Bancorp Inc,0.00%,335.6K,$5.5M
+CHCO,City Holding Co,0.00%,438.1K,$56.3M
+CIO,City Office REIT Inc,0.00%,1.2M,$8.1M
+CIVB,Civista Bancshares Inc,0.00%,562.2K,$11.9M
+CLW,Clearwater Paper Corp,0.00%,490.0K,$10.6M
+WLDN,Willdan Group Inc,0.00%,419.5K,$46.1M
+WEYS,Weyco Group Inc,0.00%,204.5K,$6.2M
+WWR,Westwater Resources Inc,0.00%,1.4M,$1.1M
+WHG,Westwood Holdings Group Inc,0.00%,243.1K,$4.3M
+SMBK,SmartFinancial Inc,0.00%,460.9K,$17.0M
+SND,Smart Sand Inc,0.00%,835.9K,$1.6M
+SMA,Smartstop Self Storage REIT Inc Ordinary...,0.00%,851.1K,$31.0M
+SMRT,SmartRent Inc Ordinary Shares - Class A,0.00%,5.3M,$7.9M
+SDHC,Smith Douglas Homes Corp Class A,0.00%,290.9K,$5.7M
+SMID,Smith-Midland Corp,0.00%,129.4K,$5.6M
+SNAL,Snail Inc Class A common stock,0.00%,30.9K,$28.7K
+SKYH,Sky Harbour Group Corp Ordinary Shares -...,0.00%,635.9K,$6.7M
+SKYE,Skye Bioscience Inc Ordinary Shares,0.00%,561.8K,$2.0M
+SKIL,Skillsoft Corp Ordinary Shares - Class A,0.00%,153.9K,$2.4M
+SKLZ,Skillz Inc Ordinary Shares - Class A,0.00%,221.7K,$2.0M
+SKYT,SkyWater Technology Inc,0.00%,988.7K,$11.9M
+SKWD,Skyward Specialty Insurance Group Inc,0.00%,1.1M,$53.1M
+SNBR,Sleep Number Corp,0.00%,651.8K,$6.9M
+SLDE,Slide Insurance Holdings Inc,0.00%,810.9K,$10.9M
+SWBI,Smith & Wesson Brands Inc,0.00%,1.3M,$10.7M
+SITC,SITE Centers Corp,0.00%,1.4M,$17.1M
+SVCO,Silvaco Group Inc,0.00%,227.2K,$1.2M
+SAMG,Silvercrest Asset Management Group Inc C...,0.00%,318.1K,$5.2M
+SPRY,ARS Pharmaceuticals Inc,0.00%,1.8M,$20.4M
+SFNC,Simmons First National Corp Class A,0.00%,4.5M,$93.0M
+SMPL,The Simply Good Foods Co,0.00%,2.9M,$82.5M
+SRCE,1st Source Corp,0.00%,562.6K,$36.2M
+FUNC,First United Corp,0.00%,195.6K,$7.3M
+FUSB,First US Bancshares Inc,0.00%,12.7K,$155.1K
+FWRG,First Watch Restaurant Group Inc,0.00%,1.5M,$28.9M
+MYFW,First Western Financial Inc,0.00%,236.4K,$5.5M
+NOTE,FiscalNote Holdings Inc Ordinary Shares ...,0.00%,2.6M,$1.1M
+FSUN,Firstsun Capital Bancorp,0.00%,450.2K,$17.1M
+EDIT,Editas Medicine Inc,0.00%,2.5M,$6.5M
+EDUC,Educational Development Corp,0.00%,32.2K,$37.7K
+THFF,First Financial Corp,0.00%,331.3K,$19.5M
+FFWM,First Foundation Inc,0.00%,1.8M,$10.7M
+FGBI,First Guaranty Bancshares Inc,0.00%,191.8K,$1.6M
+HBT,HBT Financial Inc Ordinary Shares,0.00%,423.1K,$11.2M
+HCI,HCI Group Inc,0.00%,312.4K,$52.1M
+HFFG,HF Foods Group Inc,0.00%,1.2M,$4.0M
+HNI,HNI Corp,0.00%,1.4M,$62.9M
+TRVI,Trevi Therapeutics Inc,0.00%,3.1M,$22.7M
+GRDN,Guardian Pharmacy Services Inc Class A S...,0.00%,540.0K,$14.3M
+GES,Guess? Inc,0.00%,1.1M,$17.7M
+GHLD,Guild Holdings Co Ordinary Shares - Clas...,0.00%,331.8K,$6.6M
+GIFI,Gulf Island Fabrication Inc,0.00%,400.5K,$2.7M
+GPOR,Gulfport Energy Corp Ordinary Shares (Ne...,0.00%,513.6K,$89.4M
+GYRE,Gyre Therapeutics Inc,0.00%,729.8K,$5.6M
+DDD,3D Systems Corp,0.00%,4.0M,$9.3M
+TDUP,ThredUp Inc Ordinary Shares - Class A,0.00%,2.9M,$31.5M
+TZOO,Travelzoo,0.00%,244.6K,$2.4M
+TVTX,Travere Therapeutics Inc Ordinary Shares,0.00%,2.8M,$48.8M
+TMCI,Treace Medical Concepts Inc,0.00%,1.4M,$10.5M
+TG,Tredegar Corp,0.00%,792.6K,$6.2M
+THS,Treehouse Foods Inc,0.00%,1.3M,$23.9M
+CURV,Torrid Holdings Inc,0.00%,795.0K,$1.7M
+TRML,Tourmaline Bio Inc,0.00%,724.5K,$17.0M
+TOWN,Towne Bank,0.00%,2.1M,$75.5M
+TSQ,Townsquare Media Inc Class A,0.00%,367.8K,$2.6M
+COOK,Traeger Inc,0.00%,1.7M,$2.2M
+TACT,Transact Technologies Inc,0.00%,265.6K,$1.2M
+TRNS,Transcat Inc,0.00%,284.9K,$23.9M
+TCI,Transcontinental Realty Investors Inc,0.00%,8.8K,$415.6K
+MTUS,Metallus Inc,0.00%,1.0M,$17.0M
+TIPT,Tiptree Inc,0.00%,693.1K,$16.3M
+TWI,Titan International Inc,0.00%,1.5M,$13.2M
+TITN,Titan Machinery Inc,0.00%,644.9K,$12.9M
+TOMZ,TOMI Environmental Solutions Inc,0.00%,474.3K,$391.3K
+TMP,Tompkins Financial Corp,0.00%,389.5K,$27.3M
+TR,Tootsie Roll Industries Inc,0.00%,538.8K,$21.7M
+SCWO,374Water Inc,0.00%,2.1M,$732.9K
+THRY,Thryv Holdings Inc,0.00%,1.3M,$16.6M
+HRMY,Harmony Biosciences Holdings Inc Ordinar...,0.00%,1.5M,$57.2M
+HROW,Harrow Inc,0.00%,957.3K,$37.3M
+NVRI,Enviri Corp,0.00%,2.5M,$27.8M
+HHS,Harte-Hanks Inc,0.00%,189.9K,$685.5K
+HONE,HarborOne Bancorp Inc,0.00%,1.2M,$15.8M
+HBIO,Harvard Bioscience Inc,0.00%,1.2M,$611.2K
+HBI,Hanesbrands Inc,0.00%,10.6M,$66.9M
+HAFC,Hanmi Financial Corp,0.00%,936.4K,$23.6M
+HNVR,Hanover Bancorp Inc,0.00%,193.0K,$4.4M
+HBB,Hamilton Beach Brands Holding Co Class A,0.00%,255.4K,$3.8M
+HTLD,Heartland Express Inc,0.00%,1.4M,$12.2M
+HTFL,HeartFlow Inc,0.00%,510.6K,$16.1M
+BEAT,HeartBeam Inc,0.00%,591.7K,$798.8K
+HSII,Heidrick & Struggles International Inc,0.00%,598.3K,$30.4M
+HLIO,Helios Technologies Inc,0.00%,1.0M,$56.9M
+HLX,Helix Energy Solutions Group Inc,0.00%,4.6M,$30.3M
+HP,Helmerich & Payne Inc,0.00%,2.8M,$58.8M
+HNNA,Hennessy Advisors Inc,0.00%,181.6K,$2.0M
+HCSG,Healthcare Services Group Inc,0.00%,2.3M,$36.0M
+HSTM,HealthStream Inc,0.00%,753.4K,$21.2M
+HCAT,Health Catalyst Inc,0.00%,2.1M,$7.0M
+HWBK,Hawthorn Bancshares Inc,0.00%,179.7K,$6.0M
+HVT,Haverty Furniture Companies Inc,0.00%,411.3K,$9.3M
+HE,Hawaiian Electric Industries Inc,0.00%,5.5M,$70.8M
+HI,Hillenbrand Inc,0.00%,2.2M,$56.5M
+--,HilleVax Inc,0.00%,741.8K,$1.6M
+HLMN,Hillman Solutions Corp Shs,0.00%,6.3M,$61.8M
+HTH,Hilltop Holdings Inc,0.00%,1.4M,$49.7M
+HPK,HighPeak Energy Inc Ordinary Shares,0.00%,780.8K,$6.0M
+HTZ,Hertz Global Holdings Inc Ordinary Share...,0.00%,4.0M,$22.9M
+HFWA,Heritage Financial Corp,0.00%,1.1M,$26.3M
+HGBL,Heritage Global Inc,0.00%,1.4M,$2.6M
+HRTG,Heritage Insurance Holdings Inc,0.00%,722.6K,$16.5M
+HRTX,Heron Therapeutics Inc,0.00%,4.6M,$6.2M
+HTBK,Heritage Commerce Corp,0.00%,1.8M,$18.8M
+HUBG,Hub Group Inc Class A,0.00%,1.8M,$69.0M
+HOV,Hovnanian Enterprises Inc Class A,0.00%,139.5K,$19.6M
+HHH,Howard Hughes Holdings Inc,0.00%,939.6K,$71.7M
+HUN,Huntsman Corp,0.00%,5.2M,$58.2M
+HURC,Hurco Companies Inc,0.00%,190.5K,$3.2M
+HURN,Huron Consulting Group Inc,0.00%,538.1K,$73.7M
+HUT,Hut 8 Corp,0.00%,3.0M,$79.5M
+STRR,Star Equity Holdings Inc,0.00%,105.4K,$991.6K
+HPP,Hudson Pacific Properties Inc,0.00%,10.6M,$29.9M
+HDSN,Hudson Technologies Inc,0.00%,1.2M,$12.1M
+HBCP,Home Bancorp Inc,0.00%,211.0K,$11.9M
+HNGE,Hinge Health Inc Ordinary Shares - Class...,0.00%,427.5K,$24.0M
+HIFS,Hingham Institution for Savings,0.00%,51.2K,$14.5M
+HQI,HireQuest Inc,0.00%,165.1K,$1.6M
+HIPO,Hippo Holdings Inc Class A,0.00%,540.4K,$18.3M
+HLLY,Holley Inc Class A,0.00%,1.8M,$7.5M
+HOFT,Hooker Furnishings Corp,0.00%,402.5K,$4.0M
+HOPE,Hope Bancorp Inc,0.00%,3.8M,$42.6M
+HMN,Horace Mann Educators Corp,0.00%,1.3M,$59.8M
+HBNC,Horizon Bancorp (IN),0.00%,1.5M,$25.3M
+MCHB,Mechanics Bancorp Ordinary Shares - Clas...,0.00%,550.3K,$7.6M
+HTB,HomeTrust Bancshares Inc,0.00%,458.6K,$19.0M
+HNST,The Honest Co Inc,0.00%,2.8M,$11.2M
+--,Hycroft Mng Hldg ([Wts/Rts]),0.00%,155.0K,$1.9K
+HYMC,Hycroft Mining Holding Corp Ordinary Sha...,0.00%,604.2K,$2.7M
+DMAC,DiaMedica Therapeutics Inc,0.00%,839.2K,$4.8M
+DHIL,Diamond Hill Investment Group Inc Class ...,0.00%,85.8K,$12.5M
+DRH,Diamondrock Hospitality Co,0.00%,6.6M,$56.5M
+HCKT,The Hackett Group Inc,0.00%,772.4K,$16.1M
+HAE,Haemonetics Corp,0.00%,1.5M,$83.0M
+HGTY,Hagerty Inc Ordinary Shares - Class A,0.00%,1.3M,$14.5M
+HAIN,The Hain Celestial Group Inc,0.00%,2.8M,$5.0M
+HNRG,Hallador Energy Co,0.00%,942.7K,$15.4M
+DJT,Trump Media & Technology Group Corp,0.00%,3.1M,$54.9M
+APPS,Digital Turbine Inc,0.00%,3.1M,$13.1M
+CTSO,CytoSorbents Corp,0.00%,1.3M,$1.2M
+CTMX,CytomX Therapeutics Inc,0.00%,4.9M,$10.1M
+CTKB,Cytek Biosciences Inc,0.00%,3.4M,$14.2M
+DHAI,DIH Holding US Inc Class A,0.00%,687.1K,$181.1K
+BOOM,DMC Global Inc,0.00%,579.5K,$3.9M
+CUBI,Customers Bancorp Inc,0.00%,883.2K,$63.3M
+CTOS,Custom Truck One Source Inc Class A,0.00%,1.7M,$10.2M
+CXAI,CXApp Inc Ordinary Shares - Class A,0.00%,484.0K,$364.3K
+CUE,Cue Biopharma Inc Ordinary Shares,0.00%,1.5M,$1.2M
+DHX,DHI Group Inc,0.00%,1.3M,$3.5M
+DXC,DXC Technology Co Registered Shs When Is...,0.00%,5.4M,$78.3M
+DJCO,Daily Journal Corp,0.00%,43.4K,$20.3M
+DAKT,Daktronics Inc,0.00%,1.5M,$25.6M
+--,DallasNews Corp Registered Shs Series -A...,0.00%,134.9K,$2.0M
+DAN,Dana Inc,0.00%,4.1M,$83.2M
+CGEM,Cullinan Therapeutics Inc,0.00%,1.6M,$12.4M
+CULP,Culp Inc,0.00%,335.1K,$1.4M
+CPIX,Cumberland Pharmaceuticals Inc,0.00%,274.8K,$959.1K
+CRIS,Curis Inc,0.00%,215.6K,$360.1K
+CURB,Curbline Properties Corp,0.00%,3.0M,$66.9M
+CURI,CuriosityStream Inc,0.00%,1.2M,$5.4M
+CCRN,Cross Country Healthcare Inc,0.00%,989.0K,$13.2M
+LPCN,Lipocine Inc,0.00%,142.8K,$415.5K
+LQDT,Liquidity Services Inc,0.00%,581.5K,$15.5M
+LQDA,Liquidia Corp Ordinary Shares,0.00%,2.0M,$55.6M
+LFT,Lument Finance Trust Inc,0.00%,966.9K,$2.2M
+MBCN,Middlefield Banc Corp,0.00%,233.7K,$7.2M
+MSEX,Middlesex Water Co,0.00%,562.2K,$30.1M
+MSBI,Midland States Bancorp Inc,0.00%,642.7K,$11.8M
+MOFG,MidWestOne Financial Group Inc,0.00%,519.5K,$15.7M
+MLSS,Milestone Scientific Inc,0.00%,1.5M,$856.1K
+MLKN,MillerKnoll Inc,0.00%,2.2M,$45.6M
+MLR,Miller Industries Inc,0.00%,356.5K,$15.0M
+MIND,MIND Technology Inc,0.00%,701.0,$7.1K
+MTX,Minerals Technologies Inc,0.00%,1.0M,$66.4M
+MLYS,Mineralys Therapeutics Inc,0.00%,1.2M,$18.7M
+NERV,Minerva Neurosciences Inc,0.00%,172.0K,$409.5K
+INKT,MiNK Therapeutics Inc,0.00%,15.0K,$213.5K
+MBOT,Microbot Medical Inc,0.00%,1.4M,$5.5M
+MVST,Microvast Holdings Inc,0.00%,5.7M,$15.2M
+MRSN,Mersana Therapeutics Inc,0.00%,135.9K,$994.5K
+MESA,Mesa Air Group Inc,0.00%,1.2M,$1.4M
+MDV,Modiv Industrial Inc Ordinary Shares - C...,0.00%,259.2K,$3.9M
+MODD,Modular Medical Inc,0.00%,857.9K,$620.0K
+MPB,Mid Penn Bancorp Inc,0.00%,662.8K,$20.0M
+DNOW,Dnow Inc,0.00%,3.3M,$53.0M
+NUS,Nu Skin Enterprises Inc Class A,0.00%,1.5M,$17.9M
+NUKK,Nukkleus Inc Ordinary Shares - New,0.00%,19.4K,$94.3K
+NWFL,Norwood Financial Corp,0.00%,236.8K,$6.4M
+NVAX,Novavax Inc,0.00%,4.8M,$35.9M
+NFBK,Northfield Bancorp Inc,0.00%,1.3M,$14.9M
+NPB,Northpointe Bancshares Inc,0.00%,332.1K,$5.9M
+NRIM,Northrim BanCorp Inc,0.00%,173.3K,$16.3M
+NWBI,Northwest Bancshares Inc,0.00%,4.4M,$55.1M
+NWN,Northwest Natural Holding Co,0.00%,1.3M,$53.8M
+NWPX,NWPX Infrastructure Inc,0.00%,292.5K,$15.5M
+GTN,Gray Media Inc,0.00%,2.8M,$17.1M
+GTN/A,Gray Media Inc Class A,0.00%,265.0,$2.8K
+CALC,CalciMedica Inc Ordinary Shares,0.00%,267.2K,$721.4K
+RPT,Rithm Property Trust Inc,0.00%,1.3M,$3.4M
+GEG,Great Elm Group Inc,0.00%,605.6K,$1.4M
+GLDD,Great Lakes Dredge & Dock Corp,0.00%,2.0M,$23.0M
+GSBC,Great Southern Bancorp Inc,0.00%,305.1K,$19.3M
+GRBK,Green Brick Partners Inc,0.00%,975.0K,$68.1M
+GDOT,Green Dot Corp Class A,0.00%,1.6M,$22.3M
+GPRE,Green Plains Inc,0.00%,2.0M,$21.7M
+GBX,Greenbrier Companies Inc,0.00%,936.0K,$43.6M
+GCBC,Greene County Bancorp Inc,0.00%,206.2K,$4.9M
+GLSI,Greenwich LifeSciences Inc Ordinary Shar...,0.00%,150.2K,$1.7M
+GEF,Greif Inc Class A,0.00%,845.9K,$55.2M
+GDYN,Grid Dynamics Holdings Inc Ordinary Shar...,0.00%,2.0M,$16.5M
+GHM,Graham Corp,0.00%,296.1K,$14.5M
+GRPN,Groupon Inc,0.00%,749.3K,$19.6M
+GROV,Grove Collaborative Holdings Inc Class A,0.00%,683.2K,$1.0M
+GRWG,GrowGeneration Corp,0.00%,1.7M,$2.9M
+--,Guaranty Bancshares Inc,0.00%,248.8K,$12.2M
+ORGO,Organogenesis Holdings Inc Class A,0.00%,1.9M,$10.0M
+OBK,Origin Bancorp Inc,0.00%,931.0K,$36.2M
+ORGN,Origin Materials Inc Shs,0.00%,3.3M,$1.8M
+BARK,BARK Inc Ordinary Shares - Class A,0.00%,4.0M,$3.6M
+ORIC,ORIC Pharmaceuticals Inc,0.00%,1.9M,$19.4M
+OGN,Organon & Co Ordinary Shares,0.00%,8.1M,$76.5M
+OESX,Orion Energy Systems Inc,0.00%,77.9K,$568.7K
+ORN,Orion Group Holdings Inc,0.00%,1.1M,$8.4M
+ONL,Orion Properties Inc,0.00%,1.8M,$5.3M
+OABI,OmniAb Inc,0.00%,2.6M,$4.1M
+IMDX,Insight Molecular Diagnostics Inc,0.00%,186.6K,$470.3K
+OPHC,OptimumBank Holdings Inc,0.00%,237.9K,$1.0M
+OPRX,OptimizeRx Corp,0.00%,495.8K,$9.0M
+OUST,Ouster Inc Ordinary Shares - Class A,0.00%,1.4M,$40.4M
+TEAD,Teads Holding Co,0.00%,1.3M,$2.3M
+OUT,Outfront Media Inc,0.00%,4.4M,$82.0M
+ORRF,Orrstown Financial Services Inc,0.00%,572.1K,$19.9M
+KIDS,OrthoPediatrics Corp,0.00%,491.1K,$10.5M
+OFIX,Orthofix Medical Inc,0.00%,1.2M,$17.4M
+ORKA,Oruka Therapeutics Inc,0.00%,1.1M,$15.7M
+OMI,Owens & Minor Inc,0.00%,2.3M,$11.4M
+OSBC,Old Second Bancorp Inc,0.00%,1.3M,$24.8M
+OLMA,Olema Pharmaceuticals inc Ordinary Share...,0.00%,2.0M,$10.7M
+OPBK,OP Bancorp,0.00%,418.5K,$6.1M
+OVLY,Oak Valley Bancorp,0.00%,235.0K,$6.7M
+OFG,OFG Bancorp,0.00%,1.4M,$63.8M
+ONTF,ON24 Inc Ordinary Shares,0.00%,1.1M,$6.2M
+OOMA,Ooma Inc,0.00%,759.5K,$9.8M
+OPAL,OPAL Fuels Inc Ordinary Shares - Class A,0.00%,614.0K,$1.4M
+OPEN,Opendoor Technologies Inc Ordinary Share...,0.00%,19.4M,$86.3M
+LPRO,Open Lending Corp,0.00%,3.1M,$6.6M
+OPK,OPKO Health Inc,0.00%,12.1M,$16.7M
+OPRT,Oportun Financial Corp,0.00%,1.1M,$7.3M
+OPY,Oppenheimer Holdings Inc Class A,0.00%,285.4K,$20.7M
+OCC,Optical Cable Corp,0.00%,142.4K,$903.2K
+OPXS,Optex Systems Holdings Inc,0.00%,56.5K,$621.0K
+OPFI,OppFi Inc Ordinary Shares - Class A,0.00%,802.5K,$8.2M
+SIF,SIFCO Industries Inc,0.00%,26.5K,$187.7K
+SGHT,Sight Sciences Inc,0.00%,1.1M,$4.3M
+SIGA,SIGA Technologies Inc,0.00%,1.2M,$10.2M
+SHFS,SHF Holdings Inc Ordinary Shares - Class...,0.00%,25.8K,$59.3K
+SCLX,Scilex Holding Co,0.00%,158.9K,$2.8M
+SMG,The Scotts Miracle Gro Co Class A,0.00%,1.4M,$83.4M
+SCPH,scPharmaceuticals Inc,0.00%,1.1M,$6.1M
+SSP,The E W Scripps Co Class A,0.00%,2.2M,$6.4M
+SCYX,SCYNEXIS Inc,0.00%,1.1M,$951.4K
+SEB,Seaboard Corp,0.00%,7.4K,$29.6M
+SBCF,Seacoast Banking Corp of Florida,0.00%,2.7M,$84.3M
+SEG,Seaport Entertainment Group Inc,0.00%,233.6K,$5.8M
+PRKS,United Parks & Resorts Inc,0.00%,860.2K,$45.2M
+SNFCA,Security National Financial Corp Class A,0.00%,480.6K,$4.3M
+SEER,Seer Inc Ordinary Shares - Class A,0.00%,1.5M,$3.2M
+WTTR,Select Water Solutions Inc Class A,0.00%,3.2M,$26.9M
+SEM,Select Medical Holdings Corp,0.00%,3.5M,$45.3M
+RNAC,Cartesian Therapeutics Inc,0.00%,281.8K,$2.8M
+WGS,GeneDx Holdings Corp Ordinary Shares - C...,0.00%,589.2K,$76.3M
+SMLR,Semler Scientific Inc,0.00%,386.8K,$11.5M
+SEMR,SEMrush Holdings Inc Ordinary Shares - C...,0.00%,1.5M,$12.2M
+SENEA,Seneca Foods Corp Class A,0.00%,153.0K,$17.3M
+MATV,Mativ Holdings Inc,0.00%,1.6M,$20.3M
+SEPN,Septerna Inc,0.00%,973.6K,$11.8M
+SERA,Sera Prognostics Inc Class A,0.00%,744.4K,$2.4M
+MCRB,Seres Therapeutics Inc,0.00%,188.7K,$3.6M
+SER,Serina Therapeutics Inc,0.00%,125.8K,$669.3K
+--,Serina Therapeutics ([Wts/Rts]),0.00%,7.3K,$0.0
+SRG,Seritage Growth Properties Class A,0.00%,1.1M,$3.9M
+STTK,Shattuck Labs Inc Ordinary Shares,0.00%,1.3M,$1.3M
+SHEN,Shenandoah Telecommunications Co,0.00%,1.6M,$21.5M
+NTRB,Nutriband Inc,0.00%,122.6K,$792.5K
+--,Nutriband Inc,0.00%,30.6K,$0.0
+OI,O-I Glass Inc,0.00%,4.9M,$63.8M
+NUTX,Nutex Health Inc,0.00%,106.1K,$8.9M
+NRIX,Nurix Therapeutics Inc Ordinary Shares,0.00%,2.4M,$22.6M
+NUVB,Nuvation Bio Inc Ordinary Shares - Class...,0.00%,8.8M,$26.0M
+NVCT,Nuvectis Pharma Inc,0.00%,357.6K,$2.3M

@@ -1,0 +1,508 @@
+Symbol,Description,Portfolio Weight,Shares Held,Market Value
+NVDA,NVIDIA Corp,7.76%,609.2M,$106.1B
+MSFT,Microsoft Corp,6.88%,185.7M,$94.1B
+AAPL,Apple Inc,6.33%,373.1M,$86.6B
+AMZN,Amazon.com Inc,3.95%,236.0M,$54.1B
+META,Meta Platforms Inc Class A,2.93%,54.2M,$40.1B
+AVGO,Broadcom Inc,2.55%,117.5M,$34.9B
+GOOGL,Alphabet Inc Class A,2.26%,145.4M,$31.0B
+GOOG,Alphabet Inc Class C,1.83%,117.3M,$25.0B
+TSLA,Tesla Inc,1.71%,70.0M,$23.4B
+BRK/B,Berkshire Hathaway Inc Class B,1.68%,45.8M,$23.0B
+JPM,JPMorgan Chase & Co,1.48%,67.0M,$20.2B
+V,Visa Inc Class A,1.09%,42.2M,$14.9B
+LLY,Eli Lilly and Co,1.05%,19.7M,$14.4B
+NFLX,Netflix Inc,0.94%,10.6M,$12.8B
+XOM,Exxon Mobil Corp,0.90%,107.7M,$12.3B
+MA,Mastercard Inc Class A,0.88%,20.3M,$12.1B
+JNJ,Johnson & Johnson,0.78%,60.1M,$10.6B
+WMT,Walmart Inc,0.77%,107.9M,$10.5B
+COST,Costco Wholesale Corp,0.76%,11.1M,$10.5B
+HD,The Home Depot Inc,0.74%,24.8M,$10.1B
+ABBV,AbbVie Inc,0.68%,44.1M,$9.3B
+ORCL,Oracle Corp,0.67%,40.6M,$9.2B
+PG,Procter & Gamble Co,0.67%,58.6M,$9.2B
+PLTR,Palantir Technologies Inc Ordinary Share...,0.61%,53.1M,$8.3B
+BAC,Bank of America Corp,0.56%,152.1M,$7.7B
+CVX,Chevron Corp,0.56%,47.9M,$7.7B
+GE,GE Aerospace,0.54%,26.6M,$7.3B
+UNH,UnitedHealth Group Inc,0.51%,22.7M,$7.0B
+CSCO,Cisco Systems Inc,0.50%,99.4M,$6.9B
+KO,Coca-Cola Co,0.49%,96.8M,$6.7B
+WFC,Wells Fargo & Co,0.49%,81.3M,$6.7B
+AMD,Advanced Micro Devices Inc,0.48%,40.5M,$6.6B
+PM,Philip Morris International Inc,0.47%,38.9M,$6.5B
+CRM,Salesforce Inc,0.45%,24.0M,$6.1B
+ABT,Abbott Laboratories,0.42%,43.5M,$5.8B
+IBM,International Business Machines Corp,0.41%,23.2M,$5.7B
+MCD,McDonald's Corp,0.41%,17.9M,$5.6B
+LIN,Linde PLC,0.41%,11.8M,$5.6B
+MRK,Merck & Co Inc,0.39%,62.7M,$5.3B
+RTX,RTX Corp,0.39%,33.4M,$5.3B
+GS,The Goldman Sachs Group Inc,0.39%,7.3M,$5.4B
+DIS,The Walt Disney Co,0.39%,44.9M,$5.3B
+T,AT&T Inc,0.38%,179.8M,$5.3B
+PEP,PepsiCo Inc,0.37%,34.3M,$5.1B
+UBER,Uber Technologies Inc,0.36%,52.2M,$4.9B
+CAT,Caterpillar Inc,0.36%,11.7M,$4.9B
+NOW,ServiceNow Inc,0.35%,5.2M,$4.7B
+MS,Morgan Stanley,0.34%,30.9M,$4.6B
+TXN,Texas Instruments Inc,0.34%,22.7M,$4.6B
+TMO,Thermo Fisher Scientific Inc,0.34%,9.4M,$4.6B
+VZ,Verizon Communications Inc,0.34%,105.3M,$4.7B
+INTU,Intuit Inc,0.34%,7.0M,$4.7B
+AXP,American Express Co,0.33%,13.8M,$4.6B
+BKNG,Booking Holdings Inc,0.33%,812.9K,$4.6B
+BA,Boeing Co,0.32%,18.8M,$4.4B
+QCOM,Qualcomm Inc,0.32%,27.4M,$4.4B
+SPGI,S&P Global Inc,0.31%,7.8M,$4.3B
+ISRG,Intuitive Surgical Inc,0.31%,9.0M,$4.2B
+GEV,GE Vernova Inc,0.31%,6.8M,$4.2B
+C,Citigroup Inc,0.30%,42.1M,$4.1B
+BLK,BlackRock Inc,0.30%,3.6M,$4.1B
+SCHW,Charles Schwab Corp,0.30%,42.7M,$4.1B
+ACN,Accenture PLC Class A,0.30%,15.6M,$4.1B
+TJX,TJX Companies Inc,0.28%,27.9M,$3.8B
+BSX,Boston Scientific Corp,0.28%,37.0M,$3.9B
+AMGN,Amgen Inc,0.28%,13.4M,$3.9B
+ADBE,Adobe Inc,0.28%,10.6M,$3.8B
+COF,Capital One Financial Corp,0.27%,16.0M,$3.6B
+NEE,NextEra Energy Inc,0.27%,51.4M,$3.7B
+PFE,Pfizer Inc,0.26%,142.0M,$3.5B
+PGR,Progressive Corp,0.26%,14.6M,$3.6B
+ANET,Arista Networks Inc,0.26%,25.7M,$3.5B
+GILD,Gilead Sciences Inc,0.26%,31.1M,$3.5B
+HON,Honeywell International Inc,0.26%,16.1M,$3.5B
+LOW,Lowe's Companies Inc,0.26%,14.0M,$3.6B
+SYK,Stryker Corp,0.25%,8.6M,$3.4B
+ETN,Eaton Corp PLC,0.25%,9.8M,$3.4B
+UNP,Union Pacific Corp,0.24%,14.9M,$3.3B
+MU,Micron Technology Inc,0.24%,27.9M,$3.3B
+AMAT,Applied Materials Inc,0.24%,20.3M,$3.3B
+APH,Amphenol Corp Class A,0.24%,30.2M,$3.3B
+DHR,Danaher Corp,0.24%,15.9M,$3.3B
+CMCSA,Comcast Corp Class A,0.23%,93.0M,$3.2B
+COP,ConocoPhillips,0.23%,31.5M,$3.1B
+ADI,Analog Devices Inc,0.23%,12.4M,$3.1B
+ADP,Automatic Data Processing Inc,0.23%,10.1M,$3.1B
+BX,Blackstone Inc,0.23%,18.2M,$3.1B
+LRCX,Lam Research Corp,0.23%,32.0M,$3.2B
+PANW,Palo Alto Networks Inc,0.23%,16.5M,$3.2B
+TMUS,T-Mobile US Inc,0.22%,11.9M,$3.0B
+MDT,Medtronic PLC,0.22%,32.0M,$3.0B
+DE,Deere & Co,0.22%,6.3M,$3.0B
+MO,Altria Group Inc,0.21%,42.1M,$2.8B
+KLAC,KLA Corp,0.21%,3.3M,$2.9B
+SNPS,Synopsys Inc,0.20%,4.6M,$2.8B
+SO,Southern Co,0.19%,27.5M,$2.5B
+PLD,Prologis Inc,0.19%,23.2M,$2.6B
+MMC,Marsh & McLennan Companies Inc,0.19%,12.3M,$2.5B
+WELL,Welltower Inc,0.19%,15.5M,$2.6B
+CB,Chubb Ltd,0.19%,9.3M,$2.6B
+INTC,Intel Corp,0.19%,109.0M,$2.7B
+CRWD,CrowdStrike Holdings Inc Class A,0.19%,6.2M,$2.6B
+CEG,Constellation Energy Corp,0.18%,7.8M,$2.4B
+CME,CME Group Inc Class A,0.18%,9.0M,$2.4B
+BMY,Bristol-Myers Squibb Co,0.18%,50.8M,$2.4B
+ICE,Intercontinental Exchange Inc,0.18%,14.3M,$2.5B
+VRTX,Vertex Pharmaceuticals Inc,0.18%,6.4M,$2.5B
+PH,Parker Hannifin Corp,0.18%,3.2M,$2.4B
+SBUX,Starbucks Corp,0.18%,28.4M,$2.5B
+NKE,Nike Inc Class B,0.17%,29.4M,$2.3B
+TT,Trane Technologies PLC Class A,0.17%,5.6M,$2.3B
+RCL,Royal Caribbean Group,0.17%,6.2M,$2.3B
+KKR,KKR & Co Inc Ordinary Shares,0.17%,16.9M,$2.4B
+LMT,Lockheed Martin Corp,0.17%,5.2M,$2.4B
+DUK,Duke Energy Corp,0.17%,19.4M,$2.4B
+AMT,American Tower Corp,0.17%,11.7M,$2.4B
+--,Mktliq 12/31/2049,0.17%,2.3B,$2.3B
+CVS,CVS Health Corp,0.17%,31.6M,$2.3B
+CDNS,Cadence Design Systems Inc,0.17%,6.8M,$2.4B
+ORLY,O'Reilly Automotive Inc,0.16%,21.4M,$2.2B
+MCK,McKesson Corp,0.16%,3.1M,$2.1B
+MDLZ,Mondelez International Inc Class A,0.15%,32.3M,$2.0B
+NEM,Newmont Corp,0.15%,27.8M,$2.1B
+NOC,Northrop Grumman Corp,0.15%,3.4M,$2.0B
+PNC,PNC Financial Services Group Inc,0.15%,9.9M,$2.0B
+SHW,Sherwin-Williams Co,0.15%,5.8M,$2.1B
+WM,Waste Management Inc,0.15%,9.1M,$2.1B
+MMM,3M Co,0.15%,13.4M,$2.1B
+CI,The Cigna Group,0.15%,6.7M,$2.0B
+DASH,DoorDash Inc Ordinary Shares - Class A,0.15%,8.6M,$2.1B
+GD,General Dynamics Corp,0.15%,6.3M,$2.0B
+AJG,Arthur J. Gallagher & Co,0.14%,6.4M,$1.9B
+FI,Fiserv Inc,0.14%,13.9M,$1.9B
+EMR,Emerson Electric Co,0.14%,14.1M,$1.9B
+EQIX,Equinix Inc,0.14%,2.4M,$1.9B
+BK,Bank of New York Mellon Corp,0.14%,17.9M,$1.9B
+TDG,TransDigm Group Inc,0.14%,1.4M,$2.0B
+USB,U.S. Bancorp,0.14%,38.9M,$1.9B
+AON,Aon PLC Class A,0.14%,5.4M,$2.0B
+MCO,Moodys Corp,0.14%,3.9M,$2.0B
+MSI,Motorola Solutions Inc,0.14%,4.2M,$2.0B
+ZTS,Zoetis Inc Class A,0.13%,11.1M,$1.7B
+JCI,Johnson Controls International PLC Regis...,0.13%,16.4M,$1.8B
+WMB,Williams Companies Inc,0.13%,30.5M,$1.8B
+AZO,AutoZone Inc,0.13%,417.9K,$1.8B
+ELV,Elevance Health Inc,0.13%,5.6M,$1.8B
+CTAS,Cintas Corp,0.13%,8.6M,$1.8B
+ECL,Ecolab Inc,0.13%,6.3M,$1.7B
+ITW,Illinois Tool Works Inc,0.13%,6.7M,$1.8B
+HWM,Howmet Aerospace Inc,0.13%,10.1M,$1.8B
+HCA,HCA Healthcare Inc,0.13%,4.3M,$1.7B
+HLT,Hilton Worldwide Holdings Inc,0.12%,5.9M,$1.6B
+EOG,EOG Resources Inc,0.12%,13.6M,$1.7B
+FCX,Freeport-McMoRan Inc,0.12%,35.9M,$1.6B
+COIN,Coinbase Global Inc Ordinary Shares - Cl...,0.12%,5.3M,$1.6B
+CL,Colgate-Palmolive Co,0.12%,20.2M,$1.7B
+APD,Air Products and Chemicals Inc,0.12%,5.6M,$1.6B
+ADSK,Autodesk Inc,0.12%,5.3M,$1.7B
+UPS,United Parcel Service Inc Class B,0.12%,18.3M,$1.6B
+VST,Vistra Corp,0.12%,8.5M,$1.6B
+NSC,Norfolk Southern Corp,0.12%,5.6M,$1.6B
+PYPL,PayPal Holdings Inc,0.12%,24.3M,$1.7B
+REGN,Regeneron Pharmaceuticals Inc,0.11%,2.6M,$1.5B
+MAR,Marriott International Inc Class A,0.11%,5.7M,$1.5B
+URI,United Rentals Inc,0.11%,1.6M,$1.6B
+TFC,Truist Financial Corp,0.11%,32.7M,$1.5B
+TRV,The Travelers Companies Inc,0.11%,5.7M,$1.5B
+TEL,TE Connectivity PLC Registered Shares,0.11%,7.4M,$1.5B
+NXPI,NXP Semiconductors NV,0.11%,6.3M,$1.5B
+AEP,American Electric Power Co Inc,0.11%,13.3M,$1.5B
+APO,"Apollo Asset Management, Inc. Ordinary S...",0.11%,11.3M,$1.5B
+CSX,CSX Corp,0.11%,46.9M,$1.5B
+CMG,Chipotle Mexican Grill Inc,0.10%,33.7M,$1.4B
+CMI,Cummins Inc,0.10%,3.4M,$1.4B
+AXON,Axon Enterprise Inc,0.10%,1.8M,$1.4B
+BDX,Becton Dickinson & Co,0.10%,7.2M,$1.4B
+ALL,Allstate Corp,0.10%,6.6M,$1.3B
+ABNB,Airbnb Inc Ordinary Shares - Class A,0.10%,10.8M,$1.4B
+GM,General Motors Co,0.10%,24.0M,$1.4B
+FAST,Fastenal Co,0.10%,28.7M,$1.4B
+DLR,Digital Realty Trust Inc,0.10%,7.9M,$1.3B
+IDXX,IDEXX Laboratories Inc,0.10%,2.0M,$1.3B
+KMI,Kinder Morgan Inc Class P,0.10%,48.3M,$1.3B
+MPC,Marathon Petroleum Corp,0.10%,7.7M,$1.4B
+PCAR,PACCAR Inc,0.10%,13.1M,$1.3B
+ROP,Roper Technologies Inc,0.10%,2.7M,$1.4B
+O,Realty Income Corp,0.10%,22.6M,$1.3B
+PWR,Quanta Services Inc,0.10%,3.7M,$1.4B
+PSX,Phillips 66,0.10%,10.2M,$1.4B
+SPG,Simon Property Group Inc,0.10%,7.7M,$1.4B
+SRE,Sempra,0.10%,16.3M,$1.3B
+SLB,SLB,0.10%,37.5M,$1.4B
+OKE,ONEOK Inc,0.09%,15.6M,$1.2B
+ROST,Ross Stores Inc,0.09%,8.2M,$1.2B
+RSG,Republic Services Inc,0.09%,5.1M,$1.2B
+VLO,Valero Energy Corp,0.09%,7.8M,$1.2B
+WDAY,Workday Inc Class A,0.09%,5.4M,$1.2B
+LHX,L3Harris Technologies Inc,0.09%,4.7M,$1.3B
+D,Dominion Energy Inc,0.09%,21.3M,$1.3B
+EW,Edwards Lifesciences Corp,0.09%,14.7M,$1.2B
+FDX,FedEx Corp,0.09%,5.5M,$1.3B
+FTNT,Fortinet Inc,0.09%,15.9M,$1.2B
+AIG,American International Group Inc,0.09%,14.4M,$1.2B
+AFL,Aflac Inc,0.09%,12.2M,$1.3B
+COR,Cencora Inc,0.09%,4.3M,$1.3B
+AMP,Ameriprise Financial Inc,0.09%,2.4M,$1.2B
+DHI,D.R. Horton Inc,0.09%,6.9M,$1.2B
+CTVA,Corteva Inc,0.09%,17.0M,$1.3B
+CARR,Carrier Global Corp Ordinary Shares,0.09%,19.9M,$1.3B
+GLW,Corning Inc,0.09%,19.3M,$1.3B
+CBRE,CBRE Group Inc Class A,0.09%,7.3M,$1.2B
+CPRT,Copart Inc,0.08%,22.0M,$1.1B
+DDOG,Datadog Inc Class A,0.08%,8.0M,$1.1B
+CCI,Crown Castle Inc,0.08%,10.9M,$1.1B
+AME,AMETEK Inc,0.08%,5.8M,$1.1B
+BKR,Baker Hughes Co Class A,0.08%,24.8M,$1.1B
+F,Ford Motor Co,0.08%,97.6M,$1.1B
+GWW,W.W. Grainger Inc,0.08%,1.1M,$1.1B
+EXC,Exelon Corp,0.08%,25.2M,$1.1B
+EBAY,eBay Inc,0.08%,11.5M,$1.0B
+KMB,Kimberly-Clark Corp,0.08%,8.3M,$1.1B
+XEL,Xcel Energy Inc,0.08%,14.4M,$1.0B
+PSA,Public Storage,0.08%,3.9M,$1.2B
+TGT,Target Corp,0.08%,11.4M,$1.1B
+XYZ,Block Inc Class A,0.08%,13.9M,$1.1B
+PAYX,Paychex Inc,0.08%,8.0M,$1.1B
+MET,MetLife Inc,0.08%,14.1M,$1.1B
+MSCI,MSCI Inc,0.08%,1.9M,$1.1B
+MNST,Monster Beverage Corp,0.08%,17.5M,$1.1B
+MPWR,Monolithic Power Systems Inc,0.07%,1.2M,$999.7M
+MLM,Martin Marietta Materials Inc,0.07%,1.5M,$928.1M
+NDAQ,Nasdaq Inc,0.07%,10.3M,$978.4M
+TRGP,Targa Resources Corp,0.07%,5.4M,$909.2M
+TTWO,Take-Two Interactive Software Inc,0.07%,4.2M,$987.3M
+SYY,Sysco Corp,0.07%,12.1M,$974.4M
+PRU,Prudential Financial Inc,0.07%,8.8M,$969.9M
+PEG,Public Service Enterprise Group Inc,0.07%,12.5M,$1.0B
+RMD,ResMed Inc,0.07%,3.7M,$1.0B
+ROK,Rockwell Automation Inc,0.07%,2.8M,$966.8M
+YUM,Yum Brands Inc,0.07%,6.9M,$1.0B
+VMC,Vulcan Materials Co,0.07%,3.3M,$960.9M
+VRSK,Verisk Analytics Inc,0.07%,3.5M,$937.1M
+GRMN,Garmin Ltd,0.07%,3.8M,$930.6M
+KVUE,Kenvue Inc,0.07%,48.0M,$993.4M
+KDP,Keurig Dr Pepper Inc,0.07%,33.9M,$987.0M
+KR,The Kroger Co,0.07%,14.3M,$970.2M
+HUM,Humana Inc,0.07%,3.0M,$915.6M
+HIG,The Hartford Insurance Group Inc,0.07%,7.1M,$939.1M
+EA,Electronic Arts Inc,0.07%,5.7M,$980.2M
+ETR,Entergy Corp,0.07%,11.1M,$981.9M
+FICO,Fair Isaac Corp,0.07%,608.0K,$925.1M
+FIS,Fidelity National Information Services I...,0.07%,13.1M,$916.2M
+A,Agilent Technologies Inc,0.07%,7.1M,$895.1M
+CSGP,CoStar Group Inc,0.07%,10.5M,$943.1M
+DELL,Dell Technologies Inc Ordinary Shares - ...,0.07%,7.5M,$914.2M
+DAL,Delta Air Lines Inc,0.07%,16.3M,$1.0B
+CTSH,Cognizant Technology Solutions Corp Clas...,0.07%,12.3M,$889.8M
+ED,Consolidated Edison Inc,0.06%,9.0M,$884.2M
+CCL,Carnival Corp,0.06%,26.2M,$836.5M
+CAH,Cardinal Health Inc,0.06%,6.0M,$887.1M
+FITB,Fifth Third Bancorp,0.06%,16.7M,$763.2M
+GEHC,GE HealthCare Technologies Inc Common St...,0.06%,11.4M,$843.5M
+EXR,Extra Space Storage Inc,0.06%,5.3M,$761.1M
+EFX,Equifax Inc,0.06%,3.1M,$764.2M
+EQT,EQT Corp,0.06%,15.0M,$775.4M
+DD,DuPont de Nemours Inc,0.06%,10.5M,$804.1M
+IR,Ingersoll Rand Inc,0.06%,10.1M,$800.5M
+LEN,Lennar Corp Class A,0.06%,5.8M,$772.3M
+IQV,IQVIA Holdings Inc,0.06%,4.1M,$783.2M
+WTW,Willis Towers Watson PLC,0.06%,2.5M,$809.5M
+STX,Seagate Technology Holdings PLC,0.06%,5.3M,$887.6M
+WEC,WEC Energy Group Inc,0.06%,8.0M,$849.1M
+WAB,Westinghouse Air Brake Technologies Corp,0.06%,4.3M,$827.4M
+VTR,Ventas Inc,0.06%,11.3M,$767.7M
+UAL,United Airlines Holdings Inc,0.06%,8.2M,$856.6M
+TSCO,Tractor Supply Co,0.06%,13.2M,$818.0M
+VICI,VICI Properties Inc Ordinary Shares,0.06%,24.1M,$813.4M
+ACGL,Arch Capital Group Ltd,0.06%,9.3M,$853.5M
+XYL,Xylem Inc,0.06%,6.1M,$860.8M
+RJF,Raymond James Financial Inc,0.06%,4.5M,$768.6M
+STT,State Street Corp,0.06%,7.1M,$819.1M
+OXY,Occidental Petroleum Corp,0.06%,17.7M,$842.9M
+OTIS,Otis Worldwide Corp Ordinary Shares,0.06%,9.9M,$851.8M
+PCG,PG&E Corp,0.06%,54.9M,$838.9M
+NUE,Nucor Corp,0.06%,5.8M,$857.2M
+MTB,M&T Bank Corp,0.06%,4.0M,$808.4M
+MCHP,Microchip Technology Inc,0.06%,13.4M,$873.5M
+NRG,NRG Energy Inc,0.05%,4.9M,$710.9M
+MTD,Mettler-Toledo International Inc,0.05%,519.1K,$675.3M
+PPG,PPG Industries Inc,0.05%,5.7M,$630.7M
+PPL,PPL Corp,0.05%,18.5M,$673.5M
+PTC,PTC Inc,0.05%,3.0M,$639.5M
+ODFL,Old Dominion Freight Line Inc Ordinary S...,0.05%,4.6M,$701.5M
+NTRS,Northern Trust Corp,0.05%,4.9M,$638.0M
+SYF,Synchrony Financial,0.05%,9.5M,$726.0M
+TDY,Teledyne Technologies Inc,0.05%,1.2M,$630.0M
+PHM,PulteGroup Inc,0.05%,5.0M,$661.0M
+WDC,Western Digital Corp,0.05%,8.7M,$700.2M
+WBD,Warner Bros. Discovery Inc Ordinary Shar...,0.05%,56.2M,$654.7M
+VLTO,Veralto Corp,0.05%,6.2M,$657.6M
+IRM,Iron Mountain Inc,0.05%,7.4M,$680.3M
+KEYS,Keysight Technologies Inc,0.05%,4.3M,$705.6M
+LYV,Live Nation Entertainment Inc,0.05%,3.9M,$655.6M
+HBAN,Huntington Bancshares Inc,0.05%,36.4M,$648.2M
+IBKR,Interactive Brokers Group Inc Class A,0.05%,10.9M,$677.6M
+IP,International Paper Co,0.05%,13.2M,$655.2M
+HPQ,HP Inc,0.05%,23.6M,$672.1M
+HSY,The Hershey Co,0.05%,3.7M,$679.4M
+HPE,Hewlett Packard Enterprise Co,0.05%,32.8M,$740.6M
+DXCM,DexCom Inc,0.05%,9.8M,$738.1M
+FANG,Diamondback Energy Inc,0.05%,4.7M,$694.9M
+EXPE,Expedia Group Inc,0.05%,3.0M,$652.5M
+GIS,General Mills Inc,0.05%,13.7M,$674.8M
+CHTR,Charter Communications Inc Class A,0.05%,2.4M,$633.3M
+CBOE,Cboe Global Markets Inc,0.05%,2.6M,$617.3M
+STZ,Constellation Brands Inc Class A,0.05%,3.8M,$619.1M
+DTE,DTE Energy Co,0.05%,5.2M,$708.5M
+AWK,American Water Works Co Inc,0.05%,4.9M,$699.2M
+AEE,Ameren Corp,0.05%,6.8M,$673.8M
+ATO,Atmos Energy Corp,0.05%,4.0M,$659.2M
+AVB,AvalonBay Communities Inc,0.05%,3.6M,$695.5M
+ADM,Archer-Daniels-Midland Co,0.05%,12.0M,$751.9M
+BR,Broadridge Financial Solutions Inc,0.05%,2.9M,$750.1M
+BRO,Brown & Brown Inc,0.05%,7.0M,$678.6M
+WRB,WR Berkley Corp,0.04%,7.5M,$536.8M
+BIIB,Biogen Inc,0.04%,3.7M,$484.0M
+DRI,Darden Restaurants Inc,0.04%,2.9M,$605.0M
+DVN,Devon Energy Corp,0.04%,16.0M,$579.1M
+CPAY,Corpay Inc,0.04%,1.8M,$573.6M
+CFG,Citizens Financial Group Inc,0.04%,10.8M,$566.3M
+CDW,CDW Corp,0.04%,3.3M,$542.0M
+CMS,CMS Energy Corp,0.04%,7.5M,$534.8M
+EXE,Expand Energy Corp Ordinary Shares - New,0.04%,5.4M,$523.6M
+CHD,Church & Dwight Co Inc,0.04%,6.2M,$573.2M
+CINF,Cincinnati Financial Corp,0.04%,3.9M,$599.8M
+CNP,CenterPoint Energy Inc,0.04%,16.3M,$615.0M
+IT,Gartner Inc,0.04%,1.9M,$483.0M
+GDDY,GoDaddy Inc Class A,0.04%,3.6M,$527.8M
+GPC,Genuine Parts Co,0.04%,3.5M,$483.2M
+FSLR,First Solar Inc,0.04%,2.7M,$523.0M
+FE,FirstEnergy Corp,0.04%,12.8M,$559.8M
+ES,Eversource Energy,0.04%,9.2M,$588.0M
+EQR,Equity Residential,0.04%,8.5M,$564.8M
+DG,Dollar General Corp,0.04%,5.5M,$597.6M
+DLTR,Dollar Tree Inc,0.04%,4.9M,$538.6M
+DOV,Dover Corp,0.04%,3.4M,$612.6M
+EIX,Edison International,0.04%,9.6M,$539.5M
+HAL,Halliburton Co,0.04%,21.5M,$488.2M
+HUBB,Hubbell Inc,0.04%,1.3M,$574.7M
+PODD,Insulet Corp,0.04%,1.8M,$597.6M
+LULU,Lululemon Athletica Inc,0.04%,2.8M,$558.4M
+LH,Labcorp Holdings Inc,0.04%,2.1M,$581.3M
+LVS,Las Vegas Sands Corp,0.04%,8.5M,$488.3M
+EL,The Estee Lauder Companies Inc Class A,0.04%,5.9M,$536.6M
+LDOS,Leidos Holdings Inc,0.04%,3.2M,$581.8M
+KHC,The Kraft Heinz Co,0.04%,21.6M,$603.7M
+JBL,Jabil Inc,0.04%,2.7M,$549.3M
+K,Kellanova,0.04%,6.7M,$534.0M
+VRSN,VeriSign Inc,0.04%,2.1M,$574.0M
+TRMB,Trimble Inc,0.04%,6.0M,$481.7M
+TYL,Tyler Technologies Inc,0.04%,1.1M,$606.4M
+TTD,The Trade Desk Inc Class A,0.04%,11.2M,$611.9M
+ULTA,Ulta Beauty Inc,0.04%,1.1M,$555.7M
+WSM,Williams-Sonoma Inc,0.04%,3.1M,$578.1M
+ZBH,Zimmer Biomet Holdings Inc,0.04%,4.9M,$524.4M
+AMCR,Amcor PLC Ordinary Shares,0.04%,57.2M,$493.9M
+SW,Smurfit WestRock PLC,0.04%,12.4M,$586.7M
+STE,Steris PLC,0.04%,2.5M,$601.5M
+TROW,T. Rowe Price Group Inc,0.04%,5.5M,$592.3M
+DGX,Quest Diagnostics Inc,0.04%,2.8M,$506.7M
+RF,Regions Financial Corp,0.04%,22.5M,$615.1M
+TPR,Tapestry Inc,0.04%,5.2M,$528.3M
+SMCI,Super Micro Computer Inc,0.04%,12.8M,$532.7M
+SBAC,SBA Communications Corp Class A,0.04%,2.7M,$549.9M
+NTAP,NetApp Inc,0.04%,4.9M,$555.2M
+NI,NiSource Inc,0.04%,11.8M,$497.0M
+ON,ON Semiconductor Corp,0.04%,10.4M,$517.7M
+PKG,Packaging Corp of America,0.04%,2.2M,$486.5M
+NVR,NVR Inc,0.04%,73.0K,$592.7M
+MAA,Mid-America Apartment Communities Inc,0.03%,2.9M,$426.4M
+MKC,McCormick & Co Inc Ordinary Shares (Non ...,0.03%,6.3M,$444.2M
+MAS,Masco Corp,0.03%,5.3M,$386.8M
+GEN,Gen Digital Inc,0.03%,13.6M,$411.8M
+OMC,Omnicom Group Inc,0.03%,4.9M,$381.8M
+LUV,Southwest Airlines Co,0.03%,14.2M,$468.3M
+SNA,Snap-on Inc,0.03%,1.3M,$424.6M
+STLD,Steel Dynamics Inc,0.03%,3.4M,$451.6M
+TER,Teradyne Inc,0.03%,4.0M,$473.7M
+ROL,Rollins Inc,0.03%,7.0M,$397.1M
+PFG,Principal Financial Group Inc,0.03%,5.2M,$414.9M
+PNR,Pentair PLC,0.03%,4.1M,$441.9M
+LYB,LyondellBasell Industries NV Class A,0.03%,6.4M,$362.0M
+EG,Everest Group Ltd,0.03%,1.1M,$363.1M
+APTV,Aptiv PLC,0.03%,5.4M,$432.6M
+ZBRA,Zebra Technologies Corp Ordinary Shares ...,0.03%,1.3M,$402.8M
+ALLE,Allegion PLC,0.03%,2.1M,$365.0M
+WY,Weyerhaeuser Co,0.03%,18.1M,$468.7M
+WAT,Waters Corp,0.03%,1.5M,$448.7M
+WST,West Pharmaceutical Services Inc,0.03%,1.8M,$443.4M
+TSN,Tyson Foods Inc Class A,0.03%,7.1M,$406.0M
+TPL,Texas Pacific Land Corp,0.03%,471.1K,$439.8M
+TXT,Textron Inc,0.03%,4.5M,$361.5M
+J,Jacobs Solutions Inc,0.03%,3.0M,$438.9M
+KIM,Kimco Realty Corp,0.03%,16.9M,$380.1M
+KEY,KeyCorp,0.03%,24.6M,$477.0M
+L,Loews Corp,0.03%,4.3M,$420.9M
+LII,Lennox International Inc,0.03%,797.7K,$445.0M
+INVH,Invitation Homes Inc,0.03%,14.2M,$445.6M
+IFF,International Flavors & Fragrances Inc,0.03%,6.4M,$431.4M
+HOLX,Hologic Inc,0.03%,5.6M,$373.7M
+DOW,Dow Inc,0.03%,17.7M,$434.9M
+DPZ,Domino's Pizza Inc,0.03%,855.7K,$392.1M
+ESS,Essex Property Trust Inc,0.03%,1.6M,$434.2M
+EVRG,Evergy Inc,0.03%,5.7M,$409.6M
+EXPD,Expeditors International of Washington I...,0.03%,3.4M,$412.4M
+FTV,Fortive Corp,0.03%,8.5M,$406.4M
+FFIV,F5 Inc,0.03%,1.4M,$449.2M
+FDS,FactSet Research Systems Inc,0.03%,947.3K,$353.6M
+GPN,Global Payments Inc,0.03%,4.7M,$419.5M
+CNC,Centene Corp,0.03%,12.4M,$361.0M
+CTRA,Coterra Energy Inc Ordinary Shares,0.03%,19.1M,$466.0M
+CF,CF Industries Holdings Inc,0.03%,4.0M,$350.6M
+CHRW,C.H. Robinson Worldwide Inc,0.03%,3.0M,$381.8M
+BLDR,Builders FirstSource Inc,0.03%,2.8M,$382.9M
+CLX,Clorox Co,0.03%,3.1M,$364.0M
+DECK,Deckers Outdoor Corp,0.03%,3.8M,$453.6M
+BBY,Best Buy Co Inc,0.03%,4.8M,$354.4M
+BALL,Ball Corp,0.03%,6.9M,$364.8M
+LNT,Alliant Energy Corp,0.03%,6.4M,$417.6M
+APA,APA Corp,0.02%,9.0M,$209.3M
+AKAM,Akamai Technologies Inc,0.02%,3.7M,$289.0M
+ALB,Albemarle Corp,0.02%,2.9M,$249.6M
+ARE,Alexandria Real Estate Equities Inc,0.02%,3.8M,$317.0M
+ALGN,Align Technology Inc,0.02%,1.7M,$241.6M
+AES,The AES Corp,0.02%,17.8M,$240.8M
+AVY,Avery Dennison Corp,0.02%,2.0M,$335.2M
+AIZ,Assurant Inc,0.02%,1.3M,$273.1M
+TECH,Bio-Techne Corp,0.02%,3.9M,$213.9M
+BAX,Baxter International Inc,0.02%,12.8M,$316.6M
+BXP,BXP Inc,0.02%,3.6M,$263.8M
+CAG,Conagra Brands Inc,0.02%,11.9M,$228.1M
+COO,The Cooper Companies Inc,0.02%,5.0M,$336.7M
+CPT,Camden Property Trust,0.02%,2.7M,$298.9M
+DAY,Dayforce Inc,0.02%,4.0M,$278.7M
+KMX,CarMax Inc,0.02%,3.8M,$233.5M
+GL,Globe Life Inc,0.02%,2.1M,$288.6M
+GNRC,Generac Holdings Inc,0.02%,1.5M,$273.4M
+FOXA,Fox Corp Class A,0.02%,5.4M,$321.2M
+ERIE,Erie Indemnity Co Class A,0.02%,622.5K,$220.6M
+EPAM,EPAM Systems Inc,0.02%,1.4M,$249.7M
+JBHT,JB Hunt Transport Services Inc,0.02%,2.0M,$283.9M
+HAS,Hasbro Inc,0.02%,3.3M,$267.1M
+DOC,Healthpeak Properties Inc,0.02%,17.4M,$311.4M
+JKHY,Jack Henry & Associates Inc,0.02%,1.8M,$297.0M
+IPG,The Interpublic Group of Companies Inc,0.02%,9.2M,$247.9M
+INCY,Incyte Corp,0.02%,4.0M,$339.5M
+HII,Huntington Ingalls Industries Inc,0.02%,980.1K,$265.4M
+IEX,IDEX Corp,0.02%,1.9M,$310.6M
+HST,Host Hotels & Resorts Inc,0.02%,17.3M,$298.3M
+LKQ,LKQ Corp,0.02%,6.4M,$210.4M
+UDR,UDR Inc,0.02%,7.5M,$298.0M
+UHS,Universal Health Services Inc Class B,0.02%,1.4M,$259.2M
+VTRS,Viatris Inc,0.02%,29.3M,$309.3M
+WYNN,Wynn Resorts Ltd,0.02%,2.2M,$278.7M
+IVZ,Invesco Ltd,0.02%,11.2M,$244.9M
+NCLH,Norwegian Cruise Line Holdings Ltd,0.02%,11.2M,$277.3M
+BG,Bunge Global SA,0.02%,3.4M,$282.8M
+RVTY,Revvity Inc,0.02%,2.9M,$265.3M
+PNW,Pinnacle West Capital Corp,0.02%,3.0M,$266.6M
+POOL,Pool Corp,0.02%,939.2K,$291.8M
+RL,Ralph Lauren Corp Class A,0.02%,996.3K,$295.8M
+REG,Regency Centers Corp,0.02%,4.1M,$295.9M
+TKO,TKO Group Holdings Inc,0.02%,1.7M,$317.5M
+SOLV,Solventum Corp,0.02%,3.7M,$268.5M
+SWK,Stanley Black & Decker Inc,0.02%,3.9M,$287.1M
+HSIC,Henry Schein Inc,0.02%,3.0M,$211.6M
+SWKS,Skyworks Solutions Inc,0.02%,3.8M,$281.0M
+AOS,A.O. Smith Corp,0.02%,2.9M,$206.9M
+SJM,JM Smucker Co,0.02%,2.7M,$293.8M
+NDSN,Nordson Corp,0.02%,1.3M,$303.8M
+NWSA,News Corp Class A,0.02%,9.6M,$282.7M
+PAYC,Paycom Software Inc,0.02%,1.2M,$276.6M
+MTCH,Match Group Inc Ordinary Shares - New,0.02%,6.1M,$228.7M
+MOH,Molina Healthcare Inc,0.02%,1.4M,$244.8M
+TAP,Molson Coors Beverage Co Shs -B- Non-Vot...,0.02%,4.3M,$216.0M
+MOS,The Mosaic Co,0.02%,7.9M,$264.5M
+MRNA,Moderna Inc,0.01%,8.5M,$204.8M
+MHK,Mohawk Industries Inc,0.01%,1.3M,$172.0M
+MGM,MGM Resorts International,0.01%,5.2M,$205.1M
+MKTX,MarketAxess Holdings Inc,0.01%,936.9K,$172.2M
+PSKY,Paramount Skydance Corp Ordinary Shares ...,0.01%,7.7M,$113.8M
+NWS,News Corp Class B,0.01%,2.6M,$88.4M
+LW,Lamb Weston Holdings Inc,0.01%,3.5M,$202.8M
+HRL,Hormel Foods Corp,0.01%,7.3M,$185.2M
+ENPH,Enphase Energy Inc,0.01%,3.3M,$123.5M
+EMN,Eastman Chemical Co,0.01%,2.9M,$202.9M
+FOX,Fox Corp Class B,0.01%,3.3M,$177.9M
+BEN,Franklin Resources Inc,0.01%,7.7M,$198.8M
+FRT,Federal Realty Investment Trust,0.01%,1.9M,$195.0M
+CRL,Charles River Laboratories International...,0.01%,1.2M,$200.4M
+CPB,The Campbell's Co,0.01%,4.9M,$156.8M
+CZR,Caesars Entertainment Inc,0.01%,5.2M,$139.1M
+DVA,DaVita Inc,0.01%,1.0M,$142.9M
+BF/B,Brown-Forman Corp Registered Shs -B- Non...,0.01%,4.5M,$136.0M
+--,Us Dollar,0.01%,83.0M,$83.0M
+--,Abiomed Inc-Cvr,0.00%,180.0,$184.0
+--,Slbbh1142,0.00%,56.1K,$5.6M
